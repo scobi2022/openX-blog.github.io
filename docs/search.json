@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
     "section": "",
-    "text": "This is the virtual Research Lab of the Information Management Research Group at the Berlin School of Library and Information Science, Humboldt-Universität zu Berlin. Further information about our work can be found on our official website: http://hu.berlin/infomgnt"
+    "text": "Welcome\n\n\n\nLab Life\n\n\nResearch\n\n\n\n\n\n\n\nHeinz Pampel\n\n\nMar 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy new post\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nMar 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nMar 24, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Virtual Research Lab of the Information Management Research Group at Humboldt-Universität zu Berlin",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Welcome\n\n\n\n\n\n\nLab Life\n\n\nResearch\n\n\n\n\n\n\n\n\n\nMar 25, 2024\n\n\nHeinz Pampel\n\n\n\n\n\n\n\n\n\n\n\n\nMy new post\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 25, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 24, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-03-25-welcome/index.html",
+    "href": "posts/2024-03-25-welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome! This is the first post in our new group blog 1. We, the Information Management group at Humboldt University’s Berlin School of Library and Information Science, explore the role of digital research and information infrastructures in science within the context of digital transformation.\nThe focus of our research is on information infrastructures that enable the collection, indexing, accessibility, and re-use of information objects for the purpose of Open Science.\nOur work considers processes of digital scholarly communication and related practices, standards, and policies. These aspects are addressed from the perspective of information and library science, with a focus on libraries, computing centers, and other service facilities supporting research at scientific organizations.\nCurrent topics of the research and teaching group include:\nFurther information about our work can be found on our official website: http://hu.berlin/infomgnt\nIf you’d like to learn more about our research, we report on our Pro OAR DE project in a blog post over at our DINI colleagues’ website (Pampel and Wrzesinski 2024)."
+  },
+  {
+    "objectID": "posts/2024-03-25-welcome/index.html#footnotes",
+    "href": "posts/2024-03-25-welcome/index.html#footnotes",
+    "title": "Welcome",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nYes, footnotes are also possible ;)↩︎"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -28,10 +42,10 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Virtual Research Lab of the Information Management Research Group at Humboldt-Universität zu Berlin",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "My new post\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 25, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 24, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 22, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "This is the virtual Research Lab of the Information Management Research Group at the Berlin School of Library and Information Science, Humboldt-Universität zu Berlin. Further information about our work can be found on our official website: http://hu.berlin/infomgnt"
   }
 ]
