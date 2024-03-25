@@ -1,5 +1,5 @@
 ---
-title: "infomgnt.github.io"
+title: "Research Group Information Management @ Humboldt-Universität zu Berlin"
 listing:
   contents: posts
   sort: "date desc"
