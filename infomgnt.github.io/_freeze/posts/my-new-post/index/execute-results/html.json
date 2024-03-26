@@ -1,0 +1,17 @@
+{
+  "hash": "b4da1ef6deca51411c888954785f8f03",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"My new post\"\nauthor: \"Harlow Malloc\"\ndate: \"2024-03-25\"\ncategories: [news, code, analysis]\nimage: \"ibi.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
