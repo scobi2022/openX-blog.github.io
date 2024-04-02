@@ -15,4 +15,4 @@ about:
       href: https://github.com
 ---
 
-This is the virtual Research Lab of the [Information Management](http://hu.berlin/infomgnt) Research Group at the [Berlin School of Library and Information Science](https://www.ibi.hu-berlin.de/en/), Humboldt-Universität zu Berlin. Further information about our work can be found on our official website: <http://hu.berlin/infomgnt>
+This is the virtual Research Lab of the research and teaching group [Information Management](https://hu-berlin.de/infomgnt) at the [Berlin School of Library and Information Science](https://www.ibi.hu-berlin.de), located at Humboldt-Universität zu Berlin. Further information about our work can be found on our official website: <http://hu.berlin/infomgnt>
