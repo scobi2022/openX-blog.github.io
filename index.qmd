@@ -1,5 +1,5 @@
 ---
-title: "Virtual Research Lab of the Information Management Research Group at Humboldt-Universität zu Berlin"
+title: "Virtual Research Lab of the Research Group Information Management at Humboldt-Universität zu Berlin"
 listing:
   contents: posts
   sort: "date desc"
