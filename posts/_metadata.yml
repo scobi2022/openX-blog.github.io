@@ -6,7 +6,7 @@ freeze: auto
 
 comments: 
   utterances: 
-    repo:  Tomberry753/InfoMgt_Comments
+    repo:  MaxLiebel/InfoMgt_Comments
 
 # Enable banner style title blocks
 title-block-banner: true
