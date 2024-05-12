@@ -4,5 +4,9 @@
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
 freeze: auto
 
+comments: 
+  utterances: 
+    repo:  InfoMgt_Comments
+
 # Enable banner style title blocks
 title-block-banner: true
