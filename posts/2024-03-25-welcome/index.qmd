@@ -9,7 +9,7 @@ author:
 date: "2024-03-25"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.github.io/posts/2024-03-25-welcome/ 
+  url: https://infomgnt.org/posts/2024-03-25-welcome/
 image: ibi.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: references.bib
