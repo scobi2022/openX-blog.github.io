@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Research Group Information Management @ Humboldt-Universität zu Berlin"
+  site-url: https://infomgnt.org
+  description: "Research Group Information Management @ Humboldt-Universität zu Berlin"
   navbar:
     right:
       - about.qmd
