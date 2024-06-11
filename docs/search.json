@@ -4,14 +4,14 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome\n\n\n\nLab Life\n\n\nResearch\n\n\n\n\n\n\n\nHeinz Pampel\n\n\nMar 25, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Recommendations for Funding Organizations on Open Science Infrastructures\n\n\n\nLab Life\n\n\nPolicy\n\n\n\n\n\n\n\nHeinz Pampel\n\n\nJun 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\n\nLab Life\n\n\nResearch\n\n\n\n\n\n\n\nHeinz Pampel\n\n\nMar 25, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Virtual Research Lab of the research and teaching group Information Management at Humboldt-Universität zu Berlin",
     "section": "",
-    "text": "Welcome\n\n\n\n\n\n\nLab Life\n\n\nResearch\n\n\n\n\n\n\n\n\n\nMar 25, 2024\n\n\nHeinz Pampel\n\n\n\n\n\n\nNo matching items"
+    "text": "Recommendations for Funding Organizations on Open Science Infrastructures\n\n\n\n\n\n\nLab Life\n\n\nPolicy\n\n\n\n\n\n\n\n\n\nJun 11, 2026\n\n\nHeinz Pampel\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\n\n\n\n\nLab Life\n\n\nResearch\n\n\n\n\n\n\n\n\n\nMar 25, 2024\n\n\nHeinz Pampel\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2024-03-25-welcome/index.html",
@@ -33,5 +33,26 @@
     "title": "About",
     "section": "",
     "text": "This is the virtual Research Lab of the research and teaching group Information Management at the Berlin School of Library and Information Science, located at Humboldt-Universität zu Berlin. Further information about our work can be found on our official website: http://hu.berlin/infomgnt"
+  },
+  {
+    "objectID": "posts/2026-06-11-recommendations-for funding-organizations-on-open-science-infrastructures/index.html",
+    "href": "posts/2026-06-11-recommendations-for funding-organizations-on-open-science-infrastructures/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome! This is the first post in our new group blog.1 We, the research group Information Management at Humboldt University’s Berlin School of Library and Information Science, explore the role of digital research and information infrastructures in science within the context of digital transformation.\nThe focus of our research is on information infrastructures that enable the collection, indexing, accessibility, and re-use of information objects for the purpose of Open Science.\nOur work considers processes of digital scholarly communication and related practices, standards, and policies. These aspects are addressed from the perspective of information and library science, with a focus on libraries, computing centers, and other service facilities supporting research at scientific organizations.\nCurrent topics of our research and teaching group include:\nFurther information about our work can be found on our official website: http://hu.berlin/infomgnt\nIf you’re interested in learning more about our research, you might want to check out a guest post we published a few days ago about our Pro OAR DE project on the DINI colleagues’ blog (pampel_open_2024?).\nThis text – excluding quotes and otherwise labelled parts – is licensed under the CC BY 4.0 DEED."
+  },
+  {
+    "objectID": "posts/2026-06-11-recommendations-for funding-organizations-on-open-science-infrastructures/index.html#footnotes",
+    "href": "posts/2026-06-11-recommendations-for funding-organizations-on-open-science-infrastructures/index.html#footnotes",
+    "title": "Welcome",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSure, in this blog, there will also be footnotes ;)↩︎"
+  },
+  {
+    "objectID": "posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html",
+    "href": "posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html",
+    "title": "Recommendations for Funding Organizations on Open Science Infrastructures",
+    "section": "",
+    "text": "I had the great opportunity to be part of the CERN-NASA working group “Infrastructure for Open Scholarship”. This working group was established following the 2023 CERN-NASA Summit “Accelerating the Adoption of Open Science”. As a result of the summit, a closing statement was published, outlining key areas of action for Open Science (Tananbaum et al. 2023).\nUnder the umbrella of the Open Research Funders Group (ORFG) and with financial support from the Gordon and Betty Moore Foundation, key topics from the closing statement were further developed in working groups. One of these working groups focused on the advancement of open science infrastructures. Our working group has now published its results in the form of a set of recommendations for funding organizations (Arancio et al. 2024).\n\nExcerpt: “These recommendations for funders are accompanied by a set of principles for open infrastructure projects that complements the first set and aims to increase the quality of service provided to researchers and institutions. The group aims to emphasize that the principles for infrastructure initiatives do not have a prescriptive approach; instead, the goal should be to foster good practices in the field. This work intends to add and build on the corpus of work that has been undertaken globally in this area, some of which is referenced at the end of this document. As with any global framework, it will need to be regionally situated to ensure feasibility, efficacy, and sustainability in a diversity of contexts.”\nRecommendations for funding agencies based on a set of core principles were created. These principles encompass the topics of infrastructure in open scholarship policies, recognizing work, funding and support, capabilities, and transparency.\nMany thanks to Julieta Arancio for her effective and cooperative leadership of the working group, and to all participants for their openness.\nThis text – excluding quotes and otherwise labelled parts – is licensed under the CC BY 4.0 DEED.\n\n\n\n\nReferences\n\nArancio, Julieta, Claudia Alarcón-López, Heinz Pampel, Sherry Lake, César Pallares, Esther Plomp, Miho Funamori, Tanja Friedrich, Emmy Tsang, and CERN-NASA Working Group \"Infrastructure for Open Scholarship\". 2024. “Science Funders: Commitments Towards Open Infrastructure,” June. https://doi.org/10.5281/zenodo.11444361.\n\n\nTananbaum, Greg, Chelle Gentemann, Kamran Naim, Christopher Marcum, Eric Emsellem, Eunice Mercado-Lara, Tanja Friedrich, et al. 2023. “Sowing the Seeds of Global Open Science Coordination,” November. https://doi.org/10.5281/ZENODO.10059154.\n\nCitationBibTeX citation:@online{pampel2026,\n  author = {Pampel, Heinz},\n  title = {Recommendations for {Funding} {Organizations} on {Open}\n    {Science} {Infrastructures}},\n  date = {2026-06-11},\n  url = {https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPampel, Heinz. 2026. “Recommendations for Funding Organizations on\nOpen Science Infrastructures.” June 11, 2026. https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/."
   }
 ]

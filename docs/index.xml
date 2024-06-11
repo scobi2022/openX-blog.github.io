@@ -10,7 +10,53 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.551</generator>
-<lastBuildDate>Sun, 24 Mar 2024 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Recommendations for Funding Organizations on Open Science Infrastructures</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I had the great opportunity to be part of the <a href="https://home.cern/news/news/knowledge-sharing/cern-and-nasa-join-forces-commit-research-future-open-and-accessible">CERN-NASA</a> working group “Infrastructure for Open Scholarship”. This working group was established following the 2023 CERN-NASA Summit “Accelerating the Adoption of Open Science”. As a result of the summit, a closing statement was published, outlining key areas of action for Open Science <span class="citation" data-cites="tananbaum_sowing_2023">(Tananbaum et al. 2023)</span>.</p>
+<p>Under the umbrella of the Open Research Funders Group (<a href="https://www.orfg.org/news/2023/11/01/cern-nasa-summit">ORFG</a>) and with financial support from the Gordon and Betty Moore Foundation, key topics from the closing statement were further developed in working groups. One of these working groups focused on the advancement of open science infrastructures. Our working group has now published its results in the form of a set of recommendations for funding organizations <span class="citation" data-cites="arancio_science_2024">(Arancio et al. 2024)</span>.</p>
+<p><img src="https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/wg.jpg" class="img-fluid"></p>
+<p>Excerpt: “These recommendations for funders are accompanied by a set of principles for open infrastructure projects that complements the first set and aims to increase the quality of service provided to researchers and institutions. The group aims to emphasize that the principles for infrastructure initiatives do not have a prescriptive approach; instead, the goal should be to foster good practices in the field. This work intends to add and build on the corpus of work that has been undertaken globally in this area, some of which is referenced at the end of this document. As with any global framework, it will need to be regionally situated to ensure feasibility, efficacy, and sustainability in a diversity of contexts.”</p>
+<p>Recommendations for funding agencies based on a set of core principles were created. These principles encompass the topics of infrastructure in open scholarship policies, recognizing work, funding and support, capabilities, and transparency.</p>
+<p>Many thanks to <a href="https://www.orfg.org/news/2023/10/02/orfg-welcomes-julieta-arancio-as-open-accelerator-fellow">Julieta Arancio</a> for her effective and cooperative leadership of the working group, and to all participants for their openness.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-arancio_science_2024" class="csl-entry">
+Arancio, Julieta, Claudia Alarcón-López, Heinz Pampel, Sherry Lake, César Pallares, Esther Plomp, Miho Funamori, Tanja Friedrich, Emmy Tsang, and CERN-NASA Working Group "Infrastructure for Open Scholarship". 2024. <span>“Science <span>Funders</span>: <span>Commitments</span> Towards <span>Open</span> <span>Infrastructure</span>,”</span> June. <a href="https://doi.org/10.5281/zenodo.11444361">https://doi.org/10.5281/zenodo.11444361</a>.
+</div>
+<div id="ref-tananbaum_sowing_2023" class="csl-entry">
+Tananbaum, Greg, Chelle Gentemann, Kamran Naim, Christopher Marcum, Eric Emsellem, Eunice Mercado-Lara, Tanja Friedrich, et al. 2023. <span>“Sowing the <span>Seeds</span> of <span>Global</span> <span>Open</span> <span>Science</span> <span>Coordination</span>,”</span> November. <a href="https://doi.org/10.5281/ZENODO.10059154">https://doi.org/10.5281/ZENODO.10059154</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2026,
+  author = {Pampel, Heinz},
+  title = {Recommendations for {Funding} {Organizations} on {Open}
+    {Science} {Infrastructures}},
+  date = {2026-06-11},
+  url = {https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2026" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz. 2026. <span>“Recommendations for Funding Organizations on
+Open Science Infrastructures.”</span> June 11, 2026. <a href="https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/">https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Policy</category>
+  <guid>https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/</guid>
+  <pubDate>Wed, 10 Jun 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/wg.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Welcome</title>
   <dc:creator>Heinz Pampel</dc:creator>
