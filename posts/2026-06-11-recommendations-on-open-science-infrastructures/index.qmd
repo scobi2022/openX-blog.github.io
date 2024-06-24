@@ -6,7 +6,7 @@ author:
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI) & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
     affiliation-url: http://hu-berlin.de/infomgnt
-date: "2026-06-11"
+date: "2024-06-11"
 categories: [Lab Life, Policy]
 citation: 
   url: https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/
