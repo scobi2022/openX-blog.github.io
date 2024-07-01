@@ -9,8 +9,58 @@
 <link>https://infomgnt.org/</link>
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
-<generator>quarto-1.4.551</generator>
-<lastBuildDate>Wed, 10 Jun 2026 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.555</generator>
+<lastBuildDate>Tue, 18 Jun 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Project launch: OA Datenpraxis- Data Practices for Shaping the Open Access Transformation</title>
+  <dc:creator>Dorothea Strecker</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are excited to announce the launch of our new project, “Data Practices for Shaping Open Access Transformation - Analysis, Recommendation, Training &amp; Networking - OA Datenpraxis” funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation).</p>
+<p>Together with our colleagues at the <a href="https://os.helmholtz.de/">Helmholtz Open Science Office</a> and the <a href="https://subugoe.github.io/scholcomm_analytics/">Scholarly Communication Analytics Team</a> at the <a href="https://www.sub.uni-goettingen.de/sub-aktuell/">Lower Saxony State and University Library Göttingen</a> (SUB), we, the research group Information Management at the <a href="https://www.ibi.hu-berlin.de/en/about-us">Berlin School of Library and Information Science</a> (IBI), will work towards strengthening structures for the use of data on the open access transformation at research institutions in Germany.</p>
+<p>The project supports practitioners in research administration, libraries and other service institutions in professionalizing their data practices through various activities. As a first step, the team at IBI will conduct a comprehensive study on how research institutions handle publication costs. Our research will build on existing research and previous work of the project partners. Our goal is to get a better understanding of current practices and challenges associated with managing data on Open Access publications and associated costs.</p>
+<p>In strengthening the abilities of research institutions to leverage data to monitor publication output and associated costs, we are addressing some of the recommendations of the German Council of Science and Humanities for fostering the Open Access transformation in Germany <span class="citation" data-cites="wissenschaftsrat_empfehlungen_2022">(Wissenschaftsrat 2022)</span>. Additional information about the project and its goals can be found in the project proposal (in German) <span class="citation" data-cites="pampel_datenpraxis_2024">(Pampel et al. 2024)</span>.</p>
+<p>At this year’s Open-Access-Tage in Cologne, we are organizing a workshop with <a href="https://www.open-access-berlin.de/">Open-Access-Büro Berlin</a>, <a href="https://open-access-brandenburg.de/">Vernetzungs- und Kompetenzstelle Open Access Brandenburg</a> and <a href="https://open-access-monitor.de/">Open Access Monitor</a> at Forschungszentrum Jülich (FZJ). If you are interested in Open Access reporting and are attending, please feel free to approach us at the conference or contact us via <a href="info.oa-datenpraxis@listserv.dfn.de">email</a>.</p>
+<p>We will report on current activities and project outputs on the <a href="https://oa-datenpraxis.de/">project website</a> and <a href="https://openbiblio.social/@oa_datenpraxis">Mastodon</a>.</p>
+<p><img src="https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/logo_oa_datenpraxis.png" class="img-fluid"></p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-pampel_datenpraxis_2024" class="csl-entry">
+Pampel, Heinz, Najko Jahn, Roland Bertelmann, Wolfram Horstmann, Laura Rothfritz, Lea Maria Ferguson, Birgit Schmidt, and Anna Stisser. 2024. <span>“Datenpraxis Zur <span>Gestaltung</span> Der <span>Open</span>-<span>Access</span>-<span>Transformation</span> - <span>Analyse</span>, <span>Empfehlung</span>, <span>Training</span> &amp; <span>Vernetzung</span> (<span>OA</span> <span>Datenpraxis</span>).”</span> <a href="https://doi.org/10.5281/ZENODO.10794298">https://doi.org/10.5281/ZENODO.10794298</a>.
+</div>
+<div id="ref-wissenschaftsrat_empfehlungen_2022" class="csl-entry">
+Wissenschaftsrat. 2022. <span>“Empfehlungen Zur <span>Transformation</span> Des Wissenschaftlichen <span>Publizierens</span> Zu <span>Open</span> <span>Access</span>.”</span> <a href="https://doi.org/10.57674/FYRC-VB61">https://doi.org/10.57674/FYRC-VB61</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2024,
+  author = {Strecker, Dorothea and Pampel, Heinz},
+  title = {Project Launch: {OA} {Datenpraxis-} {Data} {Practices} for
+    {Shaping} the {Open} {Access} {Transformation}},
+  date = {2024-06-19},
+  url = {https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-strecker2024" class="csl-entry quarto-appendix-citeas">
+Strecker, Dorothea, and Heinz Pampel. 2024. <span>“Project Launch: OA
+Datenpraxis- Data Practices for Shaping the Open Access
+Transformation.”</span> June 19, 2024. <a href="https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/">https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/</guid>
+  <pubDate>Tue, 18 Jun 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/logo_oa_datenpraxis.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Recommendations for Funding Organizations on Open Science Infrastructures</title>
   <dc:creator>Heinz Pampel</dc:creator>
@@ -39,22 +89,22 @@ Arancio, Julieta, Claudia Alarcón-López, Heinz Pampel, Sherry Lake, César Pal
 <div id="ref-tananbaum_sowing_2023" class="csl-entry">
 Tananbaum, Greg, Chelle Gentemann, Kamran Naim, Christopher Marcum, Eric Emsellem, Eunice Mercado-Lara, Tanja Friedrich, et al. 2023. <span>“Sowing the <span>Seeds</span> of <span>Global</span> <span>Open</span> <span>Science</span> <span>Coordination</span>,”</span> November. <a href="https://doi.org/10.5281/ZENODO.10059154">https://doi.org/10.5281/ZENODO.10059154</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2026,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
   author = {Pampel, Heinz},
   title = {Recommendations for {Funding} {Organizations} on {Open}
     {Science} {Infrastructures}},
-  date = {2026-06-11},
+  date = {2024-06-11},
   url = {https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2026" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz. 2026. <span>“Recommendations for Funding Organizations on
-Open Science Infrastructures.”</span> June 11, 2026. <a href="https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/">https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/</a>.
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz. 2024. <span>“Recommendations for Funding Organizations on
+Open Science Infrastructures.”</span> June 11, 2024. <a href="https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/">https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Policy</category>
   <guid>https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/</guid>
-  <pubDate>Wed, 10 Jun 2024 22:00:00 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/wg.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
