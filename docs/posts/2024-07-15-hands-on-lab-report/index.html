@@ -6,8 +6,13 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Daniel Beucke">
+<meta name="author" content="Isabella Meinecke">
+<meta name="author" content="Heinz Pampel">
+<meta name="author" content="Marcel Wrzesinski">
+<meta name="dcterms.date" content="2024-07-15">
 
-<title>Research Group Information Management @ Humboldt-Universität zu Berlin - Virtual Research Lab of the research and teaching group Information Management at Humboldt-Universität zu Berlin</title>
+<title>Research Group Information Management @ Humboldt-Universität zu Berlin - Report on the Hands-On Lab ‘Scenarios for the Development of Open Access Repositories’ at the 112th BiblioCon</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,29 +25,47 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,76 +93,18 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
+</head>
 
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="alternate" type="application/rss+xml" title="Research Group Information Management @ Humboldt-Universität zu Berlin" href="index.xml" data-external="1"></head>
-
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Research Group Information Management @ Humboldt-Universität zu Berlin</span>
     </a>
   </div>
@@ -150,11 +115,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link" href="../../posts.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item compact">
@@ -168,7 +133,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -183,188 +148,156 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Virtual Research Lab of the research and teaching group Information Management at Humboldt-Universität zu Berlin</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Report on the Hands-On Lab ‘Scenarios for the Development of Open Access Repositories’ at the 112th BiblioCon</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">Lab Life</div>
+                <div class="quarto-category">Research</div>
+              </div>
+                  </div>
   </div>
     
-  
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta-author">
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-heading">Affiliations</div>
+    
+      <div class="quarto-title-meta-contents">
+      <p class="author">Daniel Beucke <a href="https://orcid.org/0000-0003-4905-1936" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              Göttingen State and University Library
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author">Isabella Meinecke <a href="https://orcid.org/0000-0001-8337-3619" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              Hamburg State and University Library
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author"><a href="https://heinzpampel.de">Heinz Pampel</a> <a href="https://orcid.org/0000-0003-3334-2771" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <a href="http://hu-berlin.de/infomgnt">
+              Humboldt-Universität zu Berlin, Berlin School of Library and Information Science &amp; Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+              </a>
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author">Marcel Wrzesinski <a href="https://orcid.org/0000-0002-2343-7905" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <a href="http://hu-berlin.de/infomgnt">
+              Humboldt-Universität zu Berlin, Berlin School of Library and Information Science &amp; Helmholtz-Gemeinschaft
+              </a>
+            </p>
+        </div>
+    </div>
 
-      
+  <div class="quarto-title-meta">
+
+        
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">July 15, 2024</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Lab Life">Lab Life <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Policy">Policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Research">Research <span class="quarto-category-count">(3)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>In the beginning of June 2024, Nature reported on the Japanese Ministry of Education’s plan to invest 10 billion yen in expanding institutional Open Access Repositories <span class="citation" data-cites="singh_chawla_japans_2024">(<a href="#ref-singh_chawla_japans_2024" role="doc-biblioref">Singh Chawla 2024</a>)</span>. This initiative provides a good opportunity to discuss the future of Open Access Repositories at the <a href="https://2024.bibliocon.de/" class="uri">https://2024.bibliocon.de/</a>.</p>
+<p>In collaboration with the project “Professionalization of the Open Access Repositories Infrastructure in Germany” (<a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de">Pro OAR DE</a>) <span class="citation" data-cites="pampel_professionalisierung_2023">(<a href="#ref-pampel_professionalisierung_2023" role="doc-biblioref">Pampel and Rothfritz 2023</a>)</span>, funded by the Federal Ministry of Education and Research (BMBF), the Electronic Publishing Working Group (<a href="https://dini.de/e-pub">AG E-Pub</a>) of the German Initiative for Networked Information (<a href="https://dini.de">DINI</a>) organized a Hands-On Lab titled “Scenarios for the Development of Open Access Repositories” on June 6, 2024, during the 112th BiblioCon. The goal was to develop scenarios for the future orientation of institutional Open Access repositories with participants from academia, libraries, and other information infrastructures.</p>
+<p>The methodological approach for this event was based on the Delphi concept <span class="citation" data-cites="hader_delphi-befragungen_2014">(<a href="#ref-hader_delphi-befragungen_2014" role="doc-biblioref">Häder 2014</a>)</span>, <span class="citation" data-cites="niederberger_delphi-verfahren_2019">(<a href="#ref-niederberger_delphi-verfahren_2019" role="doc-biblioref">Niederberger and Renn 2019</a>)</span>. Participants were asked to evaluate predefined statements on repositories in two consecutive rounds. This method aimed to reach a consensus on specific scenarios for the future of repositories. About 30 people participated in the lab and were divided into groups of four which simultaneously discussed the scenarios. The discussions were based on eight statements that were prepared by the organizers in advance and addressed aspects of the development of Open Access repositories.</p>
+<p>First, each group assessed the eight statements with the aim of coming to a consensus about the topic. For example, participants were asked to discuss the following proposition: “Preprints play an important role in the informational expansion of repositories.” Each group needed to develop a joint position on this and the other seven statements, by rating them on a scale from “strongly disagree” to “strongly agree.”</p>
+<p>In the following round, each group further explored three statements and discussed strategies and concrete measures to address the issues raised in each statements. The goal was to develop practical approaches to the topics, based on a shared understanding of the statements, focusing on the joint discussion of solution strategies.</p>
+<p><img src="images/112th_bibliocon.jpeg" class="img-fluid"></p>
+<p><strong>Lessons Learned</strong></p>
+<p>The chosen method did not allow for in-depth examination and was not representative, but it enabled a focused and useful discussion of current issues facing institutional repositories. Reaching a consensus was challenging, as interpretations of the statements varied significantly among participants, and evaluations differed depending on perspectives and group compositions.</p>
+<p>For the following three statements, approval ratings were identified in all four groups (grouped as “somewhat agree” and “strongly agree”):</p>
+<ul>
+<li><p>Repositories’ user interfaces should become more intuitive and modern.</p></li>
+<li><p>Text and data repositories should intensify their exchange with each other.</p></li>
+<li><p>Repositories should take more measures to increase the visibility of their content.</p></li>
+</ul>
+<p>In the second round, the following implementation strategies were discussed for these three statements:</p>
+<p><strong>Repositories’ user interfaces should become more intuitive and modern:</strong></p>
+<ul>
+<li><p>Offer multilingual user interfaces that support languages beyond German and English.</p></li>
+<li><p>Simplify uploads through data import via API integration (e.g., DOI queries via Crossref).</p></li>
+<li><p>Eliminate mandatory fields that researchers must fill out.</p></li>
+<li><p>Ensure responsiveness on various devices.</p></li>
+</ul>
+<p><strong>Text and data repositories should intensify their exchange with each other:</strong></p>
+<ul>
+<li><p>Ensure automatic data flows between research data repositories and institutional Open Access repositories.</p></li>
+<li><p>Simplify uploads through data import via API integration (e.g., DOI queries via Crossref).</p></li>
+<li><p>Evaluate local architecture to determine whether a generic repository for all object types or different repositories for each publication type is more practical.</p></li>
+</ul>
+<p><strong>Repositories should take more measures to increase the visibility of their content:</strong></p>
+<ul>
+<li><p>Display bibliographic data in the OPAC or Discovery System.</p></li>
+<li><p>Index bibliographic data in search services .</p></li>
+<li><p>Actively implement search engine optimization measures.</p></li>
+<li><p>Enable automated data flows via persistent identifiers.</p></li>
+</ul>
+<p>The authors thank the participants for their open discussions and for sharing their experiences on strategies to further professionalize Open Access repositories.</p>
+<p>The results will also be used for the further development of the DINI Certificate for Open-Access Publication Services and in the ongoing work of the Pro OAR DE project. Workshops on some aspects will be held in the further course of the Pro OAR DE project.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.&nbsp;</p>
+<p><br>
+Photo Credit: Melanie Seltmann, licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Lab Life,Research" data-listing-date-sort="1720994400000" data-listing-file-modified-sort="1721044591684" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="721">
-<div class="thumbnail">
-<p><a href="./posts/2024-07-15-hands-on-lab-report/index.html" class="no-external"></a></p><a href="./posts/2024-07-15-hands-on-lab-report/index.html" class="no-external">
-<p><img src="./posts/2024-07-15-hands-on-lab-report/112th_bibliocon.jpeg" class="thumbnail-image"></p>
-</a><p><a href="./posts/2024-07-15-hands-on-lab-report/index.html" class="no-external"></a></p>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-hader_delphi-befragungen_2014" class="csl-entry" role="listitem">
+Häder, Michael. 2014. <em>Delphi-<span>Befragungen</span>: <span>Ein</span> <span>Arbeitsbuch</span></em>. Wiesbaden: Springer Fachmedien Wiesbaden. <a href="https://doi.org/10.1007/978-3-658-01928-0">https://doi.org/10.1007/978-3-658-01928-0</a>.
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2024-07-15-hands-on-lab-report/index.html" class="no-external">Report on the Hands-On Lab ‘Scenarios for the Development of Open Access Repositories’ at the 112th BiblioCon</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2024-07-15-hands-on-lab-report/index.html" class="no-external"></a>
+<div id="ref-niederberger_delphi-verfahren_2019" class="csl-entry" role="listitem">
+Niederberger, Marlen, and Ortwin Renn, eds. 2019. <em>Delphi-<span>Verfahren</span> in Den <span>Sozial</span>- Und <span>Gesundheitswissenschaften</span>: <span>Konzept</span>, <span>Varianten</span> Und <span>Anwendungsbeispiele</span></em>. Wiesbaden: Springer Fachmedien Wiesbaden. <a href="https://doi.org/10.1007/978-3-658-21657-3">https://doi.org/10.1007/978-3-658-21657-3</a>.
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Lab Life'); return false;">
-Lab Life
+<div id="ref-pampel_professionalisierung_2023" class="csl-entry" role="listitem">
+Pampel, Heinz, and Laura Rothfritz. 2023. <span>“Professionalisierung Der <span>Open</span>-<span>Access</span>-<span>Repositorien</span>-<span>Infrastruktur</span> in <span>Deutschland</span> (<span>Pro</span>-<span>OAR</span>-<span>DE</span>).”</span> November. <a href="https://doi.org/10.5281/ZENODO.10173494">https://doi.org/10.5281/ZENODO.10173494</a>.
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
+<div id="ref-singh_chawla_japans_2024" class="csl-entry" role="listitem">
+Singh Chawla, Dalmeet. 2024. <span>“Japan’s Push to Make All Research Open Access Is Taking Shape.”</span> <em>Nature</em>, May. <a href="https://doi.org/10.1038/d41586-024-01493-8">https://doi.org/10.1038/d41586-024-01493-8</a>.
 </div>
-</div>
-<div class="listing-description">
-<a href="./posts/2024-07-15-hands-on-lab-report/index.html" class="no-external">In the beginning of June 2024, Nature reported on the Japanese Ministry of Education’s plan to invest 10 billion yen in expanding institutional Open Access Repositories <span class="citation" data-cites="singh_chawla_japans_2024">(Sing…</span></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/2024-07-15-hands-on-lab-report/index.html" class="no-external">
-<div class="listing-date">
-Jul 15, 2024
-</div>
-<div class="listing-author">
-Daniel Beucke, Isabella Meinecke, Heinz Pampel, Marcel Wrzesinski
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Lab Life,Research" data-listing-date-sort="1718748000000" data-listing-file-modified-sort="1721044624401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="327">
-<div class="thumbnail">
-<p><a href="./posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external"></a></p><a href="./posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external">
-<p><img src="./posts/2024-07-01-Vorstellung-OA-Datenpraxis/logo_oa_datenpraxis.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external">Project launch: OA Datenpraxis- Data Practices for Shaping the Open Access Transformation</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Lab Life'); return false;">
-Lab Life
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external">We are excited to announce the launch of our new project, “Data Practices for Shaping Open Access Transformation - Analysis, Recommendation, Training &amp; Networking - OA…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external">
-<div class="listing-date">
-Jun 19, 2024
-</div>
-<div class="listing-author">
-Dorothea Strecker, Heinz Pampel
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Lab Life,Policy" data-listing-date-sort="1718056800000" data-listing-file-modified-sort="1719843497442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
-<div class="thumbnail">
-<p><a href="./posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html" class="no-external"></a></p><a href="./posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html" class="no-external">
-<p><img src="./posts/2026-06-11-recommendations-on-open-science-infrastructures/wg.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html" class="no-external">Recommendations for Funding Organizations on Open Science Infrastructures</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Lab Life'); return false;">
-Lab Life
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Policy'); return false;">
-Policy
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html" class="no-external">I had the great opportunity to be part of the CERN-NASA working group “Infrastructure for Open Scholarship”. This working group was established following the 2023 CERN-NASA…<span class="citation" data-cites="tananbaum_sowing_2023"></span></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html" class="no-external">
-<div class="listing-date">
-Jun 11, 2024
-</div>
-<div class="listing-author">
-Heinz Pampel
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="Lab Life,Research" data-listing-date-sort="1711321200000" data-listing-file-modified-sort="1719843497427" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="252">
-<div class="thumbnail">
-<p><a href="./posts/2024-03-25-welcome/index.html" class="no-external"></a></p><a href="./posts/2024-03-25-welcome/index.html" class="no-external">
-<p><img src="./posts/2024-03-25-welcome/ibi.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/2024-03-25-welcome/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2024-03-25-welcome/index.html" class="no-external">Welcome</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2024-03-25-welcome/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Lab Life'); return false;">
-Lab Life
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/2024-03-25-welcome/index.html" class="no-external">Welcome! This is the first post in our new group blog.<sup>1</sup> We, the research group Information Management at Humboldt University’s Berlin School of Library and Information…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/2024-03-25-welcome/index.html" class="no-external">
-<div class="listing-date">
-Mar 25, 2024
-</div>
-<div class="listing-author">
-Heinz Pampel
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{beucke2024,
+  author = {Beucke, Daniel and Meinecke, Isabella and Pampel, Heinz and
+    Wrzesinski, Marcel},
+  title = {Report on the {Hands-On} {Lab} “{Scenarios} for the
+    {Development} of {Open} {Access} {Repositories}” at the 112th
+    {BiblioCon}},
+  date = {2024-07-15},
+  url = {https://infomgnt.github.io/posts/112th_bibliocon/},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-beucke2024" class="csl-entry quarto-appendix-citeas" role="listitem">
+Beucke, Daniel, Isabella Meinecke, Heinz Pampel, and Marcel Wrzesinski.
+2024. <span>“Report on the Hands-On Lab <span>‘Scenarios for the
+Development of Open Access Repositories’</span> at the 112th
+BiblioCon.”</span> July 15, 2024. <a href="https://infomgnt.github.io/posts/112th_bibliocon/">https://infomgnt.github.io/posts/112th_bibliocon/</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -917,6 +850,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
+</script>
+<script src="https://utteranc.es/client.js" repo="MaxLiebel/InfoMgt_Comments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
 
