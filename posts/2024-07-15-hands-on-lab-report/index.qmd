@@ -14,7 +14,7 @@ author:
     affiliation-url: http://hu-berlin.de/infomgnt
   - name: Marcel Wrzesinski
     orcid: 0000-0002-2343-7905
-    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
     affiliation-url: http://hu-berlin.de/infomgnt
 date: "2024-07-15"
 categories: [Lab Life, Research]
