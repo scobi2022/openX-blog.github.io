@@ -1,0 +1,90 @@
+---
+title: "Research Data Publications Between Dynamism and Persistence - Insights from the #PIDsBUA Workshop"
+author:
+  - name: Jens Klump
+    orcid: 0000-0001-5911-6022
+    affiliation: Commonwealth Scientific and Industrial Research Organisation, Mineral Resources Business Unit
+    affiliation-url: https://www.csiro.au/en/work-with-us/industries/mining-resources 
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Laura Rothfritz
+    orcid: 0000-0001-7525-0635
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Dorothea Strecker
+    orcid: 0000-0002-9754-3807
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt
+date: "2024-07-26"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2024-07-26-pidsbua-workshop/
+image: pidsbua.png 
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: pidsbua.bib
+---
+
+Research is inherently dynamic, leading to equally dynamic data. This dynamic nature of research data raises numerous questions for professionals in information management at research institutions, libraries, and computing centers. Despite the conceptual establishment of research data citation through persistent identifiers (PIDs) in some communities, practical challenges remain. This is the case within the infrastructure of repositories and journals, particularly regarding their practices, guidelines, and standards.
+
+Our team at the [Research Group Information Management](https://hu-berlin.de/infomgnt) at the Berlin School of Library and Information Science is dedicated to understanding research data versioning as part of information management processes at research-performing organizations (RPOs). With the project "PID Reference Model for Research Data Versioning" (#[PIDsBUA](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pidsbua)) funded by the "Advancing Research Quality and Value" fellowship program of the Berlin University Alliance (BUA), we address questions of dynamism and persistence in the context of the persistent identification of research data.
+
+Our project benefits from the expertise of [Jens Klump](https://people.csiro.au/K/J/jens-klump), Senior Principal Research Officer at Australia's national science agency [CSIRO](https://www.csiro.au/), who is working as a [BUA Fellow](https://www.berlin-university-alliance.de/en/commitments/research-quality/forschung/fellowship/index.html) with our research group. Jens has extensive experience in this field, including contributions to the Research Data Alliance ([RDA](https://www.rd-alliance.org/)) [Data Versioning Working Group](https://www.rd-alliance.org/groups/data-versioning-ig/) ( @klump_compilation_2020, @klump_versioning_2021).
+
+One question touching on the tension between the dynamic nature of data and the need for persistence on the side of infrastructures that can arise when dynamic research data is published in repositories is how these datasets should be recorded in publication management and research information documentation. Ensuring proper attribution of research performance for publishing dynamic datasets while addressing practical recording issues is a central concern of our project.
+
+![](pidsbua.png)
+
+To facilitate a broad discussion with experts from academia, infrastructure, and administration, and to enhance the transfer of our work within Berlin’s research landscape, we hosted a workshop on June 28, 2024, at the Einstein Center Digital Future ([ECDF](https://www.digital-future.berlin/)) in Berlin. The event attracted around 40 experts from diverse scientific domains.
+
+After an introductory session, discussions focused on four key themes and the associated questions:
+
+1.  Revision and Release:
+
+    -   When do we differentiate between a revision and a release in research data management?
+
+2.  Time Series and Dynamic Data:
+
+    -   How can we address the unique characteristics of time series and dynamic data in research data management?
+
+3.  Granularity and Collections:
+
+    -   How does versioning support recording the provenance of an object?
+
+4.  Provenance, Citation, and Metadata:
+
+    -   How should we handle provenance, citation, and metadata in the context of research data versioning?
+
+These themes were discussed within the framework of the RDA's work.
+
+**Lessons Learned**
+
+In a fruitful and lively discussion, we identified the following points
+
+-   Revision and Release:
+
+    -   While many technological aspects of versioning are clear, definitional and coordination activities are still crucial. Establishing whether a change is a revision or a release requires developing conventions within user groups.
+
+-   Time Series and Dynamic Data:
+
+    -   Different practices are necessary depending on the use case, such as ensuring traceability or allowing ongoing machine access to a dataset. Solutions should be tailored to the specific user groups.
+
+-   Granularity and Collections:
+
+    -   Professional requirements significantly influence granularity and collections, posing challenges for infrastructures that organize and provide access to these collections.
+
+-   Provenance, Citation, and Metadata:
+
+    -   Discussions highlighted the importance of metadata and evolving citation practices in facilitating dataset provenance. These practices are often shaped by disciplinary publication cultures and require infrastructure-level support.
+
+We thank all participants for their enthusiasm and engaging discussions. The workshop offered a great platform for cross-institutional and cross-disciplinary dialogue, promoting valuable mutual learning.
+
+Many thanks to the BUA for their funding and to the ECDF for their hospitality.
+
+A workshop report in German is available (@klump_dokumentation_2024). The slides and posters are also published (Klump, 2024).
+
+Further information about our work can be found on our official website: \<<http://hu.berlin/infomgnt>\>
+
+\
+This text – excluding quotes and otherwise labeled parts – is licensed under the \[CC BY 4.0 DEED\](<https://creativecommons.org/licenses/by/4.0/deed.de>).
