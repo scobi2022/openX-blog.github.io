@@ -11,11 +11,11 @@ author:
     affiliation-url: http://hu-berlin.de/infomgnt
   - name: Laura Rothfritz
     orcid: 0000-0001-7525-0635
-    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science, Helmholtz Open Science Office
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
     affiliation-url: http://hu-berlin.de/infomgnt
   - name: Dorothea Strecker
     orcid: 0000-0002-9754-3807
-    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science, Helmholtz Open Science Office
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
     affiliation-url: http://hu-berlin.de/infomgnt
 date: "2024-07-26"
 categories: [Lab Life, Research]
