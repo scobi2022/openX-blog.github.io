@@ -13,7 +13,7 @@ categories: [Lab Life, Research, Bibliocon, Students, Library Science, Informati
 citation: 
   url: https://infomgnt.org/posts/2024-07-26-reisebericht-bibliocon/
 image: reisebericht.png
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 ![](reisebericht.png){fig-align="center"}
