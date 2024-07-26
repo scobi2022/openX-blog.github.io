@@ -9,16 +9,15 @@ author:
 date: "2024-06-11"
 categories: [Lab Life, Policy]
 citation: 
-  url: https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/
+  url: https://doi.org/10.59350/n1143-h4119 
 image: wg.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: references.bib
 ---
 
-I had the great opportunity to be part of the [CERN-NASA](https://home.cern/news/news/knowledge-sharing/cern-and-nasa-join-forces-commit-research-future-open-and-accessible) working group "Infrastructure for Open Scholarship". This working group was established following the 2023 CERN-NASA Summit “Accelerating the Adoption of Open Science”. As a result of the summit, a closing statement was published, outlining key areas of action for Open Science [@tananbaum_sowing_2023]. 
+I had the great opportunity to be part of the [CERN-NASA](https://home.cern/news/news/knowledge-sharing/cern-and-nasa-join-forces-commit-research-future-open-and-accessible) working group "Infrastructure for Open Scholarship". This working group was established following the 2023 CERN-NASA Summit “Accelerating the Adoption of Open Science”. As a result of the summit, a closing statement was published, outlining key areas of action for Open Science [@tananbaum_sowing_2023].
 
-Under the umbrella of the Open Research Funders Group ([ORFG](https://www.orfg.org/news/2023/11/01/cern-nasa-summit)) and with financial support from the Gordon and Betty Moore Foundation, key topics from the closing statement were further developed in working groups. One of these working groups focused on the advancement of open science infrastructures.
-Our working group has now published its results in the form of a set of recommendations for funding organizations [@arancio_science_2024]. 
+Under the umbrella of the Open Research Funders Group ([ORFG](https://www.orfg.org/news/2023/11/01/cern-nasa-summit)) and with financial support from the Gordon and Betty Moore Foundation, key topics from the closing statement were further developed in working groups. One of these working groups focused on the advancement of open science infrastructures. Our working group has now published its results in the form of a set of recommendations for funding organizations [@arancio_science_2024].
 
 ![](wg.jpg)
 

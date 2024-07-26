@@ -12,7 +12,7 @@ author:
 date: "2024-06-19"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/
+  url: https://doi.org/10.59350/es0dc-vhb02 
 image: logo_oa_datenpraxis.png 
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: references_PLOA.bib
