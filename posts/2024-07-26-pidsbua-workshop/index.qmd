@@ -30,7 +30,7 @@ Research is inherently dynamic, leading to equally dynamic data. This dynamic na
 
 Our team at the [Research Group Information Management](https://hu-berlin.de/infomgnt) at the Berlin School of Library and Information Science is dedicated to understanding research data versioning as part of information management processes at research-performing organizations (RPOs). With the project "PID Reference Model for Research Data Versioning" (#[PIDsBUA](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pidsbua)) funded by the "Advancing Research Quality and Value" fellowship program of the Berlin University Alliance (BUA), we address questions of dynamism and persistence in the context of the persistent identification of research data.
 
-Our project benefits from the expertise of [Jens Klump](https://people.csiro.au/K/J/jens-klump), Senior Principal Research Officer at Australia's national science agency [CSIRO](https://www.csiro.au/), who is working as a [BUA Fellow](https://www.berlin-university-alliance.de/en/commitments/research-quality/forschung/fellowship/index.html) with our research group. Jens has extensive experience in this field, including contributions to the Research Data Alliance ([RDA](https://www.rd-alliance.org/)) [Data Versioning Working Group](https://www.rd-alliance.org/groups/data-versioning-ig/) ( @klump_compilation_2020, @klump_versioning_2021).
+Our project benefits from the expertise of [Jens Klump](https://people.csiro.au/K/J/jens-klump), Senior Principal Research Officer at Australia's national science agency [CSIRO](https://www.csiro.au/), who is working as a [BUA Fellow](https://www.berlin-university-alliance.de/en/commitments/research-quality/forschung/fellowship/index.html) with our research group. Jens has extensive experience in this field, including contributions to the Research Data Alliance ([RDA](https://www.rd-alliance.org/)) [Data Versioning Working Group](https://www.rd-alliance.org/groups/data-versioning-ig/) (@klump_compilation_2020, @klump_versioning_2021).
 
 One question touching on the tension between the dynamic nature of data and the need for persistence on the side of infrastructures that can arise when dynamic research data is published in repositories is how these datasets should be recorded in publication management and research information documentation. Ensuring proper attribution of research performance for publishing dynamic datasets while addressing practical recording issues is a central concern of our project.
 
@@ -82,7 +82,7 @@ We thank all participants for their enthusiasm and engaging discussions. The wor
 
 Many thanks to the BUA for their funding and to the ECDF for their hospitality.
 
-A workshop report in German is available (@klump_dokumentation_2024). The slides and posters are also published (Klump, 2024).
+A workshop report in German is available (@klump_workshop_2024). The slides and posters are also published (@klump_dokumentation_2024).
 
 Further information about our work can be found on our official website: \<<http://hu.berlin/infomgnt>\>
 
