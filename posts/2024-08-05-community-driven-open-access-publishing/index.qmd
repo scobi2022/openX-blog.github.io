@@ -1,0 +1,99 @@
+---
+title: "Perspectives on the future of community-driven Open Access publishing"
+author:
+- name: Heinz Pampel
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+  affiliation-url: http://hu-berlin.de/infomgnt
+- name: Marcel Wrzesinski
+  orcid: 0000-0002-2343-7905
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Alexander von Humboldt Institute for Internet and Society
+  affiliation-url: http://hu-berlin.de/infomgnt
+- name: Ben Kaden
+  orcid: 0000-0002-8021-1785
+  affiliation: Vernetzungs- und Kompetenzstelle Open Access Brandenburg 
+  affiliation-url: https://open-access-brandenburg.de/ 
+- name: Margo Bargheer
+  orcid: 0000-0001-8246-8210  
+  affiliation: Niedersächsische Staats- und Universitätsbibliothek Göttingen
+  affiliation-url: https://www.sub.uni-goettingen.de
+- name: Maxi Kindling
+  orcid: 0000-0002-0167-0046
+  affiliation: Open-Access-Büro Berlin
+  affiliation-url: https://www.open-access-berlin.de 
+- name: Dagmar Schobert
+  orcid: 0000-0002-1792-3077
+  affiliation: Universitätsbibliothek der TU Berlin
+  affiliation-url: https://www.tu.berlin/ub 
+date: "2024-08-05"
+categories: [Lab Life, Research, Policy]
+citation: 
+  url: https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing  
+image: community-driven-open-access-publishing (2).png  
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: community-driven-open-access-publishing_references.bib
+---
+
+The conversation about advancing the open access transformation has been revitalized by the “Council Conclusions on High-Quality, Transparent, Open, Trustworthy, and Equitable Scholarly Publishing” issued by the EU Science Ministries in May 2023 [@council_of_the_european_union_high-quality_2023].
+
+In September 2023, we organized the conference “Community-Driven Open Access Publishing” as a satellite event of the Open Access Days 2023 [@institut_fur_bibliotheks-_und_informationswissenschaft_satelliten-konferenz_2023].
+
+During the conference, we discussed ten statements on the future of community-driven open access publishing. An initial version of the statements had been drafted in German by the conference program committee between early March 2023 and the end of July 2023. Attendees had the opportunity to comment on these theses on the PubPub platform during the conference [@pampel_thesen_2023]. 
+
+The feedback collected on PubPub, at the conference, and on social media formed the basis for revising the statements, of which an updated version was published in April 2024 [@pampel_thesen_2024].
+
+![](community-driven-open-access-publishing%20(2).png)
+
+Together with Margo Bargheer, Roland Bertelmann, Ben Kaden, Maxi Kindling, and Dagmar Schobert, we have since then published an article in German about the development of the statements in the journal Bibliothek Forschung und Praxis [@pampel_thesen_2024-1].
+
+To mark the publication of the ten statements and also to broaden the conversation, this blog post documents the core elements in English: 
+
+**1. Bridging the strategic gap**
+
+Community-driven publication infrastructures need backing from a comprehensive, large-scale strategy from research funding and infrastructure organizations. Only a high-profile initiative can ensure the necessary scientific policy support and financial commitment, thereby strengthening digital sovereignty in science.
+
+**2. Acknowledging diversity in funding and business models**
+
+Community-driven publication infrastructures require varied funding and business models tailored to the specific requirements of each (subject) community. This process should be guided by maximum transparency on costs and service portfolio.
+
+**3. Strengthening libraries as publication service providers**
+
+Community-driven publication infrastructures require a professional operation. Academic libraries, with their established services, expertise, and strong networks, are well-positioned to serve as active publication service providers for scholarly communities. Therefore, publication infrastructures within libraries should be systematically expanded.
+
+**4. Ensuring quality, applying standards**
+
+Community-driven publication infrastructures such as journals are responsible for maintaining the content quality of publications. This should be ensured using recognized quality assurance procedures that align with good scientific practice. Formal and technical quality assurance should be implemented by applying open publishing standards for both publications and processes.
+
+**5. Strengthening collaboration with disciplinary communities**
+
+Community-driven publication infrastructures need a strong foundation within scholarly subject communities and their organizational structures, such as learned societies. Collaboration should be participatory while allowing the publication infrastructures to remain autonomous. Libraries should engage more closely with subject communities and proactively shape services for the research community.
+
+**6. Promoting experiments and innovation**
+
+Community-driven publication infrastructures have the potential to shape innovations in scholarly publishing. Experimentation with new publication formats, further development of processes and standards, and exploration of new collaborative approaches should be encouraged.
+
+**7. Ensuring sustainability**
+
+Community-driven publication infrastructures require sustainable funding and business models. 
+
+To achieve this, a clear organizational integration is needed, a precisely defined mission and scope statement is essential, and funding organizations should express their commitment. Furthermore, the technical and legal sustainability of the infrastructures and their publications must be promoted by using open standards and open licenses.
+
+**8. Orienting infrastructures towards the common good**
+
+Community-driven publication infrastructures should focus on the common good and base their activities on the principles and values of the [UNESCO Recommendation on Open Science](https://www.unesco.org/en/open-science/about) [@unesco_unesco_2021].
+
+**9. Entering new collaborations**
+
+Community-driven publication infrastructures should explore innovative collaboration models, operate across institutional and national boundaries, and aim to increase their visibility and that of their publications. Collaborations with external service providers can be advantageous, provided that governance remains aligned with scholarly interests.
+
+**10. Implementing Open Science**
+
+Community-driven publication infrastructures should enable the publication of texts, data, software, and other resources, and support the recognition of open science practices in research evaluation. To achieve these goals, they should operate openly and interoperably whenever possible. Additionally, they should provide published texts, data, and software in a machine-readable format, and ensure long-term accessibility to the published material.
+
+We thank the speakers and participants of the conference for sharing their expertise and contributing to the development of the statements. We also appreciate the valuable reflections and input from our commentators.
+
+Those interested in more information about the conference can refer to the report published by [@meistring_satelliten-konferenz_2023]. All conference slides have been published on [@zenodo_konferenz_2023].
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labeled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

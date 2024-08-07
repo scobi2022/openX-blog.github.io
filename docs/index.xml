@@ -10,7 +10,104 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Thu, 25 Jul 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Aug 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Perspectives on the future of community-driven Open Access publishing</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Marcel Wrzesinski</dc:creator>
+  <dc:creator>Ben Kaden</dc:creator>
+  <dc:creator>Margo Bargheer</dc:creator>
+  <dc:creator>Maxi Kindling</dc:creator>
+  <dc:creator>Dagmar Schobert</dc:creator>
+  <link>https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The conversation about advancing the open access transformation has been revitalized by the “Council Conclusions on High-Quality, Transparent, Open, Trustworthy, and Equitable Scholarly Publishing” issued by the EU Science Ministries in May 2023 <span class="citation" data-cites="council_of_the_european_union_high-quality_2023">(Council of the European Union 2023)</span>.</p>
+<p>In September 2023, we organized the conference “Community-Driven Open Access Publishing” as a satellite event of the Open Access Days 2023 <span class="citation" data-cites="institut_fur_bibliotheks-_und_informationswissenschaft_satelliten-konferenz_2023">(Bibliotheks- und Informationswissenschaft 2023)</span>.</p>
+<p>During the conference, we discussed ten statements on the future of community-driven open access publishing. An initial version of the statements had been drafted in German by the conference program committee between early March 2023 and the end of July 2023. Attendees had the opportunity to comment on these theses on the PubPub platform during the conference <span class="citation" data-cites="pampel_thesen_2023">(Pampel et al. 2023)</span>.&nbsp;</p>
+<p>The feedback collected on PubPub, at the conference, and on social media formed the basis for revising the statements, of which an updated version was published in April 2024 <span class="citation" data-cites="pampel_thesen_2024">(Pampel, Bargheer, Bertelmann, Kaden, Kindling, et al. 2024)</span>.</p>
+<p><img src="https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing/community-driven-open-access-publishing (2).png" class="img-fluid"></p>
+<p>Together with Margo Bargheer, Roland Bertelmann, Ben Kaden, Maxi Kindling, and Dagmar Schobert, we have since then published an article in German about the development of the statements in the journal Bibliothek Forschung und Praxis <span class="citation" data-cites="pampel_thesen_2024-1">(Pampel, Bargheer, Bertelmann, Kaden, Wrzesinski, et al. 2024)</span>.</p>
+<p>To mark the publication of the ten statements and also to broaden the conversation, this blog post documents the core elements in English:&nbsp;</p>
+<p><strong>1. Bridging the strategic gap</strong></p>
+<p>Community-driven publication infrastructures need backing from a comprehensive, large-scale strategy from research funding and infrastructure organizations. Only a high-profile initiative can ensure the necessary scientific policy support and financial commitment, thereby strengthening digital sovereignty in science.</p>
+<p><strong>2. Acknowledging diversity in funding and business models</strong></p>
+<p>Community-driven publication infrastructures require varied funding and business models tailored to the specific requirements of each (subject) community. This process should be guided by maximum transparency on costs and service portfolio.</p>
+<p><strong>3. Strengthening libraries as publication service providers</strong></p>
+<p>Community-driven publication infrastructures require a professional operation. Academic libraries, with their established services, expertise, and strong networks, are well-positioned to serve as active publication service providers for scholarly communities. Therefore, publication infrastructures within libraries should be systematically expanded.</p>
+<p><strong>4. Ensuring quality, applying standards</strong></p>
+<p>Community-driven publication infrastructures such as journals are responsible for maintaining the content quality of publications. This should be ensured using recognized quality assurance procedures that align with good scientific practice. Formal and technical quality assurance should be implemented by applying open publishing standards for both publications and processes.</p>
+<p><strong>5. Strengthening collaboration with disciplinary communities</strong></p>
+<p>Community-driven publication infrastructures need a strong foundation within scholarly subject communities and their organizational structures, such as learned societies. Collaboration should be participatory while allowing the publication infrastructures to remain autonomous. Libraries should engage more closely with subject communities and proactively shape services for the research community.</p>
+<p><strong>6. Promoting experiments and innovation</strong></p>
+<p>Community-driven publication infrastructures have the potential to shape innovations in scholarly publishing. Experimentation with new publication formats, further development of processes and standards, and exploration of new collaborative approaches should be encouraged.</p>
+<p><strong>7. Ensuring sustainability</strong></p>
+<p>Community-driven publication infrastructures require sustainable funding and business models.&nbsp;</p>
+<p>To achieve this, a clear organizational integration is needed, a precisely defined mission and scope statement is essential, and funding organizations should express their commitment. Furthermore, the technical and legal sustainability of the infrastructures and their publications must be promoted by using open standards and open licenses.</p>
+<p><strong>8. Orienting infrastructures towards the common good</strong></p>
+<p>Community-driven publication infrastructures should focus on the common good and base their activities on the principles and values of the <a href="https://www.unesco.org/en/open-science/about">UNESCO Recommendation on Open Science</a> <span class="citation" data-cites="unesco_unesco_2021">(UNESCO 2021)</span>.</p>
+<p><strong>9. Entering new collaborations</strong></p>
+<p>Community-driven publication infrastructures should explore innovative collaboration models, operate across institutional and national boundaries, and aim to increase their visibility and that of their publications. Collaborations with external service providers can be advantageous, provided that governance remains aligned with scholarly interests.</p>
+<p><strong>10. Implementing Open Science</strong></p>
+<p>Community-driven publication infrastructures should enable the publication of texts, data, software, and other resources, and support the recognition of open science practices in research evaluation. To achieve these goals, they should operate openly and interoperably whenever possible. Additionally, they should provide published texts, data, and software in a machine-readable format, and ensure long-term accessibility to the published material.</p>
+<p>We thank the speakers and participants of the conference for sharing their expertise and contributing to the development of the statements. We also appreciate the valuable reflections and input from our commentators.</p>
+<p>Those interested in more information about the conference can refer to the report published by <span class="citation" data-cites="meistring_satelliten-konferenz_2023">(Meistring and Ferguson 2023)</span>. All conference slides have been published on <span class="citation" data-cites="zenodo_konferenz_2023">(Zenodo 2023)</span>.</p>
+<p>Further information about our work can be found on our official website: <a href="http://hu.berlin/infomgnt" class="uri">http://hu.berlin/infomgnt</a></p>
+<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-institut_fur_bibliotheks-_und_informationswissenschaft_satelliten-konferenz_2023" class="csl-entry">
+Bibliotheks- und Informationswissenschaft, Institut für. 2023. <span>“Satelliten-<span>Konferenz</span> „<span>Wissenschaftsgeleitetes</span> <span>Open</span>-<span>Access</span>-<span>Publizieren</span>“ Zu Den <span>Open</span>-<span>Access</span>-<span>Tagen</span> 2023.”</span> <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/oat23ibi">https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/oat23ibi</a>.
+</div>
+<div id="ref-council_of_the_european_union_high-quality_2023" class="csl-entry">
+Council of the European Union. 2023. <span>“High-Quality, Transparent, Open, Trustworthy and Equitable Scholarly Publishing - <span>Council</span> Conclusions (Approved on 23 <span>May</span> 2023). 9616/23.”</span> Brussels. <a href="https://data.consilium.europa.eu/doc/document/ST-9616-2023-INIT/en/pdf">https://data.consilium.europa.eu/doc/document/ST-9616-2023-INIT/en/pdf</a>.
+</div>
+<div id="ref-meistring_satelliten-konferenz_2023" class="csl-entry">
+Meistring, Marcel, and Lea Maria Ferguson. 2023. <span>“Satelliten-<span>Konferenz</span> „<span>Wissenschaftsgeleitetes</span> <span>Open</span>- <span>Access</span>-<span>Publizieren</span>“ Zu Den <span>Open</span>-<span>Access</span>-<span>Tagen</span> 2023 Am 26. <span>September</span> 2023.”</span> <em>O-Bib. Das Offene Bibliotheksjournal / Herausgeber VDB</em> 10 (4): 1–6. <a href="https://doi.org/10.5282/o-bib/6001">https://doi.org/10.5282/o-bib/6001</a>.
+</div>
+<div id="ref-pampel_thesen_2023" class="csl-entry">
+Pampel, Heinz, Margo Bargheer, Roland Bertelmann, Ben Kaden, Maxi Kindling, Sarah Dellmann, Dagmar Schobert, and Marcel Wrzesinski. 2023. <span>“Thesen Zur <span>Zukunft</span> Des Wissenschaftsgeleiteten <span>Open</span>-<span>Access</span>-<span>Publizierens</span>. <span>Version</span> 1.0, <span>September</span> 2023.”</span> <em>Open-Access-Büro Berlin</em>, September. <a href="https://oabb.pubpub.org/pub/mr9x0ptz/release/2">https://oabb.pubpub.org/pub/mr9x0ptz/release/2</a>.
+</div>
+<div id="ref-pampel_thesen_2024" class="csl-entry">
+Pampel, Heinz, Margo Bargheer, Roland Bertelmann, Ben Kaden, Maxi Kindling, Dagmar Schobert, and Marcel Wrzesinski. 2024. <span>“Thesen Zur <span>Zukunft</span> Des Wissenschaftsgeleiteten <span>Open</span>-<span>Access</span>-<span>Publizierens</span> – <span>Entwicklung</span> Und <span>Diskussion</span> in Einem Partizipativen <span>Prozess</span>.”</span> <em>Bibliothek Forschung Und Praxis</em> 0 (0). <a href="https://doi.org/10.1515/bfp-2024-0027">https://doi.org/10.1515/bfp-2024-0027</a>.
+</div>
+<div id="ref-pampel_thesen_2024-1" class="csl-entry">
+Pampel, Heinz, Margo Bargheer, Roland Bertelmann, Ben Kaden, Marcel Wrzesinski, Maxi Kindling, and Dagmar Schobert. 2024. <span>“Thesen Zur <span>Zukunft</span> Des Wissenschaftsgeleiteten <span>Open</span>-<span>Access</span>-<span>Publizierens</span> (<span>Version</span> 2.0).”</span> <em>Open-Access-Büro Berlin</em>, March. <a href="https://doi.org/10.21428/986c5d43.77851a7c">https://doi.org/10.21428/986c5d43.77851a7c</a>.
+</div>
+<div id="ref-unesco_unesco_2021" class="csl-entry">
+UNESCO. 2021. <span>“<span>UNESCO</span> <span>Recommendation</span> on <span>Open</span> <span>Science</span>.”</span> <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949">https://unesdoc.unesco.org/ark:/48223/pf0000379949</a>.
+</div>
+<div id="ref-zenodo_konferenz_2023" class="csl-entry">
+Zenodo. 2023. <span>“Konferenz „<span>Wissenschaftsgeleitetes</span> <span>Open</span>-<span>Access</span>-<span>Publizieren</span>“.”</span> <a href="https://zenodo.org/communities/oat23ibi?q=&amp;l=list&amp;p=1&amp;s=10&amp;sort=newest">https://zenodo.org/communities/oat23ibi?q=&amp;l=list&amp;p=1&amp;s=10&amp;sort=newest</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
+  author = {Pampel, Heinz and Wrzesinski, Marcel and Kaden, Ben and
+    Bargheer, Margo and Kindling, Maxi and Schobert, Dagmar},
+  title = {Perspectives on the Future of Community-Driven {Open}
+    {Access} Publishing},
+  date = {2024-08-05},
+  url = {https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz, Marcel Wrzesinski, Ben Kaden, Margo Bargheer, Maxi
+Kindling, and Dagmar Schobert. 2024. <span>“Perspectives on the Future
+of Community-Driven Open Access Publishing.”</span> August 5, 2024. <a href="https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing">https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <category>Policy</category>
+  <guid>https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing/</guid>
+  <pubDate>Sun, 04 Aug 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing/community-driven-open-access-publishing (2).png" medium="image" type="image/png" height="108" width="144"/>
+</item>
 <item>
   <title>Research Data Publications Between Dynamism and Persistence - Insights from the #PIDsBUA Workshop</title>
   <dc:creator>Jens Klump</dc:creator>
@@ -73,9 +170,8 @@
 <p>We thank all participants for their enthusiasm and engaging discussions. The workshop offered a great platform for cross-institutional and cross-disciplinary dialogue, promoting valuable mutual learning.</p>
 <p>Many thanks to the BUA for their funding and to the ECDF for their hospitality.</p>
 <p>A workshop report in German is available (<span class="citation" data-cites="klump_workshop_2024">Klump (2024)</span>). The slides and posters are also published (<span class="citation" data-cites="klump_dokumentation_2024">Klump et al. (2024)</span>).</p>
-<p>Further information about our work can be found on our official website: &lt;<a href="http://hu.berlin/infomgnt" class="uri">http://hu.berlin/infomgnt</a>&gt;</p>
-<p><br>
-This text – excluding quotes and otherwise labeled parts – is licensed under the [CC BY 4.0 DEED](<a href="https://creativecommons.org/licenses/by/4.0/deed.de" class="uri">https://creativecommons.org/licenses/by/4.0/deed.de</a>).</p>
+<p>Further information about our work can be found on our official website: <a href="http://hu.berlin/infomgnt" class="uri">http://hu.berlin/infomgnt</a></p>
+<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
 
 
 
