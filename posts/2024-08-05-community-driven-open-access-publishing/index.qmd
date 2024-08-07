@@ -28,7 +28,7 @@ author:
 date: "2024-08-05"
 categories: [Lab Life, Research, Policy]
 citation: 
-  url: https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing  
+  url: https://doi.org/10.59350/7evg5-jm930   
 image: community-driven-open-access-publishing (2).png  
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: community-driven-open-access-publishing_references.bib
