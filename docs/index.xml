@@ -10,7 +10,61 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Sun, 04 Aug 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Sep 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Project launch: Infra Wiss Blogs - Ensuring Permanent Access to Scholarly Blogs</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Project launch: Infra Wiss Blogs - Ensuring Permanent Access to Scholarly Blogs</p>
+<p>We are excited to announce the launch of our new project, “Infra Wiss Blogs - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs” funded by the Deutsche Forschungsgemeinschaft <span class="citation" data-cites="noauthor_forderprogramm_nodate">(DFG 2023)</span>.</p>
+<p>Blogs have become an indispensable component of digital science communication, serving as a platform for scholarly communication, a diary for documenting research findings in the context of open science, or a showcase for communicating scientific findings to the general public. However, challenges for scholarly blogs arise from unresolved issues pertaining to the permanent preservation of blog posts and the frequent lack of evidence in library records, hindering the sustainability of this publication type <span class="citation" data-cites="pampel_kooperative_2024">(Pampel and Rothfritz 2024)</span>.</p>
+<p>The project Infra Wiss Blogs aims to support blogging researchers and information infrastructure institutions in identifying potential solutions for ensuring the long-term accessibility of scholarly blogs in Germany. To this end, the project facilitates and moderates a discussion process to develop a distributed system for a permanent accessibility and storage solution for scholarly blogs. Given the complexity and scope of this endeavor the development of such an information system for research requires collaborative efforts <span class="citation" data-cites="pampel_kooperative_2024">(Pampel and Rothfritz 2024)</span>.</p>
+<p>To foster collaboration and promote stakeholder networking, the project will organize communication forums on this topic, bringing together science and infrastructure. This approach will facilitate coordination among actors, processes, and standards. The process should lead to the development of a distributed, organizational, technological, and cooperatively supported infrastructure that ensures the permanent accessibility of scholarly blogs. Furthermore, the project will be accompanied by a socio-technical perspective of information science <span class="citation" data-cites="pampel_kooperative_2024">(Pampel and Rothfritz 2024)</span>.</p>
+<p>For further details about the project, please refer to the <a href="https://doi.org/10.5281/zenodo.13234482">project proposal</a> <span class="citation" data-cites="pampel_kooperative_2024">(Pampel and Rothfritz 2024)</span>. Additionally, we are excited to host a workshop at this year’s <a href="https://open-access-tage.de/open-access-tage-2024-koeln">Open-Access-Tage</a> in Cologne. Together with our colleagues Evin Dalkilic from Verfassungsblog, Martin Fenner from Front Matter, and Ulrike Stockhausen from the Max Weber Stiftung, we will present the workshop “Wissenschaftsblogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren” and discuss aspects and solutions for providing the continuous accessibility of scholarly blogs <span class="citation" data-cites="gesis_-_leibniz-institute_for_the_social_sciences_open-access-tage_2024">(GESIS - Leibniz-Institute for the Social Sciences et al. 2024)</span>.</p>
+<p>Furthermore we will be hosting the workshop “Vernetzungsworkshop Infra Wiss Blogs” on December 6th at the <a href="https://www.digital-future.berlin/">Einstein Center Digital Future</a>, bringing together bloggers and stakeholders from information infrastructure facilities. At the workshop we will present a first insight into the German scholarly blogs and share experiences from both bloggers as well as information infrastructure experts.</p>
+<p>We will provide updates on current activities and project outputs on the projects blog, that will be published soon, and through the Infra Wiss Blogs <a href="infrawissblogs-ibi@lists.hu-berlin.de">mailing list</a>.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-noauthor_forderprogramm_nodate" class="csl-entry">
+DFG. 2023. <span>“Förderprogramm „<span>Verantwortung</span> Für <span>Informations</span>-Infrastrukturen Gemeinsam Organisieren“ (<span>VIGO</span>).”</span> <a href="https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/vigo">https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/vigo</a>.
+</div>
+<div id="ref-gesis_-_leibniz-institute_for_the_social_sciences_open-access-tage_2024" class="csl-entry">
+GESIS - Leibniz-Institute for the Social Sciences, Catholic University of Applied Sciences of North Rhine – Westphalia, TH Köln - University of Applied Sciences, University of Cologne: University and City Library of Cologne, and German National Library of Medicine. 2024. <span>“Open-<span>Access</span>-<span>Tage</span> 2024.”</span> Technische Informationsbibliothek (TIB). <a href="https://doi.org/10.25798/S2SD-VN02">https://doi.org/10.25798/S2SD-VN02</a>.
+</div>
+<div id="ref-pampel_kooperative_2024" class="csl-entry">
+Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative <span>Informationsinfrastruktur</span> Für Wissenschaftliche <span>Blogs</span> (<span>Infra</span> <span>Wiss</span> <span>Blogs</span>).”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2024,
+  author = {Ochsner, Catharina and Pampel, Heinz},
+  title = {Project Launch: {Infra} {Wiss} {Blogs} - {Ensuring}
+    {Permanent} {Access} to {Scholarly} {Blogs}},
+  date = {2024-09-05},
+  url = {https://infomgnt.de/posts/2024-09-05-project-launch-infra-wiss-blogs},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2024" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, and Heinz Pampel. 2024. <span>“Project Launch: Infra
+Wiss Blogs - Ensuring Permanent Access to Scholarly Blogs.”</span>
+September 5, 2024. <a href="https://infomgnt.de/posts/2024-09-05-project-launch-infra-wiss-blogs">https://infomgnt.de/posts/2024-09-05-project-launch-infra-wiss-blogs</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html</guid>
+  <pubDate>Wed, 04 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/infrawiss_360.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Perspectives on the future of community-driven Open Access publishing</title>
   <dc:creator>Heinz Pampel</dc:creator>

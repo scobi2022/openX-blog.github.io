@@ -1,0 +1,39 @@
+---
+title: "Project launch: Infra Wiss Blogs - Ensuring Permanent Access to Scholarly Blogs"
+author:
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+    affiliation-url: http://hu-berlin.de/infomgnt 
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771 
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt
+date: "2024-09-05"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.de/posts/2024-09-05-project-launch-infra-wiss-blogs 
+image: infrawiss_360.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: references_infrawiss(1).bib 
+---
+
+Project launch: Infra Wiss Blogs - Ensuring Permanent Access to Scholarly Blogs
+
+We are excited to announce the launch of our new project, “Infra Wiss Blogs - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs” funded by the Deutsche Forschungsgemeinschaft [@noauthor_forderprogramm_nodate].
+
+Blogs have become an indispensable component of digital science communication, serving as a platform for scholarly communication, a diary for documenting research findings in the context of open science, or a showcase for communicating scientific findings to the general public. However, challenges for scholarly blogs arise from unresolved issues pertaining to the permanent preservation of blog posts and the frequent lack of evidence in library records, hindering the sustainability of this publication type [@pampel_kooperative_2024].
+
+The project Infra Wiss Blogs aims to support blogging researchers and information infrastructure institutions in identifying potential solutions for ensuring the long-term accessibility of scholarly blogs in Germany. To this end, the project facilitates and moderates a discussion process to develop a distributed system for a permanent accessibility and storage solution for scholarly blogs. Given the complexity and scope of this endeavor the development of such an information system for research requires collaborative efforts [@pampel_kooperative_2024].
+
+To foster collaboration and promote stakeholder networking, the project will organize communication forums on this topic, bringing together science and infrastructure. This approach will facilitate coordination among actors, processes, and standards. The process should lead to the development of a distributed, organizational, technological, and cooperatively supported infrastructure that ensures the permanent accessibility of scholarly blogs. Furthermore, the project will be accompanied by a socio-technical perspective of information science [@pampel_kooperative_2024].
+
+For further details about the project, please refer to the [project proposal](https://doi.org/10.5281/zenodo.13234482) [@pampel_kooperative_2024]. Additionally, we are excited to host a workshop at this year's [Open-Access-Tage](https://open-access-tage.de/open-access-tage-2024-koeln) in Cologne. Together with our colleagues Evin Dalkilic from Verfassungsblog, Martin Fenner from Front Matter, and Ulrike Stockhausen from the Max Weber Stiftung, we will present the workshop “Wissenschaftsblogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren” and discuss aspects and solutions for providing the continuous accessibility of scholarly blogs [@gesis_-_leibniz-institute_for_the_social_sciences_open-access-tage_2024].
+
+Furthermore we will be hosting the workshop “Vernetzungsworkshop Infra Wiss Blogs” on December 6th at the [Einstein Center Digital Future](https://www.digital-future.berlin/), bringing together bloggers and stakeholders from information infrastructure facilities. At the workshop we will present a first insight into the German scholarly blogs and share experiences from both bloggers as well as information infrastructure experts.
+
+We will provide updates on current activities and project outputs on the projects blog, that will be published soon, and through the Infra Wiss Blogs [mailing list](infrawissblogs-ibi@lists.hu-berlin.de).
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labeled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
