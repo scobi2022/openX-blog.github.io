@@ -12,7 +12,7 @@ author:
 date: "2024-09-05"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.de/posts/2024-09-05-project-launch-infra-wiss-blogs 
+  url: https://doi.org/10.59350/sea3s-tc489  
 image: infrawiss_360.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: references_infrawiss(1).bib 
