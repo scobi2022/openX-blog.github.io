@@ -9,7 +9,7 @@ author:
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
     affiliation-url: http://hu-berlin.de/infomgnt 
-date: "2024-10-XX"
+date: "2024-10-01"
 categories: [Lab Life, Research]
 citation: 
   url: https://infrawissblogs/posts/survey-announcement-publication-costs

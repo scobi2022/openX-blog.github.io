@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/2024-09-30-survey-announcement-publication-costs/index.html",
       "/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html",
       "/posts/2024-08-05-community-driven-open-access-publishing/index.html",
       "/posts/2024-07-26-pidsbua-workshop/index.html",
@@ -9,13 +10,13 @@
       "/posts/2024-07-15-hands-on-lab-report/index.html",
       "/posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html",
       "/posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html",
-      "/posts/2024-03-25-welcome/index.html",
-      "/posts/2024-09-30-survey-announcement-publication-costs/index.html"
+      "/posts/2024-03-25-welcome/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2024-09-30-survey-announcement-publication-costs/index.html",
       "/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html",
       "/posts/2024-08-05-community-driven-open-access-publishing/index.html",
       "/posts/2024-07-26-pidsbua-workshop/index.html",
@@ -23,8 +24,7 @@
       "/posts/2024-07-15-hands-on-lab-report/index.html",
       "/posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html",
       "/posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html",
-      "/posts/2024-03-25-welcome/index.html",
-      "/posts/2024-09-30-survey-announcement-publication-costs/index.html"
+      "/posts/2024-03-25-welcome/index.html"
     ]
   }
 ]
