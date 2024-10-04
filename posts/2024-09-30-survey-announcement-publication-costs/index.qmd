@@ -12,7 +12,7 @@ author:
 date: "2024-10-01"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infrawissblogs/posts/survey-announcement-publication-costs
+  url: https://doi.org/10.59350/9z58m-vwv42 
 image: map.png
 draft: false
 ---
