@@ -12,7 +12,7 @@ author:
 date: "2024-10-09"
 categories: [Lab Life, Research, Workshop]
 citation: 
-  url: https://infomgnt.org/posts/2024-10-09-invitation-to-the-networking-workshop  
+  url: https://doi.org/10.59350/7sbqk-ppj44   
 image: vernetzungsworkshop.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: bibliography_invitation.bib
