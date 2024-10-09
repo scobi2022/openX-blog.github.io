@@ -10,7 +10,115 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Mon, 30 Sep 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 08 Oct 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Invitation to the networking workshop of the Infra Wiss Blogs project</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/vernetzungsworkshop.png" class="img-fluid"></p>
+<p>As part of the Infra Wiss Blogs <span class="citation" data-cites="pampel_kooperative_2024">(Pampel and Rothfritz 2024)</span> project, we are organizing a first networking workshop for blogging researchers and employees from infrastructure facilities on 06.12.2024.</p>
+<p>The aim is to share initial experiences of the various stakeholders and promote their exchange. We will also present the initial results of our survey of German science blogs.</p>
+<p>When? Wednesday, 06.12.2024, 10:30-15:00</p>
+<p>Where? Robert-Koch-Forum of the Einstein Center Digital Future (ECDF), Wilhelmstraße 67, 10117 Berlin</p>
+<p>We are currently planning with the following program:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 75%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Time</strong></td>
+<td><strong>Topic</strong></td>
+</tr>
+<tr class="even">
+<td>10:30</td>
+<td>Welcome</td>
+</tr>
+<tr class="odd">
+<td>11:00</td>
+<td>Presentation of the results of the mapping of the German science blog landscape.</td>
+</tr>
+<tr class="even">
+<td>11:30</td>
+<td>Coffee Break</td>
+</tr>
+<tr class="odd">
+<td>12:00</td>
+<td>Presentation by Henning Krause (Helmholtz Blogs) (angefragt)</td>
+</tr>
+<tr class="even">
+<td>12:30</td>
+<td>Presentation by Martin Fenner (Front Matter)</td>
+</tr>
+<tr class="odd">
+<td>13:00</td>
+<td>Food break</td>
+</tr>
+<tr class="even">
+<td>13:30</td>
+<td>Impulses from practice</td>
+</tr>
+<tr class="odd">
+<td>14:00</td>
+<td>Discussion round 1</td>
+</tr>
+<tr class="even">
+<td>14:30</td>
+<td>Discussion round 2</td>
+</tr>
+<tr class="odd">
+<td>15:00</td>
+<td>Summary of the results</td>
+</tr>
+<tr class="even">
+<td>15:15</td>
+<td>End of the Workshop</td>
+</tr>
+</tbody>
+</table>
+<p>The workshop will be organized in German. <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/vernetzungsworkshop-infra-wiss-blogs/anmeldung-vernetzungsworkshop-infra-wiss-blogs">Registration</a> is possible through the website of our research group.</p>
+<p>If you have any questions, feel free to contact Catharina Ochsner directly, who is managing the project for us. Her email address is: <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a></p>
+<p>Further information about the project can be found on the new website of the Infra Wiss Blogs site at: <a href="https://infrawissblogs.org/" class="uri">https://infrawissblogs.org/</a>. In the future, we will also report on the project’s progress in German on this website, where we will organize a project blog.</p>
+<p>Additional workshops are planned for the coming year.&nbsp;</p>
+<p>The “First come, first served” motto applies. We have space for about 20 people. We look forward to your participation. Registrations are possible until the 20th of October 2024.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-pampel_kooperative_2024" class="csl-entry">
+Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative <span>Informationsinfrastruktur</span> Für Wissenschaftliche <span>Blogs</span> (<span>Infra</span> <span>Wiss</span> <span>Blogs</span>).”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2024,
+  author = {Ochsner, Catharina and Pampel, Heinz},
+  title = {Invitation to the Networking Workshop of the {Infra} {Wiss}
+    {Blogs} Project},
+  date = {2024-10-09},
+  url = {https://infomgnt.org/posts/2024-10-09-invitation-to-the-networking-workshop},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2024" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, and Heinz Pampel. 2024. <span>“Invitation to the
+Networking Workshop of the Infra Wiss Blogs Project.”</span> October 9,
+2024. <a href="https://infomgnt.org/posts/2024-10-09-invitation-to-the-networking-workshop">https://infomgnt.org/posts/2024-10-09-invitation-to-the-networking-workshop</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <category>Workshop</category>
+  <guid>https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/</guid>
+  <pubDate>Tue, 08 Oct 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/vernetzungsworkshop.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>Survey announcement: Recording publication costs at research performing institutions in Germany</title>
   <dc:creator>Dorothea Strecker</dc:creator>

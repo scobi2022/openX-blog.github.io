@@ -1,0 +1,60 @@
+---
+title: "Invitation to the networking workshop of the Infra Wiss Blogs project"
+author:
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951 
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+    affiliation-url: http://hu-berlin.de/infomgnt 
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt
+date: "2024-10-09"
+categories: [Lab Life, Research, Workshop]
+citation: 
+  url: https://infomgnt.org/posts/2024-10-09-invitation-to-the-networking-workshop  
+image: vernetzungsworkshop.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: bibliography_invitation.bib
+---
+
+![](vernetzungsworkshop.png)
+
+As part of the Infra Wiss Blogs [@pampel_kooperative_2024] project, we are organizing a first networking workshop for blogging researchers and employees from infrastructure facilities on 06.12.2024.
+
+The aim is to share initial experiences of the various stakeholders and promote their exchange. We will also present the initial results of our survey of German science blogs.
+
+When? Wednesday, 06.12.2024, 10:30-15:00
+
+Where? Robert-Koch-Forum of the Einstein Center Digital Future (ECDF), Wilhelmstraße 67, 10117 Berlin
+
+We are currently planning with the following program:
+
+|          |                                                                                  |
+|------------------|------------------------------------------------------|
+| **Time** | **Topic**                                                                        |
+| 10:30    | Welcome                                                                          |
+| 11:00    | Presentation of the results of the mapping of the German science blog landscape. |
+| 11:30    | Coffee Break                                                                     |
+| 12:00    | Presentation by Henning Krause (Helmholtz Blogs) (angefragt)                     |
+| 12:30    | Presentation by Martin Fenner (Front Matter)                                     |
+| 13:00    | Food break                                                                       |
+| 13:30    | Impulses from practice                                                           |
+| 14:00    | Discussion round 1                                                               |
+| 14:30    | Discussion round 2                                                               |
+| 15:00    | Summary of the results                                                           |
+| 15:15    | End of the Workshop                                                              |
+
+The workshop will be organized in German. [Registration](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/vernetzungsworkshop-infra-wiss-blogs/anmeldung-vernetzungsworkshop-infra-wiss-blogs) is possible through the website of our research group.
+
+If you have any questions, feel free to contact Catharina Ochsner directly, who is managing the project for us. Her email address is: [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de)
+
+Further information about the project can be found on the new website of the Infra Wiss Blogs site at: <https://infrawissblogs.org/>. In the future, we will also report on the project's progress in German on this website, where we will organize a project blog.
+
+Additional workshops are planned for the coming year. 
+
+The "First come, first served" motto applies. We have space for about 20 people. We look forward to your participation. Registrations are possible until the 20th of October 2024.
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
