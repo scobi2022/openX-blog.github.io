@@ -31,7 +31,7 @@ Where? Robert-Koch-Forum of the Einstein Center Digital Future (ECDF), Wilhelmst
 We are currently planning with the following program:
 
 |          |                                                                                  |
-|------------------|------------------------------------------------------|
+|----------|----------------------------------------------------------------------------------|
 | **Time** | **Topic**                                                                        |
 | 10:30    | Welcome                                                                          |
 | 11:00    | Presentation of the results of the mapping of the German science blog landscape. |
