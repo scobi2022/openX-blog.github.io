@@ -1,0 +1,73 @@
+---
+title: "Blogs as a blueprint for community-led Open Access publishing"
+author:
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951 
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+    affiliation-url: http://hu-berlin.de/infomgnt 
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Evin Dalkilic
+    url: https://verfassungsblog.de/author/evin-dalkilic/
+    affiliation: Verfassungsblog
+    affiliation-url: https://verfassungsblog.de/
+  - name: Martin Fenner
+    url: https://front-matter.io/team
+    orcid: 0000-0003-1419-2405
+    affiliation: Front Matter
+    affiliation-url: https://front-matter.io/
+  - name: Mareike König
+    url: https://www.dhi-paris.fr/institut/team/wissenschaft/mareike-koenig.html
+    orcid: 0000-0002-8189-8574
+    affiliation: Deutsches Historisches Institut Paris
+    affiliation-url: https://www.dhi-paris.fr/de/home.html
+  - name: Ulrike Stockhausen
+    orcid: 0000-0002-8016-6902
+    affiliation: Max Weber Stiftung
+    affiliation-url: https://www.maxweberstiftung.de/startseite.html
+date: "2024-10-17"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2024-10-17/blogs-as-a-blueprint-for-community-led-OA-publishing   
+image: OAT.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: references_oatage.bib
+---
+
+Scholarly blogs can disseminate current research content quickly and beyond their own specialist community and put it up for discussion. Open communication without paywalls increases the visibility of scholarly research. Researchers as well as information infrastructure and cultural institutions therefore have an interest in supporting scholarly blogs as an Open Access publication format. But what can the individual actors do to strengthen and further develop scholarly blogs and how do scholarly blogs fit into current discussions about the science-led development of the Open Access transformation [@pampel_thesen_2024]?
+
+During the workshop ‘Blogs as a blueprint for community-led Open Access publishing’ which took place as a part of the Open-Access-Tage 2024, the role of blogs within science communication was discussed using three statements [@noauthor_open-access-tage_nodate].
+
+The workshop was organized and moderated by Evin Dalkilic from [Verfassungsblog](https://verfassungsblog.de/), Martin Fenner from [Front Matter](https://front-matter.io/), Mareike König from the [German historical Institute Paris](https://www.dhi-paris.fr/home.html), Catharina Ochsner from the [Berlin School of Library and Information Science](https://www.ibi.hu-berlin.de/de) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/de) , Heinz Pampel, also from Berlin School of Library and Information Science as well as the [Helmholtz Open Science Office](https://os.helmholtz.de/) and Ulrike Stockhausen from the [Max Weber Foundation](https://www.maxweberstiftung.de/startseite.html) / [de.hypotheses](https://de.hypotheses.org/). The workshop was aimed at scientists, as well as information and publication professionals. The aims of the workshop were: to create a deeper understanding of the importance of scholarly blogs as an instrument of scholarly and science communication, to strengthen the recognition of their contribution to an open and sustainable research culture, and to identify needs for the further development of community-led open access publication infrastructures, based on the experiences of the participants [@noauthor_open-access-tage_nodate].
+
+Together with the participants, statements on the following three topics were discussed: (1) workflow-related basic services, (2) networking services and (3) reputation management of scholarly blogs.
+
+### Discussion 1: Workflow-related basic services Statement:
+
+“Scholarly blogs must provide the same basic services as other forms of scientific publication: including PID assignment with relevant metadata, indexing in relevant catalogs, provision of full texts in various formats and long-term archiving.”
+
+A central topic in the discussion on thesis 1 was the question of the definition of scholarly blogs: What formats and content characterize ‘scholarly blogs’? Which components should be archived in the long term? This also raises the question of whether authors are interested in permanent availability. Since the role of blogs varies greatly depending on discipline, bloggers also have different requirements for their archiving. The format also raises the question of whether discussions and comments, which are important additions to the blog posts, should and can be archived. The participants emphasized that the responsibility for making blogs and their content findable, visible and accessible in the long term lies not only with the bloggers, but also with information infrastructure institutions.
+
+### Discussion 2: Networking services
+
+Statement: “Scholarly blogs are living networks and show research at its best: open, transparent, serious.”
+
+Once again, the participants discussed issues relating to the definition and function of scholarly blogs and the quality assurance of content, as scholarly blogs are used for very different purposes and with different requirements - while some have their own editorial boards, others focus more on popular science communication. In the discussion, it became clear that quality assurance on scholarly blogs can be made possible primarily through openness and transparency (e.g. through versioning and comments). The connection of many blogs to research institutes or third-party funded projects also creates transparency and quality assurance. The possibility of low-threshold commenting and discussing content also contributes significantly to quality assurance (keyword: open peer review).
+
+With regard to the quality assurance of scholarly blogs in comparison to the traditional scholarly publication landscape, the concern was also expressed that traditional publishing structures - such as gatekeeping by editorial offices and publishers- could be adopted in the blog landscape, although blogs should offer a more open format for scientific communication.
+
+### Discussion 3: Reputation management
+
+Statement: “Science blogs as a low-threshold, genuinely freely accessible and digital publication format are particularly suitable for reputation building.”
+
+Questions of quality assurance, trustworthiness and scientific rigor were also discussed as part of the third statement. However, the answers to these questions also depend on the blog's target audience. Should the interested public or the scientific community be addressed? The primary target audience has a decisive influence on how research is communicated and from whom recognition and reputation are expected. It was also observed that the reputation of blog posts depends on the respective blog and their discipline. Open peer reviews, e.g. through comment columns, were mentioned as a means of quality assurance, but consideration was also given to orienting oneself on existing quality assurance procedures for journals or other journalistic outlets. At the same time, blogs also offer the opportunity to break away from traditional publishers and establish themselves as an independent, academic publication format. In particular, blogs make it possible to develop and test new ideas. They often serve as a starting point for more extensive publications such as journal articles - which then also incorporate the discussions on the blog.
+
+Conclusion Scholarly blogs offer a diverse format for presenting and discussing scientific ideas and research results at an early stage, flexibly and with a low threshold. They can serve as an independent publication platform for scholarly and science communication. Although quality and reputation can vary depending on the discipline and blog, scholarly blogs have the potential to establish themselves as a serious, open and transparent publication medium. Quality assurance, archiving and recognition represent a challenge that differs from traditional publications. In addition, very fundamental questions arise, such as the definition of scholarly blogs, i.e. their formal, technical and content requirements, or their function as a medium of science communication.
+
+Updates and further information on the Infra Wiss Blog can be found on the Project Website On December 06, 2024, the project team at the Berlin School of Library and Information Science will organize a networking workshop in Berlin at the Einstein Center Digital Future (ECDF) in Berlin. The event will be held in German. Registration is possible here. We look forward to further discussions on the topic.
+
+Further information about the research and teaching group, Information Management, at the Berlin School of Library and Information Science can be found on the official group [website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

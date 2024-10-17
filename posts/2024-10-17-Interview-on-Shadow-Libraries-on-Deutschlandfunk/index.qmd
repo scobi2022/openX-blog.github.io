@@ -1,0 +1,26 @@
+---
+title: "Interview on Shadow Libraries on Deutschlandfunk"
+author:
+  - name: Heinz Pampel
+    url: https://heinzpampel.de
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz Association , Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt
+date: "2024-10-17"
+categories: [Lab Life, Research]
+citation:
+  url: https://infomgnt.org/posts/2024-10-17-Interview-on-Shadow-Libraries-on-Deutschlandfunk 
+image: schattenbibliotheken.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: schattenbibliotheken.bib
+---
+
+In the latest episode of ["Breitband"](https://www.deutschlandfunkkultur.de/breitband-100.html) on Deutschlandfunk Kultur, there is an interview with [Dorothea Strecker](https://www.ibi.hu-berlin.de/de/institut/personen/strecker) from our research group at the Berlin School of Library and Information Science on shadow libraries [@belanger_pirate_2024]. The occasion for the interview was the lawsuit for damages against LibGen in the United States.
+
+![](schattenbibliotheken.jpeg)
+
+Here's the linkt to the Interview: ["LibGen: Shadow Libraries and eBook Piracy"](https://www.deutschlandfunkkultur.de/libgen-schattenbibliothek-ebook-piraterie-100.html) [@deutschlandfunkkulturde_libgen-urteil_2024].
+
+Further information about our research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labeled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

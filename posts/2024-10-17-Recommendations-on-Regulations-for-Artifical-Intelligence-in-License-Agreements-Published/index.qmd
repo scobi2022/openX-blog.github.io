@@ -1,0 +1,22 @@
+---
+title: "Recommendations on Regulations for Artificial Intelligence in License Agreements Published"
+author: 
+  - name: Heinz Pampel
+    url: https://heinzpampel.de 
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt 
+date: "2024-10-17"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2024-10-17-Recommendations-on-Regulations-for-Artificial-Intelligence-in-License-Agreements_Published
+image: Arrangements on artificial intelligence in licence agreements.jpeg
+draft: false
+bibliography: references_recommendations_artificial_intelligence_in_license_agreements.bib
+---
+
+Together with Christian Agi, Michael Beurskens, Marion von Francken, Judith Ludwig, and Bernhard Mittermaier, I have been working on recommendations for the inclusion of artificial intelligence in license agreements with publishers over the past few months. As part of the Task Force "[Regulations on Artificial Intelligence in License Agreements](https://www.allianzschwerpunkt-digitalitaet.de/2024/10/02/ubersetzung-arrangements-on-artificial-intelligence-in-licence-agreements-recommendations-for-action-of-september-2024-veroffentlicht/)," within the focus area "[Digitalization in Science"](https://www.allianzschwerpunkt-digitalitaet.de) of the Alliance of German Science Organizations [@bertelmann_schwerpunkt_2023], we addressed legal frameworks concerning permissions and prohibitions related to Text and Data Mining (TDM) and Artificial Intelligence (AI) under German law. Our work has led to recommendations for contract design. The recommendations are primarily intended for those negotiating license agreements with publishing service providers and those working with these contracts in libraries. It also indirectly benefits researchers who wish to use licensed content for TDM and AI applications. The recommendations are now available in both German [@agi_regelungen_2024] and English [@agi_arrangements_2024]. The goal of the focus area "Digitalization in Science" is to identify the needs of scientists concerning digital infrastructures and services, engage in dialogue with relevant communities, develop practical expertise to support the scholarly work of Alliance organizations, and help shape the framework for digital research. The initiative is guided by principles that prioritize Open Access, while also ensuring sovereignty over data, tools, and infrastructures. [@allianz_der_wissenschaftsorganisationen_initiatives_nodate].
+
+Further information about the work of our research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labeled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
