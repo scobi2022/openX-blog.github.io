@@ -9,7 +9,7 @@ author:
 date: "2024-10-17"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2024-10-17-Interview-on-Shadow-Libraries-on-Deutschlandfunk 
+  url: https://doi.org/10.59350/66e4r-zd174  
 image: schattenbibliotheken.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: schattenbibliotheken.bib

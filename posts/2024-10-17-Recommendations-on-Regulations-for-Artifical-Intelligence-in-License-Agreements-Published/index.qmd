@@ -9,7 +9,7 @@ author:
 date: "2024-10-17"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2024-10-17-Recommendations-on-Regulations-for-Artificial-Intelligence-in-License-Agreements_Published
+  url: https://doi.org/10.59350/qje5d-11g43 
 image: Arrangements on artificial intelligence in licence agreements.jpeg
 draft: false
 bibliography: references_recommendations_artificial_intelligence_in_license_agreements.bib
