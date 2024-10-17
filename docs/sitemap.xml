@@ -2,19 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://infomgnt.org/posts.html</loc>
-    <lastmod>2024-07-01T14:18:17.411Z</lastmod>
+    <lastmod>2024-10-10T13:07:21.543Z</lastmod>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://infomgnt.org/posts/2024-10-17-Recommendations-on-Regulations-for-Artifical-Intelligence-in-License-Agreements-Published/index.html</loc>
     <lastmod>2024-10-16T10:24:09.314Z</lastmod>
   </url>
   <url>
     <loc>https://infomgnt.org/posts/2024-10-16-blogs-as-blueprint-for-community-led-OA-publishing/index.html</loc>
     <lastmod>2024-10-16T10:11:47.703Z</lastmod>
+=======
+    <loc>https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/index.html</loc>
+    <lastmod>2024-10-10T13:07:18.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html</loc>
+    <lastmod>2024-10-10T13:07:16.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://infomgnt.org/posts/2024-07-26-reisebericht-bibliocon/index.html</loc>
+    <lastmod>2024-10-10T13:07:13.813Z</lastmod>
+  </url>
+  <url>
+    <loc>https://infomgnt.org/posts/2024-07-15-hands-on-lab-report/index.html</loc>
+    <lastmod>2024-10-10T13:07:11.278Z</lastmod>
+  </url>
+  <url>
+    <loc>https://infomgnt.org/posts/2024-03-25-welcome/index.html</loc>
+    <lastmod>2024-10-10T13:07:08.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://infomgnt.org/about.html</loc>
+    <lastmod>2024-10-10T13:07:05.606Z</lastmod>
+  </url>
+  <url>
+    <loc>https://infomgnt.org/index.html</loc>
+    <lastmod>2024-10-10T13:07:07.818Z</lastmod>
+  </url>
+  <url>
+    <loc>https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html</loc>
+    <lastmod>2024-10-10T13:07:10.061Z</lastmod>
+  </url>
+  <url>
+    <loc>https://infomgnt.org/posts/2024-07-26-pidsbua-workshop/index.html</loc>
+    <lastmod>2024-10-10T13:07:12.527Z</lastmod>
+  </url>
+  <url>
+    <loc>https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing/index.html</loc>
+    <lastmod>2024-10-10T13:07:15.151Z</lastmod>
+>>>>>>> cfca1f32b8fde5ae7609e53f9f9caf23f7340530
   </url>
   <url>
     <loc>https://infomgnt.org/posts/2024-09-30-survey-announcement-publication-costs/index.html</loc>
-    <lastmod>2024-10-04T17:07:54.889Z</lastmod>
+    <lastmod>2024-10-10T13:07:17.459Z</lastmod>
   </url>
   <url>
     <loc>https://infomgnt.org/posts/2024-08-05-community-driven-open-access-publishing/index.html</loc>
@@ -62,6 +103,6 @@
   </url>
   <url>
     <loc>https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/index.html</loc>
-    <lastmod>2024-08-07T12:47:06.002Z</lastmod>
+    <lastmod>2024-10-10T13:07:19.733Z</lastmod>
   </url>
 </urlset>
