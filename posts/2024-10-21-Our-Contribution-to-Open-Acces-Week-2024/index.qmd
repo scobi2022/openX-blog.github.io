@@ -9,7 +9,7 @@ author:
 date: "2024-10-21"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Access-Week-2024 
+  url: https://doi.org/10.59350/9n4et-tkf55  
 image: oaweek2024.jpeg
 draft: false
 bibliography: oaweek2024.bib 
