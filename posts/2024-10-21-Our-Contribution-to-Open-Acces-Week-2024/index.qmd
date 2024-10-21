@@ -1,0 +1,44 @@
+---
+title: "Our Contribution to Open Access Week 2024"
+author: 
+  - name: Heinz Pampel
+    url: https://heinzpampel.de 
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt 
+date: "2024-10-21"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Access-Week-2024 
+image: oaweek2024.jpeg
+draft: false
+bibliography: oaweek2024.bib 
+---
+
+This week marks the fifteenth annual International [Open Access Week](https://www.openaccessweek.org/). Since 2010, the week has provided a platform to discuss the state and challenges of open access to scientific knowledge. While the early years focused on access to scientific articles [@noauthor_open_2024], this year's activities increasingly address other aspects of Open Science.
+
+Universities, research labs, and libraries worldwide are participating in the week with various activities. For Germany, a list of events can be found on the website [open-access.network](https://open-access.network/services/news/artikel/open-access-week-2024). Since 2012, a theme has been chosen for the week each year. This year's theme is "Community over Commercialization" [@open_access_week_theme_nodate].
+
+Our research group is also participating in this year’s Open Access Week. On Monday, October 21, 2024, from 2:00 PM to 3:30 PM (CET), we are organizing a panel in collaboration with the [Open-Access-Büro Berlin](https://www.open-access-berlin.de/) titled "Open Access Monitoring – Opportunities and Challenges for Open Science." The event will be held online in German. Registration is available on the Open-Access-Büro Berlin [website](https://blogs.fu-berlin.de/open-access-berlin/2024/08/02/quo-vadis-4-auftaktveranstaltung/).
+
+![](oaweek2024.jpeg)
+
+Abstract [@kindling_21_2024, translation by me]
+
+To track the progress of the transformation to Open Access, indicators such as publication numbers or publication costs are often considered. Open data plays a key role in this. With [OpenAlex](https://openalex.org/) [@priem_openalex_2022] and the accompanying [Barcelona Declaration on Open Research Information](https://barcelona-declaration.org/) [@noauthor_barcelona_nodate], the Open Access community is well on its way to ensuring that monitoring is not left solely to commercial providers. At the same time, new challenges arise in monitoring, such as considering more advanced principles of Open Science in the context of community-led Open Access publishing or including other publication formats and practices. These questions include:
+
+-   How can we track the growing number of community-led initiatives and their publication and funding models without simply counting the quantitative output of journals and articles?
+
+-   How can institutions make their efforts to build open publication infrastructures more visible?
+
+-   How can the implementation of strategies be made visible not only in terms of outcomes at a given point in time but also in terms of process?
+
+-    How much influence do the things we measure and define have on the path we take in the Open Access transformation?
+
+I look forward to moderating the discussions with Irene Barbers (Forschungszentrum Jülich), Najko Jahn (University of Göttingen), Jochen Johannsen (RWTH Aachen), and Maxi Kindling (Open-Access-Büro Berlin).
+
+The event is also part of the ["Quo Vadis Open Science in Berlin and Brandenburg 2024/25"](URL) series, which addresses the state and perspectives of Open Science in Berlin and Brandenburg.
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

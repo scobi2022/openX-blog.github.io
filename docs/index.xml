@@ -10,7 +10,70 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Wed, 16 Oct 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Oct 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Our Contribution to Open Access Week 2024</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week marks the fifteenth annual International <a href="https://www.openaccessweek.org/">Open Access Week</a>. Since 2010, the week has provided a platform to discuss the state and challenges of open access to scientific knowledge. While the early years focused on access to scientific articles <span class="citation" data-cites="noauthor_open_2024">(<span>“Open <span>Access</span> <span>Week</span>”</span> 2024)</span>, this year’s activities increasingly address other aspects of Open Science.</p>
+<p>Universities, research labs, and libraries worldwide are participating in the week with various activities. For Germany, a list of events can be found on the website <a href="https://open-access.network/services/news/artikel/open-access-week-2024">open-access.network</a>. Since 2012, a theme has been chosen for the week each year. This year’s theme is “Community over Commercialization” <span class="citation" data-cites="open_access_week_theme_nodate">(Week n.d.)</span>.</p>
+<p>Our research group is also participating in this year’s Open Access Week. On Monday, October 21, 2024, from 2:00 PM to 3:30 PM (CET), we are organizing a panel in collaboration with the <a href="https://www.open-access-berlin.de/">Open-Access-Büro Berlin</a> titled “Open Access Monitoring – Opportunities and Challenges for Open Science.” The event will be held online in German. Registration is available on the Open-Access-Büro Berlin <a href="https://blogs.fu-berlin.de/open-access-berlin/2024/08/02/quo-vadis-4-auftaktveranstaltung/">website</a>.</p>
+<p><img src="https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/oaweek2024.jpeg" class="img-fluid"></p>
+<p>Abstract <span class="citation" data-cites="kindling_21_2024">(Kindling and Pampel 2024,translation by me)</span></p>
+<p>To track the progress of the transformation to Open Access, indicators such as publication numbers or publication costs are often considered. Open data plays a key role in this. With <a href="https://openalex.org/">OpenAlex</a> <span class="citation" data-cites="priem_openalex_2022">(Priem, Piwowar, and Orr 2022)</span> and the accompanying <a href="https://barcelona-declaration.org/">Barcelona Declaration on Open Research Information</a> <span class="citation" data-cites="noauthor_barcelona_nodate">(<span>“Barcelona <span>Declaration</span> on <span>Open</span> <span>Research</span> <span>Information</span>”</span> n.d.)</span>, the Open Access community is well on its way to ensuring that monitoring is not left solely to commercial providers. At the same time, new challenges arise in monitoring, such as considering more advanced principles of Open Science in the context of community-led Open Access publishing or including other publication formats and practices. These questions include:</p>
+<ul>
+<li><p>How can we track the growing number of community-led initiatives and their publication and funding models without simply counting the quantitative output of journals and articles?</p></li>
+<li><p>How can institutions make their efforts to build open publication infrastructures more visible?</p></li>
+<li><p>How can the implementation of strategies be made visible not only in terms of outcomes at a given point in time but also in terms of process?</p></li>
+<li><p>How much influence do the things we measure and define have on the path we take in the Open Access transformation?</p></li>
+</ul>
+<p>I look forward to moderating the discussions with Irene Barbers (Forschungszentrum Jülich), Najko Jahn (University of Göttingen), Jochen Johannsen (RWTH Aachen), and Maxi Kindling (Open-Access-Büro Berlin).</p>
+<p>The event is also part of the <a href="URL">“Quo Vadis Open Science in Berlin and Brandenburg 2024/25”</a> series, which addresses the state and perspectives of Open Science in Berlin and Brandenburg.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-noauthor_barcelona_nodate" class="csl-entry">
+<span>“Barcelona <span>Declaration</span> on <span>Open</span> <span>Research</span> <span>Information</span>.”</span> n.d. <em>Barcelona Declaration on Open Research Information</em>. Accessed October 17, 2024. <a href="https://barcelona-declaration.org/">https://barcelona-declaration.org/</a>.
+</div>
+<div id="ref-kindling_21_2024" class="csl-entry">
+Kindling, Maxi, and Heinz Pampel. 2024. <span>“21. <span>Oktober</span> 2024: <span>Open</span> <span>Access</span> <span>Monitoring</span> – <span>Chancen</span> Und <span>Herausforderungen</span> Für Die Offene <span>Wissenschaft</span> (<span>Auftaktveranstaltung</span> in Der <span>Reihe</span> „<span>Quo</span> Vadis Offene <span>Wissenschaft</span> in <span>Berlin</span> Und <span>Brandenburg</span>“) – <span>Open</span> <span>Access</span> <span>Blog</span> <span>Berlin</span>.”</span> <a href="https://blogs.fu-berlin.de/open-access-berlin/2024/08/02/quo-vadis-4-auftaktveranstaltung/">https://blogs.fu-berlin.de/open-access-berlin/2024/08/02/quo-vadis-4-auftaktveranstaltung/</a>.
+</div>
+<div id="ref-noauthor_open_2024" class="csl-entry">
+<span>“Open <span>Access</span> <span>Week</span>.”</span> 2024. <em>Wikipedia</em>. <a href="https://en.wikipedia.org/w/index.php?title=Open_Access_Week&amp;oldid=1251639261">https://en.wikipedia.org/w/index.php?title=Open_Access_Week&amp;oldid=1251639261</a>.
+</div>
+<div id="ref-priem_openalex_2022" class="csl-entry">
+Priem, Jason, Heather Piwowar, and Richard Orr. 2022. <span>“<span>OpenAlex</span>: <span>A</span> Fully-Open Index of Scholarly Works, Authors, Venues, Institutions, and Concepts.”</span> arXiv. <a href="https://doi.org/10.48550/arXiv.2205.01833">https://doi.org/10.48550/arXiv.2205.01833</a>.
+</div>
+<div id="ref-open_access_week_theme_nodate" class="csl-entry">
+Week, Open Access. n.d. <span>“Theme for <span>Open</span> <span>Access</span> <span>Week</span> 2024 <span>Continues</span> <span>Call</span> to <span>Put</span> <span>‘<span>Community</span> over <span>Commercialization</span>’</span>.”</span> Accessed October 17, 2024. <a href="https://www.openaccessweek.org/theme/en">https://www.openaccessweek.org/theme/en</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
+  author = {Pampel, Heinz},
+  title = {Our {Contribution} to {Open} {Access} {Week} 2024},
+  date = {2024-10-21},
+  url = {https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Access-Week-2024},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz. 2024. <span>“Our Contribution to Open Access Week
+2024.”</span> October 21, 2024. <a href="https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Access-Week-2024">https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Access-Week-2024</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/</guid>
+  <pubDate>Sun, 20 Oct 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/oaweek2024.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Blogs as a blueprint for community-led Open Access publishing</title>
   <dc:creator>Catharina Ochsner</dc:creator>
@@ -67,13 +130,13 @@ Pampel, Heinz, Margo Bargheer, Roland Bertelmann, Ben Kaden, Maxi Kindling, Dagm
   title = {Blogs as a Blueprint for Community-Led {Open} {Access}
     Publishing},
   date = {2024-10-17},
-  url = {https://infomgnt.org/posts/2024-10-17/blogs-as-a-blueprint-for-community-led-OA-publishing},
+  url = {https://doi.org/10.59350/b971b-ek551},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2024" class="csl-entry quarto-appendix-citeas">
 Ochsner, Catharina, Heinz Pampel, Evin Dalkilic, Martin Fenner, Mareike
 König, and Ulrike Stockhausen. 2024. <span>“Blogs as a Blueprint for
-Community-Led Open Access Publishing.”</span> October 17, 2024. <a href="https://infomgnt.org/posts/2024-10-17/blogs-as-a-blueprint-for-community-led-OA-publishing">https://infomgnt.org/posts/2024-10-17/blogs-as-a-blueprint-for-community-led-OA-publishing</a>.
+Community-Led Open Access Publishing.”</span> October 17, 2024. <a href="https://doi.org/10.59350/b971b-ek551">https://doi.org/10.59350/b971b-ek551</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
@@ -111,12 +174,12 @@ deutschlandfunkkultur.de. 2024. <span>“<span>LibGen</span>-<span>Urteil</span>
   author = {Pampel, Heinz},
   title = {Interview on {Shadow} {Libraries} on {Deutschlandfunk}},
   date = {2024-10-17},
-  url = {https://infomgnt.org/posts/2024-10-17-Interview-on-Shadow-Libraries-on-Deutschlandfunk},
+  url = {https://doi.org/10.59350/66e4r-zd174},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
 Pampel, Heinz. 2024. <span>“Interview on Shadow Libraries on
-Deutschlandfunk.”</span> October 17, 2024. <a href="https://infomgnt.org/posts/2024-10-17-Interview-on-Shadow-Libraries-on-Deutschlandfunk">https://infomgnt.org/posts/2024-10-17-Interview-on-Shadow-Libraries-on-Deutschlandfunk</a>.
+Deutschlandfunk.”</span> October 17, 2024. <a href="https://doi.org/10.59350/66e4r-zd174">https://doi.org/10.59350/66e4r-zd174</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
@@ -159,13 +222,13 @@ Wissenschaftsorganisationen, Allianz der. n.d. <span>“Initiatives.”</span> A
   title = {Recommendations on {Regulations} for {Artificial}
     {Intelligence} in {License} {Agreements} {Published}},
   date = {2024-10-17},
-  url = {https://infomgnt.org/posts/2024-10-17-Recommendations-on-Regulations-for-Artificial-Intelligence-in-License-Agreements_Published},
+  url = {https://doi.org/10.59350/qje5d-11g43},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
 Pampel, Heinz. 2024. <span>“Recommendations on Regulations for
 Artificial Intelligence in License Agreements Published.”</span> October
-17, 2024. <a href="https://infomgnt.org/posts/2024-10-17-Recommendations-on-Regulations-for-Artificial-Intelligence-in-License-Agreements_Published">https://infomgnt.org/posts/2024-10-17-Recommendations-on-Regulations-for-Artificial-Intelligence-in-License-Agreements_Published</a>.
+17, 2024. <a href="https://doi.org/10.59350/qje5d-11g43">https://doi.org/10.59350/qje5d-11g43</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
