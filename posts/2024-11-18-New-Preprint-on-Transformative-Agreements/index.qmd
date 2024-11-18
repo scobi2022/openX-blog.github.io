@@ -9,7 +9,7 @@ author:
 date: "2024-11-18"
 categories: [Research]
 citation: 
-  url: https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements  
+  url: https://doi.org/10.59350/fe9s4-8a179    
 image: screenshot.png
 draft: false
 bibliography: references_TA.bib 

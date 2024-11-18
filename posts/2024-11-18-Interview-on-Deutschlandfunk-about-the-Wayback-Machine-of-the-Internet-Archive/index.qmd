@@ -9,7 +9,7 @@ author:
 date: "2024-11-18"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive 
+  url: https://doi.org/10.59350/b8n21-pda75 
 image: wayback-machine.jpeg
 draft: false
 bibliography: wayback-machine.bib
