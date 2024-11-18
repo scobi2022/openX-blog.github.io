@@ -10,7 +10,131 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Sun, 20 Oct 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 Nov 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Interview on Deutschlandfunk about the Wayback Machine of the Internet Archive</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I recently had the opportunity to speak on <a href="https://www.deutschlandfunk.de/computer-und-kommunikation-9-11-2024-komplette-sendung-dlf-3c985bf4-100.html">Deutschlandfunk</a> about the Wayback Machine from the Internet Archive. The occasion was the recent cyberattack on the Internet Archive <span class="citation" data-cites="schraer_cyber_2023">(Schräer 2023)</span>. The Wayback Machine plays a crucial role in preserving websites and providing access to our digital past—for researchers, journalists, and the interested public alike.</p>
+<p>The preservation of other types of digital information is also important, for example the data researchers base their findings on. Together with colleagues, our team at the Berlin School of Library and Information Science at Humboldt-Universität zu Berlin, examined the ongoing operation of research data repositories. These repositories are of great importance to the scientific community, as they preserve data and facilitate data exchange among researchers. In our sample of 3,000 research data repositories, we found last year that repository shutdowns are not uncommon: 6% of the repositories we examined were no longer online at the time of our study <span class="citation" data-cites="strecker_disappearing_2023">(Strecker et al. 2023)</span>.</p>
+<p><img src="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/wayback-machine.jpeg" class="img-fluid"></p>
+<p>These findings, and the recent incident threatening the Wayback Machine, show that maintaining our digital heritage requires robust information infrastructures. Information Science research can contribute towards this goal by investigating threats to the availability of information resources.</p>
+<p>As part of the <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> project funded by the German Research Foundation (DFG), we are currently working on assessing and ensuring the permanent accessibility of scholarly blogs <span class="citation" data-cites="pampel_kooperative_2024 ochsner_infra_2024">(Pampel and Rothfritz 2024; Ochsner 2024)</span>.</p>
+<p>Another part of the <a href="https://www.deutschlandfunk.de/computer-und-kommunikation-9-11-2024-komplette-sendung-dlf-3c985bf4-100.html">Deutschlandfunk program</a> discusses the current copyright proceedings surrounding the Internet Archive. Enjoy listening!</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-ochsner_infra_2024" class="csl-entry">
+Ochsner, Catharina. 2024. <span>“Infra <span>Wiss</span> <span>Blogs</span>: <span>Projektvorstellung</span>.”</span> Berlin. <a href="https://doi.org/10.5281/zenodo.12799719">https://doi.org/10.5281/zenodo.12799719</a>.
+</div>
+<div id="ref-pampel_kooperative_2024" class="csl-entry">
+Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative <span>Informationsinfrastruktur</span> Für Wissenschaftliche <span>Blogs</span> (<span>Infra</span> <span>Wiss</span> <span>Blogs</span>),”</span> August. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
+</div>
+<div id="ref-schraer_cyber_2023" class="csl-entry">
+Schräer, Frank. 2023. <span>“Cyber Attack on <span>Internet</span> <span>Archive</span> Apparently Carried Out by <span>Russian</span> Hackers <span></span> Heise Online.”</span> <em>Heise.de</em>, October. <a href="https://www.heise.de/en/news/Cyber-attack-on-Internet-Archive-apparently-carried-out-by-Russian-hackers-9983840.html">https://www.heise.de/en/news/Cyber-attack-on-Internet-Archive-apparently-carried-out-by-Russian-hackers-9983840.html</a>.
+</div>
+<div id="ref-strecker_disappearing_2023" class="csl-entry">
+Strecker, Dorothea, Heinz Pampel, Rouven Schabinger, and Nina Leonie Weisweiler. 2023. <span>“Disappearing Repositories: <span>Taking</span> an Infrastructure Perspective on the Long-Term Availability of Research Data.”</span> <em>Quantitative Science Studies</em> 4 (4): 1–18. <a href="https://doi.org/10.1162/qss_a_00277">https://doi.org/10.1162/qss_a_00277</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
+  author = {Pampel, Heinz},
+  title = {Interview on {Deutschlandfunk} about the {Wayback} {Machine}
+    of the {Internet} {Archive}},
+  date = {2024-11-18},
+  url = {https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz. 2024. <span>“Interview on Deutschlandfunk about the
+Wayback Machine of the Internet Archive.”</span> November 18, 2024. <a href="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive">https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</guid>
+  <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/wayback-machine.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>New preprint on Transformative Agreements</title>
+  <dc:creator>Laura Rothfritz</dc:creator>
+  <link>https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In recent years, <a href="https://esac-initiative.org/about/transformative-agreements/">transformative agreements</a> (TAs) have become a go-to strategy for publishers and research performing organizations aiming to open up access to research <span class="citation" data-cites="farleyTransformativeAgreementsSix2021">(Farley et al. 2021)</span>. These agreements promise to bridge traditional subscription-based journal models to an Open Access (OA) future <span class="citation" data-cites="borregoTransformativeAgreementsThey2021">(Borrego, Anglada, and Abadal 2021)</span>. But are they delivering on that promise? In this new pre-print, my colleagues <a href="https://sites.google.com/view/wbschmal">W. Benedikt Schmal</a>, <a href="https://pulse49.com/about-ulrich-herb/">Ulrich Herb</a> and I did a thorough analysis of 1,075 TAs in order to get the most complete picture possible with the available data.</p>
+<p>Rothfritz, L., Schmal, W. B., &amp; Herb, U. (2024). Trapped in Transformative Agreements? A Multifaceted Analysis of &gt;1,000 Contracts. arXiv. <a href="https://doi.org/10.48550/ARXIV.2409.20224" class="uri">https://doi.org/10.48550/ARXIV.2409.20224</a></p>
+<section id="what-we-did-a-blend-of-data-crunching-and-thematic-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="what-we-did-a-blend-of-data-crunching-and-thematic-analysis">What We Did: A Blend of Data Crunching and Thematic Analysis</h3>
+<p>To understand TAs better, we gathered data from a unique source: the <a href="https://esac-initiative.org/">ESAC Initiative</a>, which tracks over 1,000 transformative agreements. This data, alongside additional contract details we scraped, allowed us to go beyond basic summaries. We analyzed both numbers and narratives, mixing quantitative approaches like regression analysis with qualitative coding of free-text answers collected by ESAC through their <a href="https://esac-initiative.org/about/transformative-agreements/share/">registry form</a>. This dual approach helped us capture not only the frequency and size of agreements but also the subjective experiences libraries shared.</p>
+</section>
+<section id="key-findings-are-libraries-trapped" class="level3">
+<h3 class="anchored" data-anchor-id="key-findings-are-libraries-trapped">Key Findings: Are Libraries Trapped?</h3>
+<p>One of our core findings is that TAs may not just be a stepping stone toward full OA but could be trapping libraries in hybrid models indefinitely. Here’s what stood out:</p>
+<ol type="1">
+<li><p>Dominance of Big Publishers: We found that a small number of publishers, mainly Elsevier, Springer Nature, and Wiley, dominate these agreements. These “Big 3” often secure longer contracts with more favorable terms for themselves, locking libraries into longer commitments and substantial costs.</p></li>
+<li><p>Rising Costs, Limited Flexibility: While TAs have led to more OA articles, they don’t always reduce costs for libraries. In fact, we discovered that the larger the initial TA contract, the more likely it is to be renewed, creating a cycle of dependency. Libraries often face increased administrative burdens and costs without the savings they expected.</p></li>
+<li><p>Capped vs.&nbsp;Uncapped Contracts: Contracts come in two flavors—capped (with a limit on the number of OA articles) and uncapped. Uncapped contracts are generally preferred, as they reduce the risk of libraries exceeding their article limit and facing additional charges. However, even uncapped contracts often exclude fully OA journals, limiting the growth of the OA movement.</p></li>
+<li><p>Workflow Wins and Woes: One bright spot is that many libraries reported improvements in their workflows under TAs, especially where automated tools like CCC RightsLink and others and real-time dashboards were used. Yet, issues remain—many libraries still struggle with complex, manual workflows and limited monitoring capabilities.</p></li>
+<li><p>Mixed Feelings on Sustainability: Libraries are split on the sustainability of TAs. While some view them as a positive, affordable transition tool, others worry about long-term financial strain, especially as publishers maintain their market power and high fees.</p></li>
+</ol>
+</section>
+<section id="final-thoughts-a-double-edged-sword" class="level3">
+<h3 class="anchored" data-anchor-id="final-thoughts-a-double-edged-sword">Final Thoughts: A Double-Edged Sword?</h3>
+<p>Our analysis suggests that while TAs have increased the number of OA articles, they might also be cementing the dominance of large publishers and creating financial traps for libraries. Rather than acting as a bridge to a fully OA landscape, TAs may become a permanent fixture, with academic institutions continually caught in a cycle of payments and negotiations <span class="citation" data-cites="fenterItNotTransformation2022 jahnHowOpenAre2024 schmalHowTransformativeAre2024">(Fenter 2022; Jahn 2024; Schmal 2024)</span>.</p>
+<p>It will be interesting to see how the scientific community and libraries, in their negotiations with publishers, achieve progress in contract development and how these will fit into the future Open Access mix, including strategies for community-led publishing. A particularly noteworthy case is Sweden, where the Bibsam Consortium <a href="https://www.su.se/english/news/open-access-need-to-move-away-from-transformative-agreements-1.683787">recommends to no longer sign any TAs for hybrid journals</a>.</p>
+<p>Replication code, scripts, and data used for this study are publicly available on Zenodo: <a href="[https://zenodo.org/doi/10.5281/zenodo.13453629">https://zenodo.org/doi/10.5281/zenodo.13453629</a>.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-borregoTransformativeAgreementsThey2021" class="csl-entry">
+Borrego, Ángel, Lluís Anglada, and Ernest Abadal. 2021. <span>“Transformative Agreements: <span>Do</span> They Pave the Way to Open Access?”</span> <em>Learned Publishing</em> 34 (2): 216–32. <a href="https://doi.org/10.1002/leap.1347">https://doi.org/10.1002/leap.1347</a>.
+</div>
+<div id="ref-farleyTransformativeAgreementsSix2021" class="csl-entry">
+Farley, Ashley, Allison Langham-Putrow, Elisabeth Shook, Leila Belle Sterman, and Megan Wacha. 2021. <span>“Transformative Agreements: <span>Six</span> Myths, Busted.”</span> <em>College &amp; Research Libraries News</em>, July. <a href="https://doi.org/10.5860/crln.82.7.298">https://doi.org/10.5860/crln.82.7.298</a>.
+</div>
+<div id="ref-fenterItNotTransformation2022" class="csl-entry">
+Fenter, Frederick. 2022. <span>“It Is Not Transformation If Nothing Changes.”</span> Frontiers.
+</div>
+<div id="ref-jahnHowOpenAre2024" class="csl-entry">
+Jahn, Najko. 2024. <span>“How Open Are Hybrid Journals Included in Transformative Agreements?”</span> arXiv. <a href="https://doi.org/10.48550/arXiv.2402.18255">https://doi.org/10.48550/arXiv.2402.18255</a>.
+</div>
+<div id="ref-schmalHowTransformativeAre2024" class="csl-entry">
+Schmal, W. Benedikt. 2024. <span>“How Transformative Are Transformative Agreements? <span>Evidence</span> from <span>Germany</span> Across Disciplines.”</span> <em>Scientometrics</em> 129 (3): 1863–89. <a href="https://doi.org/10.1007/s11192-024-04955-y">https://doi.org/10.1007/s11192-024-04955-y</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2024,
+  author = {Rothfritz, Laura},
+  title = {New Preprint on {Transformative} {Agreements}},
+  date = {2024-11-18},
+  url = {https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-rothfritz2024" class="csl-entry quarto-appendix-citeas">
+Rothfritz, Laura. 2024. <span>“New Preprint on Transformative
+Agreements.”</span> November 18, 2024. <a href="https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements">https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements</a>.
+</div></div></section></div> ]]></description>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/</guid>
+  <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/screenshot.png" medium="image" type="image/png" height="107" width="144"/>
+</item>
 <item>
   <title>Our Contribution to Open Access Week 2024</title>
   <dc:creator>Heinz Pampel</dc:creator>

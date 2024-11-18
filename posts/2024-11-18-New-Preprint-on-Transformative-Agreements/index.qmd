@@ -1,0 +1,50 @@
+---
+title: "New preprint on Transformative Agreements"
+author: 
+  - name: Laura Rothfritz
+    url:  https://orcid.org/0000-0001-7525-0635 
+    orcid: 0000-0001-7525-0635
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement  
+date: "2024-11-18"
+categories: [Research]
+citation: 
+  url: https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements  
+image: screenshot.png
+draft: false
+bibliography: references_TA.bib 
+---
+
+In recent years, [transformative agreements](https://esac-initiative.org/about/transformative-agreements/) (TAs) have become a go-to strategy for publishers and research performing organizations aiming to open up access to research [@farleyTransformativeAgreementsSix2021]. These agreements promise to bridge traditional subscription-based journal models to an Open Access (OA) future [@borregoTransformativeAgreementsThey2021]. But are they delivering on that promise? In this new pre-print, my colleagues [W. Benedikt Schmal](https://sites.google.com/view/wbschmal), [Ulrich Herb](https://pulse49.com/about-ulrich-herb/) and I did a thorough analysis of 1,075 TAs in order to get the most complete picture possible with the available data.
+
+Rothfritz, L., Schmal, W. B., & Herb, U. (2024). Trapped in Transformative Agreements? A Multifaceted Analysis of \>1,000 Contracts. arXiv. <https://doi.org/10.48550/ARXIV.2409.20224>
+
+### What We Did: A Blend of Data Crunching and Thematic Analysis
+
+To understand TAs better, we gathered data from a unique source: the [ESAC Initiative](https://esac-initiative.org/), which tracks over 1,000 transformative agreements. This data, alongside additional contract details we scraped, allowed us to go beyond basic summaries. We analyzed both numbers and narratives, mixing quantitative approaches like regression analysis with qualitative coding of free-text answers collected by ESAC through their [registry form](https://esac-initiative.org/about/transformative-agreements/share/). This dual approach helped us capture not only the frequency and size of agreements but also the subjective experiences libraries shared.
+
+### Key Findings: Are Libraries Trapped?
+
+One of our core findings is that TAs may not just be a stepping stone toward full OA but could be trapping libraries in hybrid models indefinitely. Here’s what stood out:
+
+1.  Dominance of Big Publishers: We found that a small number of publishers, mainly Elsevier, Springer Nature, and Wiley, dominate these agreements. These “Big 3” often secure longer contracts with more favorable terms for themselves, locking libraries into longer commitments and substantial costs.
+
+2.  Rising Costs, Limited Flexibility: While TAs have led to more OA articles, they don’t always reduce costs for libraries. In fact, we discovered that the larger the initial TA contract, the more likely it is to be renewed, creating a cycle of dependency. Libraries often face increased administrative burdens and costs without the savings they expected.
+
+3.  Capped vs. Uncapped Contracts: Contracts come in two flavors—capped (with a limit on the number of OA articles) and uncapped. Uncapped contracts are generally preferred, as they reduce the risk of libraries exceeding their article limit and facing additional charges. However, even uncapped contracts often exclude fully OA journals, limiting the growth of the OA movement.
+
+4.  Workflow Wins and Woes: One bright spot is that many libraries reported improvements in their workflows under TAs, especially where automated tools like CCC RightsLink and others and real-time dashboards were used. Yet, issues remain—many libraries still struggle with complex, manual workflows and limited monitoring capabilities.
+
+5.  Mixed Feelings on Sustainability: Libraries are split on the sustainability of TAs. While some view them as a positive, affordable transition tool, others worry about long-term financial strain, especially as publishers maintain their market power and high fees.
+
+### Final Thoughts: A Double-Edged Sword?
+
+Our analysis suggests that while TAs have increased the number of OA articles, they might also be cementing the dominance of large publishers and creating financial traps for libraries. Rather than acting as a bridge to a fully OA landscape, TAs may become a permanent fixture, with academic institutions continually caught in a cycle of payments and negotiations [@fenterItNotTransformation2022; @jahnHowOpenAre2024; @schmalHowTransformativeAre2024].
+
+It will be interesting to see how the scientific community and libraries, in their negotiations with publishers, achieve progress in contract development and how these will fit into the future Open Access mix, including strategies for community-led publishing. A particularly noteworthy case is Sweden, where the Bibsam Consortium [recommends to no longer sign any TAs for hybrid journals](https://www.su.se/english/news/open-access-need-to-move-away-from-transformative-agreements-1.683787).
+
+Replication code, scripts, and data used for this study are publicly available on Zenodo: [https://zenodo.org/doi/10.5281/zenodo.13453629](%5Bhttps://zenodo.org/doi/10.5281/zenodo.13453629).
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

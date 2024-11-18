@@ -1,0 +1,32 @@
+---
+title: "Interview on Deutschlandfunk about the Wayback Machine of the Internet Archive"
+author: 
+  - name: Heinz Pampel
+    url: https://heinzpampel.de 
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt 
+date: "2024-11-18"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive 
+image: wayback-machine.jpeg
+draft: false
+bibliography: wayback-machine.bib
+---
+
+I recently had the opportunity to speak on [Deutschlandfunk](https://www.deutschlandfunk.de/computer-und-kommunikation-9-11-2024-komplette-sendung-dlf-3c985bf4-100.html) about the Wayback Machine from the Internet Archive. The occasion was the recent cyberattack on the Internet Archive [@schraer_cyber_2023]. The Wayback Machine plays a crucial role in preserving websites and providing access to our digital past—for researchers, journalists, and the interested public alike.
+
+The preservation of other types of digital information is also important, for example the data researchers base their findings on. Together with colleagues, our team at the Berlin School of Library and Information Science at Humboldt-Universität zu Berlin, examined the ongoing operation of research data repositories. These repositories are of great importance to the scientific community, as they preserve data and facilitate data exchange among researchers. In our sample of 3,000 research data repositories, we found last year that repository shutdowns are not uncommon: 6% of the repositories we examined were no longer online at the time of our study [@strecker_disappearing_2023].
+
+![](wayback-machine.jpeg)
+
+These findings, and the recent incident threatening the Wayback Machine, show that maintaining our digital heritage requires robust information infrastructures. Information Science research can contribute towards this goal by investigating threats to the availability of information resources.
+
+As part of the [Infra Wiss Blogs](https://infrawissblogs.org/) project funded by the German Research Foundation (DFG), we are currently working on assessing and ensuring the permanent accessibility of scholarly blogs [@pampel_kooperative_2024; @ochsner_infra_2024].
+
+Another part of the [Deutschlandfunk program](https://www.deutschlandfunk.de/computer-und-kommunikation-9-11-2024-komplette-sendung-dlf-3c985bf4-100.html) discusses the current copyright proceedings surrounding the Internet Archive. Enjoy listening!
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labeled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
