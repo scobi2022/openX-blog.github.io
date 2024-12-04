@@ -9,7 +9,7 @@ author:
 date: "2024-12-04"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team     
+  url: https://doi.org/10.59350/gsmp2-vqp56     
 image: Open_Access_Award.jpeg
 draft: false
 bibliography: Open_Access_Award.bib 
