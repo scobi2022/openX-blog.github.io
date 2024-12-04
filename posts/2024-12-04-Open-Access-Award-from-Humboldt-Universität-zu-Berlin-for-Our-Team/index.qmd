@@ -1,0 +1,30 @@
+---
+title: "Open Access Award from Humboldt-Universität zu Berlin for Our Team!"
+author: 
+  - name: Heinz Pampel
+    url:  https://heinzpampel.de  
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office 
+    affiliation-url: http://hu-berlin.de/infomgnt   
+date: "2024-12-04"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team     
+image: Open_Access_Award.jpeg
+draft: false
+bibliography: Open_Access_Award.bib 
+---
+
+We are thrilled to announce that our group at the Berlin School of Library and Information Science has been honored with the [Open Access Award 2024](https://www.ub.hu-berlin.de/de/forschen-publizieren/open-access/preis) of Humboldt-Universität zu Berlin. This recognition, valued at €5,000, underscores our commitment to advancing Open Access in research, education, and knowledge transfer.
+
+![](Open_Access_Award.jpeg)
+
+The Open Access Award is presented annually by the university and its library to recognize outstanding contributions to the promotion of Open Access. It serves both as an acknowledgment of past achievements and as a motivation to continue driving Open Science initiatives.
+
+Official news about the award can be found on the university library's [website](https://blogs.hu-berlin.de/wir_bewegen_buecher/2024/11/29/der-open-access-preis-der-hu-geht-2024-an-den-lehrstuhl-information-management-des-ibi/) [@riesenweber_open-access-preis_nodate].
+
+This award highlights the importance of teamwork and collaboration in advancing Open Science research. A heartfelt thank you to our incredible [team](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement)—Jonas Höfting, Christopher Onzie Khamis, Pia Kretschmar (currently at CERN), Max Liebel, Catharina Ochsner, Laura Rothfritz, Dorothea Strecker, and Marcel Wrzesinski. We sincerely thank Humboldt-Universität for the festive award ceremony, held as part of the [Humboldt-Preis](https://www.hu-berlin.de/de/ueberblick/menschen/ehrungen/humboldtpreis/standardseite) presentation, and for this honor. We look forward to advancing Open Science together.
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labeled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

@@ -10,23 +10,22 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Sun, 17 Nov 2024 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Dec 2024 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>Interview on Deutschlandfunk about the Wayback Machine of the Internet Archive</title>
+  <title>Open Access Award from Humboldt-Universität zu Berlin for Our Team!</title>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</link>
+  <link>https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>I recently had the opportunity to speak on <a href="https://www.deutschlandfunk.de/computer-und-kommunikation-9-11-2024-komplette-sendung-dlf-3c985bf4-100.html">Deutschlandfunk</a> about the Wayback Machine from the Internet Archive. The occasion was the recent cyberattack on the Internet Archive <span class="citation" data-cites="schraer_cyber_2023">(Schräer 2023)</span>. The Wayback Machine plays a crucial role in preserving websites and providing access to our digital past—for researchers, journalists, and the interested public alike.</p>
-<p>The preservation of other types of digital information is also important, for example the data researchers base their findings on. Together with colleagues, our team at the Berlin School of Library and Information Science at Humboldt-Universität zu Berlin, examined the ongoing operation of research data repositories. These repositories are of great importance to the scientific community, as they preserve data and facilitate data exchange among researchers. In our sample of 3,000 research data repositories, we found last year that repository shutdowns are not uncommon: 6% of the repositories we examined were no longer online at the time of our study <span class="citation" data-cites="strecker_disappearing_2023">(Strecker et al. 2023)</span>.</p>
-<p><img src="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/wayback-machine.jpeg" class="img-fluid"></p>
-<p>These findings, and the recent incident threatening the Wayback Machine, show that maintaining our digital heritage requires robust information infrastructures. Information Science research can contribute towards this goal by investigating threats to the availability of information resources.</p>
-<p>As part of the <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> project funded by the German Research Foundation (DFG), we are currently working on assessing and ensuring the permanent accessibility of scholarly blogs <span class="citation" data-cites="pampel_kooperative_2024 ochsner_infra_2024">(Pampel and Rothfritz 2024; Ochsner 2024)</span>.</p>
-<p>Another part of the <a href="https://www.deutschlandfunk.de/computer-und-kommunikation-9-11-2024-komplette-sendung-dlf-3c985bf4-100.html">Deutschlandfunk program</a> discusses the current copyright proceedings surrounding the Internet Archive. Enjoy listening!</p>
+<p>We are thrilled to announce that our group at the Berlin School of Library and Information Science has been honored with the <a href="https://www.ub.hu-berlin.de/de/forschen-publizieren/open-access/preis">Open Access Award 2024</a> of Humboldt-Universität zu Berlin. This recognition, valued at €5,000, underscores our commitment to advancing Open Access in research, education, and knowledge transfer.</p>
+<p><img src="https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/Open_Access_Award.jpeg" class="img-fluid"></p>
+<p>The Open Access Award is presented annually by the university and its library to recognize outstanding contributions to the promotion of Open Access. It serves both as an acknowledgment of past achievements and as a motivation to continue driving Open Science initiatives.</p>
+<p>Official news about the award can be found on the university library’s <a href="https://blogs.hu-berlin.de/wir_bewegen_buecher/2024/11/29/der-open-access-preis-der-hu-geht-2024-an-den-lehrstuhl-information-management-des-ibi/">website</a> <span class="citation" data-cites="riesenweber_open-access-preis_nodate">(Riesenweber n.d.)</span>.</p>
+<p>This award highlights the importance of teamwork and collaboration in advancing Open Science research. A heartfelt thank you to our incredible <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement">team</a>—Jonas Höfting, Christopher Onzie Khamis, Pia Kretschmar (currently at CERN), Max Liebel, Catharina Ochsner, Laura Rothfritz, Dorothea Strecker, and Marcel Wrzesinski. We sincerely thank Humboldt-Universität for the festive award ceremony, held as part of the <a href="https://www.hu-berlin.de/de/ueberblick/menschen/ehrungen/humboldtpreis/standardseite">Humboldt-Preis</a> presentation, and for this honor. We look forward to advancing Open Science together.</p>
 <p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
 <p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
 
@@ -34,35 +33,26 @@
 
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-ochsner_infra_2024" class="csl-entry">
-Ochsner, Catharina. 2024. <span>“Infra <span>Wiss</span> <span>Blogs</span>: <span>Projektvorstellung</span>.”</span> Berlin. <a href="https://doi.org/10.5281/zenodo.12799719">https://doi.org/10.5281/zenodo.12799719</a>.
-</div>
-<div id="ref-pampel_kooperative_2024" class="csl-entry">
-Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative <span>Informationsinfrastruktur</span> Für Wissenschaftliche <span>Blogs</span> (<span>Infra</span> <span>Wiss</span> <span>Blogs</span>),”</span> August. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
-</div>
-<div id="ref-schraer_cyber_2023" class="csl-entry">
-Schräer, Frank. 2023. <span>“Cyber Attack on <span>Internet</span> <span>Archive</span> Apparently Carried Out by <span>Russian</span> Hackers <span></span> Heise Online.”</span> <em>Heise.de</em>, October. <a href="https://www.heise.de/en/news/Cyber-attack-on-Internet-Archive-apparently-carried-out-by-Russian-hackers-9983840.html">https://www.heise.de/en/news/Cyber-attack-on-Internet-Archive-apparently-carried-out-by-Russian-hackers-9983840.html</a>.
-</div>
-<div id="ref-strecker_disappearing_2023" class="csl-entry">
-Strecker, Dorothea, Heinz Pampel, Rouven Schabinger, and Nina Leonie Weisweiler. 2023. <span>“Disappearing Repositories: <span>Taking</span> an Infrastructure Perspective on the Long-Term Availability of Research Data.”</span> <em>Quantitative Science Studies</em> 4 (4): 1–18. <a href="https://doi.org/10.1162/qss_a_00277">https://doi.org/10.1162/qss_a_00277</a>.
+<div id="ref-riesenweber_open-access-preis_nodate" class="csl-entry">
+Riesenweber, Christina. n.d. <span>“Der <span>Open</span>-<span>Access</span>-<span>Preis</span> Der <span>HU</span> Geht 2024 an Den <span>Lehrstuhl</span> <span>Information</span> <span>Management</span> Des <span>IBI</span> <span></span> <span>UB</span> <span>Blog</span>.”</span> <em>UB Blog</em>. Accessed November 29, 2024. <a href="https://blogs.hu-berlin.de/wir_bewegen_buecher/2024/11/29/der-open-access-preis-der-hu-geht-2024-an-den-lehrstuhl-information-management-des-ibi/">https://blogs.hu-berlin.de/wir_bewegen_buecher/2024/11/29/der-open-access-preis-der-hu-geht-2024-an-den-lehrstuhl-information-management-des-ibi/</a>.
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
   author = {Pampel, Heinz},
-  title = {Interview on {Deutschlandfunk} about the {Wayback} {Machine}
-    of the {Internet} {Archive}},
-  date = {2024-11-18},
-  url = {https://doi.org/10.59350/b8n21-pda75},
+  title = {Open {Access} {Award} from {Humboldt-Universität} Zu {Berlin}
+    for {Our} {Team!}},
+  date = {2024-12-04},
+  url = {https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz. 2024. <span>“Interview on Deutschlandfunk about the
-Wayback Machine of the Internet Archive.”</span> November 18, 2024. <a href="https://doi.org/10.59350/b8n21-pda75">https://doi.org/10.59350/b8n21-pda75</a>.
+Pampel, Heinz. 2024. <span>“Open Access Award from Humboldt-Universität
+Zu Berlin for Our Team!”</span> December 4, 2024. <a href="https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team">https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</guid>
-  <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/wayback-machine.jpeg" medium="image" type="image/jpeg"/>
+  <guid>https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/</guid>
+  <pubDate>Tue, 03 Dec 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/Open_Access_Award.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>New preprint on Transformative Agreements</title>
@@ -134,6 +124,59 @@ Agreements.”</span> November 18, 2024. <a href="https://doi.org/10.59350/fe9s4
   <guid>https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/</guid>
   <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/screenshot.png" medium="image" type="image/png" height="107" width="144"/>
+</item>
+<item>
+  <title>Interview on Deutschlandfunk about the Wayback Machine of the Internet Archive</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I recently had the opportunity to speak on <a href="https://www.deutschlandfunk.de/computer-und-kommunikation-9-11-2024-komplette-sendung-dlf-3c985bf4-100.html">Deutschlandfunk</a> about the Wayback Machine from the Internet Archive. The occasion was the recent cyberattack on the Internet Archive <span class="citation" data-cites="schraer_cyber_2023">(Schräer 2023)</span>. The Wayback Machine plays a crucial role in preserving websites and providing access to our digital past—for researchers, journalists, and the interested public alike.</p>
+<p>The preservation of other types of digital information is also important, for example the data researchers base their findings on. Together with colleagues, our team at the Berlin School of Library and Information Science at Humboldt-Universität zu Berlin, examined the ongoing operation of research data repositories. These repositories are of great importance to the scientific community, as they preserve data and facilitate data exchange among researchers. In our sample of 3,000 research data repositories, we found last year that repository shutdowns are not uncommon: 6% of the repositories we examined were no longer online at the time of our study <span class="citation" data-cites="strecker_disappearing_2023">(Strecker et al. 2023)</span>.</p>
+<p><img src="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/wayback-machine.jpeg" class="img-fluid"></p>
+<p>These findings, and the recent incident threatening the Wayback Machine, show that maintaining our digital heritage requires robust information infrastructures. Information Science research can contribute towards this goal by investigating threats to the availability of information resources.</p>
+<p>As part of the <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> project funded by the German Research Foundation (DFG), we are currently working on assessing and ensuring the permanent accessibility of scholarly blogs <span class="citation" data-cites="pampel_kooperative_2024 ochsner_infra_2024">(Pampel and Rothfritz 2024; Ochsner 2024)</span>.</p>
+<p>Another part of the <a href="https://www.deutschlandfunk.de/computer-und-kommunikation-9-11-2024-komplette-sendung-dlf-3c985bf4-100.html">Deutschlandfunk program</a> discusses the current copyright proceedings surrounding the Internet Archive. Enjoy listening!</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-ochsner_infra_2024" class="csl-entry">
+Ochsner, Catharina. 2024. <span>“Infra <span>Wiss</span> <span>Blogs</span>: <span>Projektvorstellung</span>.”</span> Berlin. <a href="https://doi.org/10.5281/zenodo.12799719">https://doi.org/10.5281/zenodo.12799719</a>.
+</div>
+<div id="ref-pampel_kooperative_2024" class="csl-entry">
+Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative <span>Informationsinfrastruktur</span> Für Wissenschaftliche <span>Blogs</span> (<span>Infra</span> <span>Wiss</span> <span>Blogs</span>),”</span> August. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
+</div>
+<div id="ref-schraer_cyber_2023" class="csl-entry">
+Schräer, Frank. 2023. <span>“Cyber Attack on <span>Internet</span> <span>Archive</span> Apparently Carried Out by <span>Russian</span> Hackers <span></span> Heise Online.”</span> <em>Heise.de</em>, October. <a href="https://www.heise.de/en/news/Cyber-attack-on-Internet-Archive-apparently-carried-out-by-Russian-hackers-9983840.html">https://www.heise.de/en/news/Cyber-attack-on-Internet-Archive-apparently-carried-out-by-Russian-hackers-9983840.html</a>.
+</div>
+<div id="ref-strecker_disappearing_2023" class="csl-entry">
+Strecker, Dorothea, Heinz Pampel, Rouven Schabinger, and Nina Leonie Weisweiler. 2023. <span>“Disappearing Repositories: <span>Taking</span> an Infrastructure Perspective on the Long-Term Availability of Research Data.”</span> <em>Quantitative Science Studies</em> 4 (4): 1–18. <a href="https://doi.org/10.1162/qss_a_00277">https://doi.org/10.1162/qss_a_00277</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
+  author = {Pampel, Heinz},
+  title = {Interview on {Deutschlandfunk} about the {Wayback} {Machine}
+    of the {Internet} {Archive}},
+  date = {2024-11-17},
+  url = {https://doi.org/10.59350/b8n21-pda75},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz. 2024. <span>“Interview on Deutschlandfunk about the
+Wayback Machine of the Internet Archive.”</span> November 17, 2024. <a href="https://doi.org/10.59350/b8n21-pda75">https://doi.org/10.59350/b8n21-pda75</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</guid>
+  <pubDate>Sat, 16 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/wayback-machine.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Our Contribution to Open Access Week 2024</title>

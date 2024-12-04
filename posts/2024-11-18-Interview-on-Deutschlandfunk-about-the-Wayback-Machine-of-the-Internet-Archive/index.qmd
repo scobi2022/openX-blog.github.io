@@ -6,7 +6,7 @@ author:
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office
     affiliation-url: http://hu-berlin.de/infomgnt 
-date: "2024-11-18"
+date: "2024-11-17"
 categories: [Lab Life, Research]
 citation: 
   url: https://doi.org/10.59350/b8n21-pda75 
