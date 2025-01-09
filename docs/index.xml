@@ -10,7 +10,54 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Tue, 03 Dec 2024 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Jan 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Workshop ‘The state and prospects of open access reporting’ at Open-Access-Tage</title>
+  <dc:creator>Dorothea Strecker</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>At last year’s Open-Access-Tage, <a href="https://oa-datenpraxis.de/en/">OA Datenpraxis</a> held a workshop together with the <a href="https://www.fz-juelich.de/en/zb/open-science/open-access/open-access-monitor-1">Open Access Monitor</a> at Forschungszentrum Jülich as well as the state-wide Open Access initiatives of Berlin (<a href="https://www.open-access-berlin.de">Open Access Büro Berlin</a>) and Brandenburg (<a href="https://open-access-brandenburg.de/en/">Vernetzungs- und Kompetenzstelle Open Access Brandenburg</a>). The workshop ‘The state and prospects of open access reporting’ outlined different approaches - qualitative and quantitative - to Open Access reporting and provided insights into examples for reporting procedures. Participants discussed opportunities and challenges of these reporting approaches in small groups before the results were briefly presented in plenary. The presentation slides have been published on Zenodo.</p>
+<p>Barbers, I., Kindling, M., Stadler, H., Strecker, D., Kaden, B., Mittermaier, B., &amp; Pampel, H. (2024, September 10). Stand und Perspektive des Open-Access-Reportings. Open-Access-Tage 2024, Köln. <a href="https://doi.org/10.5281/zenodo.13831942" class="uri">https://doi.org/10.5281/zenodo.13831942</a></p>
+<p>Recently, a new report documenting a workshop held by OA Datenpraxis and <a href="">Transform2Open</a> at the 25th annual meeting of DINI (Deutsche Initiative für Netzwerkinformation e. V.) was published. Participants discussed how the costs of providing access to scientific information can be made more transparent.</p>
+<p>Ferguson, L. M., Pampel, H., Strecker, D., &amp; Meistring, M. (2025). Transparenz in der Wissenschaft: Strategien für offene Informationsversorgung. <a href="https://doi.org/10.5281/zenodo.14505423" class="uri">https://doi.org/10.5281/zenodo.14505423</a></p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-barbers_stand_2024" class="csl-entry">
+Barbers, Irene, Maxi Kindling, Heike Stadler, and Dorothea Strecker. 2024. <span>“Stand Und <span>Perspektive</span> Des <span>Open</span>-<span>Access</span>-<span>Reportings</span>.”</span> Köln. <a href="https://doi.org/10.5281/zenodo.13831942">https://doi.org/10.5281/zenodo.13831942</a>.
+</div>
+<div id="ref-ferguson_transparenz_2025" class="csl-entry">
+Ferguson, Lea Maria, Heinz Pampel, Dorothea Strecker, and Marcel Meistring. 2025. <span>“Transparenz in Der <span>Wissenschaft</span>: <span>Strategien</span> Für Offene <span>Informationsversorgung</span>.”</span> <a href="https://doi.org/10.5281/zenodo.14505423">https://doi.org/10.5281/zenodo.14505423</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
+  author = {Strecker, Dorothea and Pampel, Heinz},
+  title = {Workshop “{The} State and Prospects of Open Access Reporting”
+    at {Open-Access-Tage}},
+  date = {2025-01-09},
+  url = {https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-strecker2025" class="csl-entry quarto-appendix-citeas">
+Strecker, Dorothea, and Heinz Pampel. 2025. <span>“Workshop <span>‘The
+State and Prospects of Open Access Reporting’</span> at
+Open-Access-Tage.”</span> January 9, 2025. <a href="https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting">https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/</guid>
+  <pubDate>Wed, 08 Jan 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/OAT.png" medium="image" type="image/png" height="80" width="144"/>
+</item>
 <item>
   <title>Open Access Award from Humboldt-Universität zu Berlin for Our Team!</title>
   <dc:creator>Heinz Pampel</dc:creator>
