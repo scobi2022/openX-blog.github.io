@@ -14,7 +14,7 @@ author:
 date: "2025-01-09"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting     
+  url: https://doi.org/10.59350/r84e3-7s790      
 image: OAT.png
 draft: false
 bibliography: references_workshop-the-state-and-prospects-of-open-access-reporting.bib 
