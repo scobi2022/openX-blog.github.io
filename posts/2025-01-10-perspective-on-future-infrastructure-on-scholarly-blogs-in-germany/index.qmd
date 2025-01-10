@@ -17,7 +17,7 @@ author:
 date: "2025-01-10"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-01-10-perspective-on-future-inrastructure-for-scholarly-blogs-in-germany     
+  url: https://doi.org/10.59350/4fc41-6n753     
 image: IMG_5273.jpg
 draft: false
 bibliography: references_vernetzungsworkshop.bib 
