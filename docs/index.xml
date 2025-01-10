@@ -10,7 +10,90 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Wed, 08 Jan 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jan 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Perspective on Future Infrastructure for Scholarly Blogs in Germany</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Jonas Höfting</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On December 6th, 2024, we hosted the first workshop of our project <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> <span class="citation" data-cites="ochsner_research_2024">(Ochsner and Pampel 2024)</span>, funded by the German Research Foundation (DFG). The aim of the workshop was to bring together scholarly bloggers and experts from information infrastructure institutions, so they could exchange experiences, wishes and challenges concerning scholarly blogs.</p>
+<p>In the following, we give a brief overview of the workshop, the talks and discussions, and outline how we will continue our work following the results of the workshop. Following the welcome address, we presented the initial results of a survey of German scholarly blogs that we conducted as a part of the Infra Wiss Blogs project. Afterward, the workshop was enriched by multiple presentations around the topic of scholarly blogs and their long term accessibility.</p>
+<p><a href="https://blogs.helmholtz.de/augenspiegel/author/henning/">Henning Krause</a> from the Helmholtz Association began with an overview of the Helmholtz Blogs, the blog portal of Germany’s largest research organization. He talked about challenges and opportunities with science communication, using blogs as an example.</p>
+<p>This talk was followed by a presentation from Martin Fenner from <a href="https://front-matter.io/">Front Matter</a>, on the topic of long term accessibility of scholarly blogs and the the <a href="https://rogue-scholar.org/">Rogue Scholar blog archive</a>.</p>
+<p>Lastly, these presentations were followed by two inputs from practitioners within the field by <a href="https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Charmaine.Voigt">Charmaine Voigt</a> from GESIS - Leibniz Institute for the Social Sciences, and <a href="https://www.dnb.de/SharedDocs/Kontaktdaten/DE/wolderingBritta.html">Britta Woldering</a> from the German National Library. Charmaine Voigt presented the results of a survey on science blogs and podcasts at scientific institutions in Germany in the GESIS Wi⁴impact project. Britta Woldering introduced the work of the German National Library (DNB) in the field of web archiving and described the DNB’s approach to handling blogs for the permanent accessibility of digital content.</p>
+<p>The available presentations of the speakers were published on Zenodo and can be found below:</p>
+<ul>
+<li><p>Fenner, M. (2024, December 6). Ansätze zur Sicherung der dauerhaften Zugänglichkeit von Wissenschaftsblogs. Infra Wiss Blogs Vernetzungsworkshop 2024, Berlin. <a href="https://doi.org/10.5281/zenodo.14354060" class="uri">https://doi.org/10.5281/zenodo.14354060</a></p></li>
+<li><p>Voigt, C., &amp; Kuhle, B. (2024, December 6). Wi4impact: Befragung von Produzierenden deutscher Wissenschaftsblogs (und -podcasts). Infra Wiss Blogs Vernetzungsworkshop 2024, Berlin. <a href="https://doi.org/10.5281/zenodo.14354474" class="uri">https://doi.org/10.5281/zenodo.14354474</a></p></li>
+<li><p>Woldering, B. (2024, December 6). Webarchivierung an der deutschen Nationalbibliothek. Infra Wiss Blogs Vernetzungsworkshop 2024, Berlin. <a href="https://doi.org/10.5281/zenodo.14355206" class="uri">https://doi.org/10.5281/zenodo.14355206</a></p></li>
+</ul>
+<p>The presentations and the results of the survey of German scholarly blogs were then discussed by the workshop organizers, the participants, and the speakers. To structure the discussion, we prepared a set of questions on the topic, e.g.&nbsp;“How can bloggers, libraries and archives work together to create standardized metadata and procedures for long-term accessibility for academic blogs?”. The main topic of discussion was how scholarly bloggers and infrastructure institutions can work together, to ensure the long term access of scholarly blogs.</p>
+<p>The following challenges were identified concerning the standardization of scholarly blogs and their long term accessibility:</p>
+<ol type="1">
+<li>Insufficient provision of metadata</li>
+<li>Insufficient licensing information</li>
+<li>Dynamic contents, such as pictures or videos, comments, link rot pose technical and legal challenges</li>
+<li>Bloggers’ lack of knowledge about the technical and legal requirements to ensure long term accessibility</li>
+<li>Blogs and other knowledge transfer and science communication activities are usually not adequately recognized in the scientific reputation system and the evaluation of research performance</li>
+</ol>
+<p>The following strategies to enhance long term accessibility of scholarly blogs were proposed during the discussion:</p>
+<ol type="1">
+<li>(Re-)using standardized formats (such as XML or JSON) that are already being used by blogs for the long term archiving</li>
+<li>Including licensing information into metadata. Recommended for use is the CC BY license</li>
+<li>Legal challenges of archiving comments could be solved through legal notice</li>
+<li>Libraries as educational institutions can help educate bloggers on blog requirements</li>
+<li>Universities and other research performing organizations can support bloggers through offering platforms or better maintaining existing ones and by recognizing blogging as part of knowledge transfer and science communication</li>
+</ol>
+<p>The discussion illustrated the diversity of the stakeholders. All participants agreed that there is a further need for stronger networking and collaboration on the topic. The participants also emphasized the need for support from universities and research institutions, as well as funding bodies, for their blogging researchers.</p>
+<p>The workshop enabled us to bring together diverse perspectives from people involved in blogs, infrastructure, and science communication. We learned a lot and received numerous suggestions for the project. We thank all the speakers and participants for their contributions and the open discussions.</p>
+<p>Building on the results of the survey of German blogs, we will start conducting in-depth interviews with scholarly bloggers to investigate the infrastructural challenges of scholarly blogs and possible solutions.</p>
+<p>Additionally, We are currently working on publishing the results of our survey on German scholarly blogs. We will communicate the publication of the article through our <a href="infra-wiss-blogs@listserv.dfn.de">mailing list</a>. The subscription is possible <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">here</a>.</p>
+<p>A German version of this blog post is available on the blog dedicated to the Infra Wiss Blog project and can be found <a href="https://infrawissblogs.org/">here</a>.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-fenner_ansatze_2024" class="csl-entry">
+Fenner, Martin. 2024. <span>“Ansätze Zur <span>Sicherung</span> Der Dauerhaften <span>Zugänglichkeit</span> von <span>Wissenschaftsblogs</span>.”</span> <a href="https://doi.org/10.5281/zenodo.14354060">https://doi.org/10.5281/zenodo.14354060</a>.
+</div>
+<div id="ref-ochsner_research_2024" class="csl-entry">
+Ochsner, Catharina, and Heinz Pampel. 2024. <span>“Research <span>Group</span> <span>Information</span> <span>Management</span> @ <span>Humboldt</span>-<span>Universität</span> Zu <span>Berlin</span> - <span>Project</span> Launch: <span>Infra</span> <span>Wiss</span> <span>Blogs</span> - <span>Ensuring</span> <span>Permanent</span> <span>Access</span> to <span>Scholarly</span> <span>Blogs</span>.”</span> <a href="https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html">https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html</a>.
+</div>
+<div id="ref-voigt_wiimpact_2024" class="csl-entry">
+Voigt, Charmaine, and Birte Kuhle. 2024. <span>“Wi⁴impact: <span>Befragung</span> von <span>Produzierenden</span> Deutscher <span>Wissenschaftsblogs</span> (Und -Podcasts).”</span> <a href="https://doi.org/10.5281/zenodo.14354474">https://doi.org/10.5281/zenodo.14354474</a>.
+</div>
+<div id="ref-woldering_webarchivierung_2024" class="csl-entry">
+Woldering, Britta. 2024. <span>“Webarchivierung an Der Deutschen <span>Nationalbibliothek</span>.”</span> <a href="https://doi.org/10.5281/zenodo.14355206">https://doi.org/10.5281/zenodo.14355206</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+  author = {Ochsner, Catharina and Höfting, Jonas and Pampel, Heinz},
+  title = {Perspective on {Future} {Infrastructure} for {Scholarly}
+    {Blogs} in {Germany}},
+  date = {2025-01-10},
+  url = {https://infomgnt.org/posts/2025-01-10-perspective-on-future-inrastructure-for-scholarly-blogs-in-germany},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, Jonas Höfting, and Heinz Pampel. 2025.
+<span>“Perspective on Future Infrastructure for Scholarly Blogs in
+Germany.”</span> January 10, 2025. <a href="https://infomgnt.org/posts/2025-01-10-perspective-on-future-inrastructure-for-scholarly-blogs-in-germany">https://infomgnt.org/posts/2025-01-10-perspective-on-future-inrastructure-for-scholarly-blogs-in-germany</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/</guid>
+  <pubDate>Thu, 09 Jan 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/IMG_5273.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Workshop ‘The state and prospects of open access reporting’ at Open-Access-Tage</title>
   <dc:creator>Dorothea Strecker</dc:creator>

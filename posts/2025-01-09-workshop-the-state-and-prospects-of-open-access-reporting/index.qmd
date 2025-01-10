@@ -1,8 +1,7 @@
 ---
 title: "Workshop 'The state and prospects of open access reporting' at Open-Access-Tage"
 author: 
-  - name: Dorothea Strecker
-    url:  https://heinzpampel.de  
+  - name: Dorothea Strecker 
     orcid: 0000-0002-9754-3807
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: http://hu-berlin.de/infomgnt  
