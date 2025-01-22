@@ -65,7 +65,7 @@ The workshop enabled us to bring together diverse perspectives from people invol
 
 Building on the results of the survey of German blogs, we will start conducting in-depth interviews with scholarly bloggers to investigate the infrastructural challenges of scholarly blogs and possible solutions.
 
-Additionally, We are currently working on publishing the results of our survey on German scholarly blogs. We will communicate the publication of the article through our [mailing list](infra-wiss-blogs@listserv.dfn.de). The subscription is possible [here](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs).
+Additionally, We are currently working on publishing the results of our survey on German scholarly blogs. We will communicate the publication of the article through our [mailing list](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs). The subscription is possible [here](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs).
 
 A German version of this blog post is available on the blog dedicated to the Infra Wiss Blog project and can be found [here](https://infrawissblogs.org/).
 
