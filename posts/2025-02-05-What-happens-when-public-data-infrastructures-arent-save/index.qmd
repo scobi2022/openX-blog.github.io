@@ -8,7 +8,7 @@ author:
 date: "2025-02-05"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save       
+  url: https://doi.org/10.59350/6g3km-9w70        
 image: datarescue.webp
 draft: false
 bibliography: references.bib
