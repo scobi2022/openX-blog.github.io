@@ -12,7 +12,7 @@ author:
 date: "2025-02-05"
 categories: [Lab Life]
 citation: 
-  url: https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors      
+  url: https://doi.org/10.59350/ja4m1-92098       
 image: Unbenannt.png
 draft: false
 bibliography: references_oa_ambassadors.bib
