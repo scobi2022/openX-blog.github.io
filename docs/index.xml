@@ -10,7 +10,58 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Thu, 09 Jan 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Promoting Open Science at the Humboldt-Universität zu Berlin as BUA Open Science Ambassadors</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Dorothea Strecker</dc:creator>
+  <link>https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/bua_logo.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>The Ambassadors for Open Science program of the <a href="https://www.berlin-university-alliance.de/index.html">Berlin University Alliance, BUA</a> aims to promote the knowledge and application of Open Science in various subjects. As Open Science experts and enthusiasts, the ambassadors show researchers, students and decision-makers at their institution how they can benefit from and make use of Open Science infrastructure <span class="citation" data-cites="berlin_university_alliance_auftakt_2024">(Alliance 2024a)</span>.</p>
+<p>We are pleased to announce that <a href="https://oa-datenpraxis.de/index.html">Dorothea Strecker</a> and <a href="https://infrawissblogs.org/">Catharina Ochsner</a> from the Berlin School of Library and Information Science will serve as the Open Science ambassadors for the <a href="https://www.ibi.hu-berlin.de/de">Faculty of Philosophy</a> at Humboldt-Universität zu Berlin (HU) until 31 July 2025.</p>
+<p>The <a href="https://www.berlin-university-alliance.de/commitments/research-quality/core/index.html">Center for Open and Responsible Research (CORe)</a> of the Berlin University Alliance (BUA) supports the ambassadors with financial resources for training and networking activities or for the organization of further education events for research colleagues, decision-makers and students <span class="citation" data-cites="berlin_university_alliance_open_2024">(Alliance 2024b)</span>. We will announce future activities on our <a href="https://infomgnt.org/">lab blog</a> and our <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events">official website</a>. We are looking forward to hosting events as part of the Open Science ambassador program and to facilitate the adoption of Open Science practices at the HU.</p>
+<p>If you have questions or wishes you can reach us via e-mail under dorothea.strecker@hu-berlin.de or catharina.ochsner@hu-berlin.de. More detailed information on the Ambassadors for Open Science program can be found <a href="https://www.berlin-university-alliance.de/commitments/research-quality/openx/os-botschafter-innen/index.html">here</a>.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-berlin_university_alliance_auftakt_2024" class="csl-entry">
+Alliance, Berlin University. 2024a. <span>“Auftakt Für Neu Ernannte <span>BUA</span> <span>Open</span> <span>Science</span> <span>Ambassadors</span>.”</span> <a href="https://www.berlin-university-alliance.de/items/2024/240924-open-science-ambassadors.html">https://www.berlin-university-alliance.de/items/2024/240924-open-science-ambassadors.html</a>.
+</div>
+<div id="ref-berlin_university_alliance_open_2024" class="csl-entry">
+———. 2024b. <span>“Die <span>Open</span> <span>Science</span> <span>Botschafter</span> Der <span>Berlin</span> <span>University</span> <span>Alliance</span>.”</span> <a href="https://www.berlin-university-alliance.de/commitments/research-quality/openx/os-botschafter-innen/index.html">https://www.berlin-university-alliance.de/commitments/research-quality/openx/os-botschafter-innen/index.html</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+  author = {Ochsner, Catharina and Strecker, Dorothea},
+  title = {Promoting {Open} {Science} at the {Humboldt-Universität} Zu
+    {Berlin} as {BUA} {Open} {Science} {Ambassadors}},
+  date = {2025-02-05},
+  url = {https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, and Dorothea Strecker. 2025. <span>“Promoting Open
+Science at the Humboldt-Universität Zu Berlin as BUA Open Science
+Ambassadors.”</span> February 5, 2025. <a href="https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors">https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <guid>https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/</guid>
+  <pubDate>Tue, 04 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/Unbenannt.png" medium="image" type="image/png" height="68" width="144"/>
+</item>
 <item>
   <title>Perspective on Future Infrastructure for Scholarly Blogs in Germany</title>
   <dc:creator>Catharina Ochsner</dc:creator>
