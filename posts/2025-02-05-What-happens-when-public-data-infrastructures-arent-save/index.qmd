@@ -1,0 +1,52 @@
+---
+title: "What happens when public data infrastructures aren't save? A look at past and current developments in the US"
+author: 
+  - name: Laura Rothfritz
+    orcid: 0000-0001-7525-0635
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
+    affiliation-url: http://hu-berlin.de/infomgnt   
+date: "2025-02-05"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save       
+image: datarescue.webp
+draft: false
+bibliography: references.bib
+---
+
+In my PhD research, I look at DataRescue or Data Refuge movements, for example through the work of the [Environmental Data and Governance Initiative](https://envirodatagov.org/) (EDGI) [@EnvironmentalDataGovernance] to understand how people respond when they fear data is at risk. I’m particularly interested in what these efforts reveal about how public data infrastructures actually work—not just as systems of information storage, but as objects of political struggle.
+
+This research started quite some time ago with an overarching topic of trust and distrust in public data infrastructures [@rothfritzUnderstandingMistrustDistrust2024]. I planned for the first iteration of the DataRescue movement to serve as a case study for this research [@rothfritzUnderstandingTrustDistrust2024]. Of course, I did not anticipate that there would be another series of events which would lead to the loss of access to public information and data in the U.S. so soon.
+
+### Rescuing Data
+
+In 2016, a group of librarians, archivists, and environmental activists saw the writing on the wall: the incoming U.S. administration might threaten access to crucial federal climate data. What followed was a series of DataRescue events: community-led efforts to archive and preserve environmental datasets that many feared would be deleted, altered, or buried in bureaucratic obscurity [@janzMaintainingAccessPublic2017; @currieBackupsFutureArchival2018]
+
+Fast forward to 2025. Another major political shift is unfolding in the U.S., and with it, new concerns about the integrity and accessibility of public data. This time around, large amounts of public federal information such as websites [@singerThousandsUSGovernment2025a] and data [@koeblerArchivistsWorkIdentify2025a] are disappearing from public access again. The scale and breadth of which kind of information is disappearing is arguably larger though - it concerns not just environmental data and climate change mentions on websites, but also for example health data and information from the Centers for Disease and Control Prevention (CDC) [@sunCDCRemovesGender2025; @coxLookFederalHealth2025]. Efforts seem to be more strategic and orchestrated.
+
+The good news is that at least to a pretty far extent preparations were taking place before the Trump administration took office in January. For example, all federal websites were archived through the [End-Of-Term Web Archive](https://eotarchive.org), a project which routinely has been doing this for administration changes in the U.S. since 2008 [@EndTermWeb]. A dataset of CDC data uploaded before January 28th, 2025 [is available on the Internet Archive](https://archive.org/details/20250128-cdc-datasets). EDGI and the [Public Environmental Data Project](https://screening-tools.com) have worked ahead to archive crucial environmental data [@edgiWhyEDGIArchiving2025].
+
+There are quite a few other initiatives taking place at the moment. A good overview resource is collected through IASSIST on this [Google Doc](https://docs.google.com/document/d/15ZRxHqbhGDHCXo7Hqi_Vcy4Q50ZItLblIFaY3s7LBLw/edit?userstoinvite=spacific@gmail.com&sharingaction=manageaccess&role=writer&tab=t.0), which is constantly being updated.
+
+### Why This Matters
+
+Public data infrastructures—the systems that store and provide access to government data—are often taken for granted. We assume that scientific reports, climate models, and environmental monitoring data will always be there when we need them. But these infrastructures are not just technical systems; they are deeply political. Decisions about what gets collected, what remains accessible, and what disappears are shaped by power, policy, and priorities.
+
+The Data Rescue events of 2016–2017 brought together scientists, librarians, and civic tech communities to back up environmental datasets they feared could vanish under the Trump administration. At first glance, the movement looked like a technical project—downloading datasets, copying them to safer locations. But it was just as much an act of political resistance [@parisDatamirroringArchivalActivism2017].
+
+Looking back, one of the most fascinating aspects of Data Rescue is that very little data actually disappeared. Yet the movement wasn’t a failure per se, even though most of the rescued data was not usable and the collection was far from complete [@lamdanLessonsDatarescueLimitations2017a]. It revealed something crucial: it wasn’t just about saving data; it was about making government accountability visible [@dillonEnvironmentalDataJustice2017; @dillonSituatingDataTrumpian2019]. One theory might be that the fact that people felt the need to take matters into their own hands showed a loss of trust in official assurances represented by federal infrastructures.
+
+Now, nearly a decade later, similar concerns are emerging. As the political landscape in the U.S. shifts once again. This time around,
+
+I am currently speaking with people who were in one way or another involved in the first DataRescue events. Some of them have continued to monitor federal data policies and website changes over the years. Their work is a reminder that data loss isn’t always dramatic—sometimes, it’s a slow erosion of accessibility, funding cuts, or subtle changes to the language used in official reports.
+
+If there’s one thing the past decade has taught us, it’s that data isn’t neutral and neither are the infrastructures they are connected to. Public data infrastructures are shaped by politics, and in turn, they shape what we know about the world. Understanding how these systems work—and how they can be protected—will be critical in the years ahead.
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
+
+---
+nocite: |
+  @*
+---

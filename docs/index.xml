@@ -63,6 +63,111 @@ Ambassadors.”</span> February 5, 2025. <a href="https://doi.org/10.59350/ja4m1
   <media:content url="https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/Unbenannt.png" medium="image" type="image/png" height="68" width="144"/>
 </item>
 <item>
+  <title>What happens when public data infrastructures aren’t save? A look at past and current developments in the US</title>
+  <dc:creator>Laura Rothfritz</dc:creator>
+  <link>https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In my PhD research, I look at DataRescue or Data Refuge movements, for example through the work of the <a href="https://envirodatagov.org/">Environmental Data and Governance Initiative</a> (EDGI) <span class="citation" data-cites="EnvironmentalDataGovernance">(<span>“Environmental <span>Data</span> &amp; <span>Governance Initiative</span>”</span> n.d.)</span> to understand how people respond when they fear data is at risk. I’m particularly interested in what these efforts reveal about how public data infrastructures actually work—not just as systems of information storage, but as objects of political struggle.</p>
+<p>This research started quite some time ago with an overarching topic of trust and distrust in public data infrastructures <span class="citation" data-cites="rothfritzUnderstandingMistrustDistrust2024">(Rothfritz 2024a)</span>. I planned for the first iteration of the DataRescue movement to serve as a case study for this research <span class="citation" data-cites="rothfritzUnderstandingTrustDistrust2024">(Rothfritz 2024b)</span>. Of course, I did not anticipate that there would be another series of events which would lead to the loss of access to public information and data in the U.S. so soon.</p>
+<section id="rescuing-data" class="level3">
+<h3 class="anchored" data-anchor-id="rescuing-data">Rescuing Data</h3>
+<p>In 2016, a group of librarians, archivists, and environmental activists saw the writing on the wall: the incoming U.S. administration might threaten access to crucial federal climate data. What followed was a series of DataRescue events: community-led efforts to archive and preserve environmental datasets that many feared would be deleted, altered, or buried in bureaucratic obscurity <span class="citation" data-cites="janzMaintainingAccessPublic2017 currieBackupsFutureArchival2018">(Janz 2017; Currie and Paris 2018)</span></p>
+<p>Fast forward to 2025. Another major political shift is unfolding in the U.S., and with it, new concerns about the integrity and accessibility of public data. This time around, large amounts of public federal information such as websites <span class="citation" data-cites="singerThousandsUSGovernment2025a">(Singer 2025)</span> and data <span class="citation" data-cites="koeblerArchivistsWorkIdentify2025a">(Koebler 2025)</span> are disappearing from public access again. The scale and breadth of which kind of information is disappearing is arguably larger though - it concerns not just environmental data and climate change mentions on websites, but also for example health data and information from the Centers for Disease and Control Prevention (CDC) <span class="citation" data-cites="sunCDCRemovesGender2025 coxLookFederalHealth2025">(Sun, Keating, and Nirappil 2025; Cox et al. 2025)</span>. Efforts seem to be more strategic and orchestrated.</p>
+<p>The good news is that at least to a pretty far extent preparations were taking place before the Trump administration took office in January. For example, all federal websites were archived through the <a href="https://eotarchive.org">End-Of-Term Web Archive</a>, a project which routinely has been doing this for administration changes in the U.S. since 2008 <span class="citation" data-cites="EndTermWeb">(<span>“End of <span>Term Web Archive</span>”</span> n.d.)</span>. A dataset of CDC data uploaded before January 28th, 2025 <a href="https://archive.org/details/20250128-cdc-datasets">is available on the Internet Archive</a>. EDGI and the <a href="https://screening-tools.com">Public Environmental Data Project</a> have worked ahead to archive crucial environmental data <span class="citation" data-cites="edgiWhyEDGIArchiving2025">(EDGI 2025)</span>.</p>
+<p>There are quite a few other initiatives taking place at the moment. A good overview resource is collected through IASSIST on this <a href="https://docs.google.com/document/d/15ZRxHqbhGDHCXo7Hqi_Vcy4Q50ZItLblIFaY3s7LBLw/edit?userstoinvite=spacific@gmail.com&amp;sharingaction=manageaccess&amp;role=writer&amp;tab=t.0">Google Doc</a>, which is constantly being updated.</p>
+</section>
+<section id="why-this-matters" class="level3">
+<h3 class="anchored" data-anchor-id="why-this-matters">Why This Matters</h3>
+<p>Public data infrastructures—the systems that store and provide access to government data—are often taken for granted. We assume that scientific reports, climate models, and environmental monitoring data will always be there when we need them. But these infrastructures are not just technical systems; they are deeply political. Decisions about what gets collected, what remains accessible, and what disappears are shaped by power, policy, and priorities.</p>
+<p>The Data Rescue events of 2016–2017 brought together scientists, librarians, and civic tech communities to back up environmental datasets they feared could vanish under the Trump administration. At first glance, the movement looked like a technical project—downloading datasets, copying them to safer locations. But it was just as much an act of political resistance <span class="citation" data-cites="parisDatamirroringArchivalActivism2017">(Paris 2017)</span>.</p>
+<p>Looking back, one of the most fascinating aspects of Data Rescue is that very little data actually disappeared. Yet the movement wasn’t a failure per se, even though most of the rescued data was not usable and the collection was far from complete <span class="citation" data-cites="lamdanLessonsDatarescueLimitations2017a">(Lamdan 2017)</span>. It revealed something crucial: it wasn’t just about saving data; it was about making government accountability visible <span class="citation" data-cites="dillonEnvironmentalDataJustice2017 dillonSituatingDataTrumpian2019">(Dillon et al. 2017, 2019)</span>. One theory might be that the fact that people felt the need to take matters into their own hands showed a loss of trust in official assurances represented by federal infrastructures.</p>
+<p>Now, nearly a decade later, similar concerns are emerging. As the political landscape in the U.S. shifts once again. This time around,</p>
+<p>I am currently speaking with people who were in one way or another involved in the first DataRescue events. Some of them have continued to monitor federal data policies and website changes over the years. Their work is a reminder that data loss isn’t always dramatic—sometimes, it’s a slow erosion of accessibility, funding cuts, or subtle changes to the language used in official reports.</p>
+<p>If there’s one thing the past decade has taught us, it’s that data isn’t neutral and neither are the infrastructures they are connected to. Public data infrastructures are shaped by politics, and in turn, they shape what we know about the world. Understanding how these systems work—and how they can be protected—will be critical in the years ahead.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-CDCDatasetsUploaded" class="csl-entry">
+<span>“<span>CDC</span> Datasets Uploaded Before <span>January</span> 28th, 2025 : <span>Centers</span> for <span>Disease Control</span> and <span>Prevention</span> : <span>Free Download</span>, <span>Borrow</span>, and <span>Streaming</span>.”</span> n.d. <em>Internet Archive</em>. https://archive.org/details/20250128-cdc-datasets. Accessed February 5, 2025.
+</div>
+<div id="ref-coxLookFederalHealth2025" class="csl-entry">
+Cox, Cynthia, Matthew Rae, Jennifer Kates, Emma Wager, Jared Ortaliza, and Lindsey Dawson Published. 2025. <span>“A <span>Look</span> at <span>Federal Health Data Taken Offline</span>.”</span> <em>KFF</em>.
+</div>
+<div id="ref-currieBackupsFutureArchival2018" class="csl-entry">
+Currie, Morgan E., and Britt S. Paris. 2018. <span>“Back-Ups for the Future: Archival Practices for Data Activism.”</span> <em>Archives and Manuscripts</em> 46 (2): 124–42. <a href="https://doi.org/10.1080/01576895.2018.1468273">https://doi.org/10.1080/01576895.2018.1468273</a>.
+</div>
+<div id="ref-DataScreeningTools" class="csl-entry">
+<span>“Data + <span>Screening Tools</span>.”</span> n.d. <em>Data + Screening Tools</em>. https://screening-tools.com. Accessed February 5, 2025.
+</div>
+<div id="ref-dillonSituatingDataTrumpian2019" class="csl-entry">
+Dillon, Lindsey, Rebecca Lave, Becky Mansfield, Sara Wylie, Nicholas Shapiro, Anita Say Chan, and Michelle Murphy. 2019. <span>“Situating <span>Data</span> in a <span>Trumpian Era</span>: <span>The Environmental Data</span> and <span>Governance Initiative</span>.”</span> <em>Annals of the American Association of Geographers</em> 109 (2): 545–55. <a href="https://doi.org/10.1080/24694452.2018.1511410">https://doi.org/10.1080/24694452.2018.1511410</a>.
+</div>
+<div id="ref-dillonEnvironmentalDataJustice2017" class="csl-entry">
+Dillon, Lindsey, Dawn Walker, Nicholas Shapiro, Vivian Underhill, Megan Martenyi, Sara Wylie, Rebecca Lave, Michelle Murphy, and Phil Brown. 2017. <span>“Environmental <span>Data Justice</span> and the <span>Trump Administration</span>: <span>Reflections</span> from the <span>Environmental Data</span> and <span>Governance Initiative</span>.”</span> <em>Environmental Justice</em> 10 (6): 186–92. <a href="https://doi.org/10.1089/env.2017.0020">https://doi.org/10.1089/env.2017.0020</a>.
+</div>
+<div id="ref-edgiWhyEDGIArchiving2025" class="csl-entry">
+EDGI. 2025. <span>“Why <span>EDGI</span> Is <span>Archiving Public Environmental Data</span>.”</span> <em>Environmental Data and Governance Initiative</em>. https://envirodatagov.org/why-edgi-is-archiving-public-environmental-data/.
+</div>
+<div id="ref-EndTermWeb" class="csl-entry">
+<span>“End of <span>Term Web Archive</span>.”</span> n.d. <em>End of Term Web Archive</em>. https://eotarchive.org/. Accessed February 5, 2025.
+</div>
+<div id="ref-EnvironmentalDataGovernance" class="csl-entry">
+<span>“Environmental <span>Data</span> &amp; <span>Governance Initiative</span>.”</span> n.d. <em>Environmental Data and Governance Initiative</em>. https://envirodatagov.org/. Accessed February 5, 2025.
+</div>
+<div id="ref-janzMaintainingAccessPublic2017" class="csl-entry">
+Janz, Margaret Miller. 2017. <span>“Maintaining <span>Access</span> to <span>Public Data</span>: <span>Lessons</span> from <span>Data Refuge</span>.”</span> <em>Against the Grain</em> 29 (6). <a href="https://doi.org/10.7771/2380-176X.7875">https://doi.org/10.7771/2380-176X.7875</a>.
+</div>
+<div id="ref-koeblerArchivistsWorkIdentify2025a" class="csl-entry">
+Koebler, Jason. 2025. <span>“Archivists <span>Work</span> to <span>Identify</span> and <span>Save</span> the <span>Thousands</span> of <span>Datasets Disappearing From Data</span>.gov.”</span> <em>404 Media</em>. https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/.
+</div>
+<div id="ref-lamdanLessonsDatarescueLimitations2017a" class="csl-entry">
+Lamdan, Sarah. 2017. <span>“Lessons from <span>Datarescue</span>: <span>The Limitations</span> of <span>Grassroots Climate Change Data Preservation</span> and the <span>Need</span> for <span>Federal Records Law Reform Essay</span>.”</span> <em>University of Pennsylvania Law Review Online</em> 166: 231–48.
+</div>
+<div id="ref-parisDatamirroringArchivalActivism2017" class="csl-entry">
+Paris, Britt. 2017. <span>“Data-Mirroring as Archival Activism.”</span> <em>Datapower Conference Proceedings</em>, 1.2.4–4. <a href="https://doi.org/10.22215/datapower.v2017i0.22">https://doi.org/10.22215/datapower.v2017i0.22</a>.
+</div>
+<div id="ref-rothfritzUnderstandingMistrustDistrust2024" class="csl-entry">
+Rothfritz, Laura. 2024a. <span>“Understanding Mistrust and Distrust in Public Data Infrastructures.”</span> <a href="https://doi.org/10.5281/zenodo.10663566">https://doi.org/10.5281/zenodo.10663566</a>.
+</div>
+<div id="ref-rothfritzUnderstandingTrustDistrust2024" class="csl-entry">
+———. 2024b. <span>“Understanding Trust and Distrust in Public Data Infrastructures as Socio-Technical Systems.”</span> <a href="https://doi.org/10.5281/zenodo.11142410">https://doi.org/10.5281/zenodo.11142410</a>.
+</div>
+<div id="ref-singerThousandsUSGovernment2025a" class="csl-entry">
+Singer, Ethan. 2025. <span>“Thousands of <span>U</span>.<span>S</span>. <span>Government Web Pages Have Been Taken Down Since Friday</span> - <span>The New York Times</span>.”</span> https://www.nytimes.com/2025/02/02/upshot/trump-government-websites-missing-pages.html.
+</div>
+<div id="ref-sunCDCRemovesGender2025" class="csl-entry">
+Sun, Lena H., Dan Keating, and Fenit Nirappil. 2025. <span>“<span>CDC</span> Removes Gender, Equity References in Public Health Material.”</span> <em>Washington Post</em>, February.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
+  author = {Rothfritz, Laura},
+  title = {What Happens When Public Data Infrastructures Aren’t Save?
+    {A} Look at Past and Current Developments in the {US}},
+  date = {2025-02-05},
+  url = {https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-rothfritz2025" class="csl-entry quarto-appendix-citeas">
+Rothfritz, Laura. 2025. <span>“What Happens When Public Data
+Infrastructures Aren’t Save? A Look at Past and Current Developments in
+the US.”</span> February 5, 2025. <a href="https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save">https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/</guid>
+  <pubDate>Tue, 04 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/datarescue.webp" medium="image" type="image/webp"/>
+</item>
+<item>
   <title>Perspective on Future Infrastructure for Scholarly Blogs in Germany</title>
   <dc:creator>Catharina Ochsner</dc:creator>
   <dc:creator>Jonas Höfting</dc:creator>
@@ -1250,63 +1355,6 @@ Open Science Infrastructures.”</span> June 11, 2024. <a href="https://doi.org/
   <guid>https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/</guid>
   <pubDate>Mon, 10 Jun 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/wg.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome</title>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-03-25-welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Welcome! This is the first post in our new group blog.<sup>1</sup> We, the research group Information Management at Humboldt University’s Berlin School of Library and Information Science, explore the role of digital research and information infrastructures in science within the context of digital transformation.</p>
-<p>The focus of our research is on information infrastructures that enable the collection, indexing, accessibility, and re-use of information objects for the purpose of Open Science.</p>
-<p>Our work considers processes of digital scholarly communication and related practices, standards, and policies. These aspects are addressed from the perspective of information and library science, with a focus on libraries, computing centers, and other service facilities supporting research at scientific organizations.</p>
-<p><img src="https://infomgnt.org/posts/2024-03-25-welcome/ibi.jpg" class="img-fluid"></p>
-<p>Current topics of our research and teaching group include:</p>
-<ul>
-<li><p>Information infrastructures for Open Science</p></li>
-<li><p>Research data management</p></li>
-<li><p>Open Access and developments in digital scholarly communication</p></li>
-<li><p>Research software and digital services for information and knowledge production</p></li>
-<li><p>Management of research information</p></li>
-<li><p>Science policy and Open Science</p></li>
-<li><p>Academic libraries in the context of changing information and knowledge practices</p></li>
-</ul>
-<p>Further information about our work can be found on our official website: <a href="http://hu.berlin/infomgnt" class="uri">http://hu.berlin/infomgnt</a></p>
-<p>If you’re interested in learning more about our research, you might want to check out a guest post we published a few days ago about our Pro OAR DE project on the DINI colleagues’ blog <span class="citation" data-cites="pampel_open_2024">(Pampel and Wrzesinski 2024)</span>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-pampel_open_2024" class="csl-entry">
-Pampel, Heinz, and Marcel Wrzesinski. 2024. <span>“Open <span>Access</span> <span>Repositories</span> in <span>Transition</span>: <span>Strategies</span> for <span>Professionalization</span>.”</span> <em>Blog Der DINI AGs FIS &amp; EPUB</em>. <a href="https://doi.org/10.57689/dini-blog.20240311">https://doi.org/10.57689/dini-blog.20240311</a>.
-</div>
-</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Sure, in this blog, there will also be footnotes ;)↩︎</p></li>
-</ol>
-</section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
-  author = {Pampel, Heinz},
-  title = {Welcome},
-  date = {2024-03-25},
-  url = {https://doi.org/10.59350/yfaq3-ha496},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz. 2024. <span>“Welcome.”</span> March 25, 2024. <a href="https://doi.org/10.59350/yfaq3-ha496">https://doi.org/10.59350/yfaq3-ha496</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-03-25-welcome/</guid>
-  <pubDate>Sun, 24 Mar 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-03-25-welcome/ibi.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
