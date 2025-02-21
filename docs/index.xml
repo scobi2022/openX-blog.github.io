@@ -10,7 +10,95 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Tue, 04 Feb 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Critical Data Discourses: A Lecture Series on the Ethics of Research Data</title>
+  <dc:creator>Laura Rothfritz</dc:creator>
+  <dc:creator>Katrin Frisch</dc:creator>
+  <link>https://infomgnt.org/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In a time when research data is increasingly at the heart of research integrity, discussions about data sharing, openness, and reusability have gained prominence. Yet, the ethical complexities surrounding research data—who collects it, how it is used, and whose interests it serves—are often sidelined. The <a href="https://critical-data-discourse.quarto.pub/">Critical Data Discourses</a> lecture series seeks to shift the focus from purely technical concerns to broader ethical, social, and political reflections on data.</p>
+<p>Discussions about data in research are often dominated by principles like FAIR <span class="citation" data-cites="wilkinsonFAIRGuidingPrinciples2016">(Wilkinson et al. 2016)</span>, which aim to standardize and optimize the findability, accessibility, interoperability and reusability of research data. While these principles are important, they do not fully capture the ethical dimensions of data collection and use. Questions of fairness, responsibility, power dynamics, and care work in data practices are not covered by these principles.</p>
+<p><img src="https://infomgnt.org/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/poster.png" class="img-fluid"></p>
+<p>At the same time, international discussions have introduced complementary frameworks, such as the CARE principles <span class="citation" data-cites="Carroll-2020">(Carroll et al. 2020)</span>—developed from Indigenous governance perspectives—which emphasize the social and relational aspects of data. These principles highlight how data is not just a neutral resource but deeply intertwined with historical, social, and ethical considerations.</p>
+<p>With this lecture series, we aim to bring together data professionals and critical scholars to examine the evolving landscape of data ethics and adjacent questions about data politics and data justice. Through a series of expert talks, we are exploring issues that are often missing from mainstream research data discussions, such as:</p>
+<ul>
+<li>The ethics of data collection and the ethical considerations behind it</li>
+<li>The role of domain-specific ethical considerations in fields like humanities, medicine, and AI research</li>
+<li>The limitations of existing data frameworks and their unintended consequences</li>
+<li>Data gaps and missing data—what is left out of research and why</li>
+<li>The influence of AI and automation on knowledge production and discrimination</li>
+<li>The impact of historical injustices on contemporary data practices</li>
+</ul>
+<p>Our motivation for organizing this series stems from a shared interest in rethinking data practices beyond efficiency and compliance, and centering on issues of ethics, justice, transparency, and responsibility. More information is available <a href="https://critical-data-discourse.quarto.pub/">on our website</a>.</p>
+<p>After a successful launch with over 100 participants in our first session, we are excited to continue the discussions in our upcoming talks on data ethics, AI, and power structures in research data.</p>
+<p>Here is a look at what’s next (in German):</p>
+<section id="session-3-04.03.2025-14-16-uhr-ethik-des-sammelns" class="level3">
+<h3 class="anchored" data-anchor-id="session-3-04.03.2025-14-16-uhr-ethik-des-sammelns">Session 3: 04.03.2025, 14-16 Uhr Ethik des Sammelns</h3>
+<p>The Dark Side of DNA: Exposing the Ethical Lapses That Threaten Human Genetics Vortragender: Yves Moreau, University of Leuven, Belgium</p>
+<p>Unborn digital. Challenges in data publications on collections of human embryos and fetuses Vortragender: Michael Markert, FAU Erlangen-Nürnberg</p>
+<p>Anmeldung: <a href="https://hu.berlin/56827" class="uri">https://hu.berlin/56827</a></p>
+</section>
+<section id="session-4-20.03.2025-14-16-uhr-fachspezifische-datenethik" class="level3">
+<h3 class="anchored" data-anchor-id="session-4-20.03.2025-14-16-uhr-fachspezifische-datenethik">Session 4: 20.03.2025, 14-16 Uhr Fachspezifische Datenethik</h3>
+<p>Ethische Kontrollinstanzen für die Literaturwissenschaft? Über Freiheit und Verantwortung im literaturwissenschaftlichen Datenumgang Vortragende: Katharina Fürholzer, Universität Koblenz</p>
+<p>Ethische Aspekte der Nutzung generativer KI in der Wissenschaft – ein medizinethischer Blickwinkel Vortragende: Theresa Willem, TU München &amp; Helmholtz Zentrum München - Deutsches Forschungszentrum für Gesundheit und Umwelt</p>
+<p>Anmeldung: <a href="https://hu.berlin/85362" class="uri">https://hu.berlin/85362</a></p>
+</section>
+<section id="session-5-03.04.2025-14-16-uhr-data-gaps" class="level3">
+<h3 class="anchored" data-anchor-id="session-5-03.04.2025-14-16-uhr-data-gaps">Session 5: 03.04.2025 14-16 Uhr Data Gaps</h3>
+<p>Die Polizeiliche Kriminalstatistik (PKS) – belastbare Grundlage für gesellschaftspolitische Debatten oder verzerrtes Datensammelsammelsurium? Vortragender: Martin Thüne, FHVD - Fachbereich Polizei</p>
+<p>Datenbank zu Rechtsterrorismus: Schwierigkeiten und Chancen bei der Datenerhebung. Vortragender: Thilo Manemann, Center for Monitoring, Analyse und Strategie</p>
+<p>Anmeldung: <a href="https://hu.berlin/37719" class="uri">https://hu.berlin/37719</a></p>
+</section>
+<section id="session-6-10.04.2025-14-16-uhr-data-agency-ai" class="level3">
+<h3 class="anchored" data-anchor-id="session-6-10.04.2025-14-16-uhr-data-agency-ai">Session 6: 10.04.2025, 14-16 Uhr Data Agency &amp; AI</h3>
+<p>Die neue Unsichtbarkeit von Frauen: Von synthetischen Bildern und ethischen Folgen Vortragende: Eugenia Stamboliev, Universität Wien</p>
+<p>More or less discrimination? Psychological (and other) AIs in personnel selection Vortragende: Helena Mihaljević, Hochschule für Technik und Wirtschaft, Berlin</p>
+<p>Anmeldung: <a href="https://hu.berlin/64446" class="uri">https://hu.berlin/64446</a></p>
+</section>
+<section id="session-7-29.04.2025-14-16-uhr-abschlussveranstaltung" class="level3">
+<h3 class="anchored" data-anchor-id="session-7-29.04.2025-14-16-uhr-abschlussveranstaltung">Session 7: 29.04.2025, 14-16 Uhr Abschlussveranstaltung</h3>
+<p>Menschenrechtsbasierter Zugang zu Daten: der Monitor Gewalt gegen Frauen - Indikatoren, Arbeit mit administrativen Daten und ethische Implikationen Vortragende: Jolanda Krok, Miriam Schroer-Hippel, Lilly-Allegra Hikisch</p>
+<p>Anmeldung: <a href="https://hu.berlin/74686" class="uri">https://hu.berlin/74686</a></p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-Carroll-2020" class="csl-entry">
+Carroll, Stephanie Russo, Ibrahim Garba, Oscar L. Figueroa-Rodríguez, Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons, et al. 2020. <span>“The <span>CARE</span> Principles for Indigenous Data Governance.”</span> <em>Data Science Journal</em>, November. <a href="https://doi.org/10.5334/dsj-2020-043">https://doi.org/10.5334/dsj-2020-043</a>.
+</div>
+<div id="ref-wilkinsonFAIRGuidingPrinciples2016" class="csl-entry">
+Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. <span>“The <span>FAIR Guiding Principles</span> for Scientific Data Management and Stewardship.”</span> <em>Scientific Data</em> 3 (March): 160018.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
+  author = {Rothfritz, Laura and Frisch, Katrin},
+  title = {Critical {Data} {Discourses:} {A} {Lecture} {Series} on the
+    {Ethics} of {Research} {Data}},
+  date = {2025-02-21},
+  url = {https://infomgnt.org/posts/DATE-TITLE/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-rothfritz2025" class="csl-entry quarto-appendix-citeas">
+Rothfritz, Laura, and Katrin Frisch. 2025. <span>“Critical Data
+Discourses: A Lecture Series on the Ethics of Research Data .”</span>
+February 21, 2025. <a href="https://infomgnt.org/posts/DATE-TITLE/">https://infomgnt.org/posts/DATE-TITLE/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/</guid>
+  <pubDate>Thu, 20 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/pic.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Promoting Open Science at the Humboldt-Universität zu Berlin as BUA Open Science Ambassadors</title>
   <dc:creator>Catharina Ochsner</dc:creator>
@@ -1309,52 +1397,6 @@ Transformation.”</span> June 19, 2024. <a href="https://doi.org/10.59350/es0dc
   <guid>https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/</guid>
   <pubDate>Tue, 18 Jun 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/logo_oa_datenpraxis.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>Recommendations for Funding Organizations on Open Science Infrastructures</title>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I had the great opportunity to be part of the <a href="https://home.cern/news/news/knowledge-sharing/cern-and-nasa-join-forces-commit-research-future-open-and-accessible">CERN-NASA</a> working group “Infrastructure for Open Scholarship”. This working group was established following the 2023 CERN-NASA Summit “Accelerating the Adoption of Open Science”. As a result of the summit, a closing statement was published, outlining key areas of action for Open Science <span class="citation" data-cites="tananbaum_sowing_2023">(Tananbaum et al. 2023)</span>.</p>
-<p>Under the umbrella of the Open Research Funders Group (<a href="https://www.orfg.org/news/2023/11/01/cern-nasa-summit">ORFG</a>) and with financial support from the Gordon and Betty Moore Foundation, key topics from the closing statement were further developed in working groups. One of these working groups focused on the advancement of open science infrastructures. Our working group has now published its results in the form of a set of recommendations for funding organizations <span class="citation" data-cites="arancio_science_2024">(Arancio et al. 2024)</span>.</p>
-<p><img src="https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/wg.jpg" class="img-fluid"></p>
-<p>Excerpt: “These recommendations for funders are accompanied by a set of principles for open infrastructure projects that complements the first set and aims to increase the quality of service provided to researchers and institutions. The group aims to emphasize that the principles for infrastructure initiatives do not have a prescriptive approach; instead, the goal should be to foster good practices in the field. This work intends to add and build on the corpus of work that has been undertaken globally in this area, some of which is referenced at the end of this document. As with any global framework, it will need to be regionally situated to ensure feasibility, efficacy, and sustainability in a diversity of contexts.”</p>
-<p>Recommendations for funding agencies based on a set of core principles were created. These principles encompass the topics of infrastructure in open scholarship policies, recognizing work, funding and support, capabilities, and transparency.</p>
-<p>Many thanks to <a href="https://www.orfg.org/news/2023/10/02/orfg-welcomes-julieta-arancio-as-open-accelerator-fellow">Julieta Arancio</a> for her effective and cooperative leadership of the working group, and to all participants for their openness.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-arancio_science_2024" class="csl-entry">
-Arancio, Julieta, Claudia Alarcón-López, Heinz Pampel, Sherry Lake, César Pallares, Esther Plomp, Miho Funamori, Tanja Friedrich, Emmy Tsang, and CERN-NASA Working Group "Infrastructure for Open Scholarship". 2024. <span>“Science <span>Funders</span>: <span>Commitments</span> Towards <span>Open</span> <span>Infrastructure</span>,”</span> June. <a href="https://doi.org/10.5281/zenodo.11444361">https://doi.org/10.5281/zenodo.11444361</a>.
-</div>
-<div id="ref-tananbaum_sowing_2023" class="csl-entry">
-Tananbaum, Greg, Chelle Gentemann, Kamran Naim, Christopher Marcum, Eric Emsellem, Eunice Mercado-Lara, Tanja Friedrich, et al. 2023. <span>“Sowing the <span>Seeds</span> of <span>Global</span> <span>Open</span> <span>Science</span> <span>Coordination</span>,”</span> November. <a href="https://doi.org/10.5281/ZENODO.10059154">https://doi.org/10.5281/ZENODO.10059154</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
-  author = {Pampel, Heinz},
-  title = {Recommendations for {Funding} {Organizations} on {Open}
-    {Science} {Infrastructures}},
-  date = {2024-06-11},
-  url = {https://doi.org/10.59350/n1143-h4119},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz. 2024. <span>“Recommendations for Funding Organizations on
-Open Science Infrastructures.”</span> June 11, 2024. <a href="https://doi.org/10.59350/n1143-h4119">https://doi.org/10.59350/n1143-h4119</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Policy</category>
-  <guid>https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/</guid>
-  <pubDate>Mon, 10 Jun 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2026-06-11-recommendations-on-open-science-infrastructures/wg.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
