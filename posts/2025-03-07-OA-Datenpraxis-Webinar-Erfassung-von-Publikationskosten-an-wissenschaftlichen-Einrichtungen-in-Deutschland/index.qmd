@@ -16,7 +16,7 @@ author:
 date: "2025-03-07"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webiner-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland         
+  url: https://doi.org/10.59350/wnnk6-rzr69          
 image: logo_oa_datenpraxis(1).png
 draft: false
 bibliography: blogpost_references.bib
@@ -26,7 +26,7 @@ Wir laden Sie herzlich zur Veranstaltung “OA Datenpraxis Webinar: Erfassung vo
 
 In dem Webinar werden Ergebnisse einer Umfrage [@pampel_datenpraxis_2024] vorgestellt, die im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts OA Datenpraxis [@strecker_survey_2024] im Jahr 2024 durchgeführt wurde.
 
-Die Umfrage, die im Dialog mit Vertreter*innen der DEAL-Untergruppe “Kommunikation” entwickelt wurde, erhob, wie Daten zu Publikationskosten aktuell an wissenschaftlichen Einrichtungen in Deutschland erfasst werden. Adressiert wurden Vertreter*innen von Universitäten, Fachhochschulen, Instituten außeruniversitärer Forschungseinrichtungen sowie Ressortforschungseinrichtungen des Bundes. Von 583 eingeladenen Personen beteiligten sich 258 (44,3 %) an der Umfrage. Die Umfrage ist die erste umfassende Erhebung zur Erfassung von Publikationskosten in Deutschland.
+Die Umfrage, die im Dialog mit Vertreter:innen der DEAL-Untergruppe “Kommunikation” entwickelt wurde, erhob, wie Daten zu Publikationskosten aktuell an wissenschaftlichen Einrichtungen in Deutschland erfasst werden. Adressiert wurden Vertreter*innen von Universitäten, Fachhochschulen, Instituten außeruniversitärer Forschungseinrichtungen sowie Ressortforschungseinrichtungen des Bundes. Von 583 eingeladenen Personen beteiligten sich 258 (44,3 %) an der Umfrage. Die Umfrage ist die erste umfassende Erhebung zur Erfassung von Publikationskosten in Deutschland.
 
 Dieses Webinar richtet sich an Professionals, die sich für Open-Access-Monitoring, insbesondere die Erfassung von Open-Access-Publikationskosten, interessieren.
 
