@@ -10,7 +10,79 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Thu, 20 Feb 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Mar 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>What happens when public data infrastructures aren’t save? A look at past and current developments in the US</title>
+  <dc:creator>Dorothea Strecker</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Jonas Höfting</dc:creator>
+  <link>https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Wir laden Sie herzlich zur Veranstaltung “OA Datenpraxis Webinar: Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland” ein, die am 28.03.2025 von 10:00 bis 11:00 CET über Zoom stattfindet.</p>
+<p>In dem Webinar werden Ergebnisse einer Umfrage <span class="citation" data-cites="pampel_datenpraxis_2024">(Pampel et al. 2024)</span> vorgestellt, die im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts OA Datenpraxis <span class="citation" data-cites="strecker_survey_2024">(Strecker and Pampel 2024)</span> im Jahr 2024 durchgeführt wurde.</p>
+<p>Die Umfrage, die im Dialog mit Vertreter<em>innen der DEAL-Untergruppe “Kommunikation” entwickelt wurde, erhob, wie Daten zu Publikationskosten aktuell an wissenschaftlichen Einrichtungen in Deutschland erfasst werden. Adressiert wurden Vertreter</em>innen von Universitäten, Fachhochschulen, Instituten außeruniversitärer Forschungseinrichtungen sowie Ressortforschungseinrichtungen des Bundes. Von 583 eingeladenen Personen beteiligten sich 258 (44,3 %) an der Umfrage. Die Umfrage ist die erste umfassende Erhebung zur Erfassung von Publikationskosten in Deutschland.</p>
+<p>Dieses Webinar richtet sich an Professionals, die sich für Open-Access-Monitoring, insbesondere die Erfassung von Open-Access-Publikationskosten, interessieren.</p>
+<section id="programm" class="level2">
+<h2 class="anchored" data-anchor-id="programm">Programm</h2>
+<p>Nach einer Präsentation der Umfrageergebnisse haben Teilnehmende die Möglichkeit, Fragen zur Umfrage zu stellen. Anschließend werden einige zentrale Aspekte der Erfassung von Publikationskosten in einer Paneldiskussion mit Mitgliedern der DEAL-Gruppe erörtert.</p>
+<ul>
+<li><p>Begrüßung durch Heinz Pampel (5 Minuten)</p></li>
+<li><p>Vorstellung der Umfrageergebnisse durch Dorothea Strecker (30 Minuten)</p></li>
+<li><p>Q &amp; A zur Umfrage (10 Minuten)</p></li>
+<li><p>Paneldiskussion mit Mitgliedern der DEAL-Gruppe (15 Minuten)</p></li>
+</ul>
+</section>
+<section id="anmeldung" class="level2">
+<h2 class="anchored" data-anchor-id="anmeldung">Anmeldung</h2>
+<p>Eine Anmeldung zum Webinar ist über den folgenden Link möglich: <a href="https://hu-berlin.zoom-x.de/webinar/register/WN_pKTlDzjsQwC7QspLxwMHCg">Link zur Anmeldung</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/logo_oa_datenpraxis(1).png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section>
+<section id="weitere-informationen-zu-oa-datenpraxis" class="level2">
+<h2 class="anchored" data-anchor-id="weitere-informationen-zu-oa-datenpraxis">Weitere Informationen zu OA Datenpraxis</h2>
+<p><a href="https://www.oadatenpraxis.de">OA Datenpraxis</a> ist ein gemeinsames DFG-Projekt des <a href="https://www.ibi.hu-berlin.de">Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin</a>, des <a href="https://os.helmholtz.de">Helmholtz Open Science Office</a> und der <a href="https://www.sub.uni-goettingen.de">Niedersächsischen Staats- und Universitätsbibliothek Göttingen</a>.</p>
+<p>Aktuelle Veranstaltungen von OA Datenpraxis finden Sie auf der <a href="https://oa-datenpraxis.de/events.html">Projektwebseite</a>.</p>
+<p>Weitere Informationen zum Lehrstuhl Information Management finden Sie auf unserer <a href="http://hu.berlin/infomgnt">offiziellen Webseite</a>.</p>
+<p>Dieser Text - mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen - ist lizenziert unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-pampel_datenpraxis_2024" class="csl-entry">
+Pampel, Heinz, Najko Jahn, Roland Bertelmann, Wolfram Horstmann, Laura Rothfritz, Lea Maria Ferguson, Birgit Schmidt, and Anna Stisser. 2024. <span>“Datenpraxis Zur <span>Gestaltung</span> Der <span>Open</span>-<span>Access</span>-<span>Transformation</span> - <span>Analyse</span>, <span>Empfehlung</span>, <span>Training</span> &amp; <span>Vernetzung</span> (<span>OA</span> <span>Datenpraxis</span>).”</span> <a href="https://doi.org/10.5281/zenodo.10794298">https://doi.org/10.5281/zenodo.10794298</a>.
+</div>
+<div id="ref-strecker_survey_2024" class="csl-entry">
+Strecker, Dorothea, and Heinz Pampel. 2024. <span>“Survey Announcement: <span>Recording</span> Publication Costs at Research Performing Institutions in <span>Germany</span>.”</span> <em>Research Group Information Management @ Humboldt-Universität Zu Berlin</em>. <a href="https://doi.org/10.59350/9z58m-vwv42">https://doi.org/10.59350/9z58m-vwv42</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
+  author = {Strecker, Dorothea and Pampel, Heinz and Höfting, Jonas},
+  title = {What Happens When Public Data Infrastructures Aren’t Save?
+    {A} Look at Past and Current Developments in the {US}},
+  date = {2025-03-07},
+  url = {https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webiner-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-strecker2025" class="csl-entry quarto-appendix-citeas">
+Strecker, Dorothea, Heinz Pampel, and Jonas Höfting. 2025. <span>“What
+Happens When Public Data Infrastructures Aren’t Save? A Look at Past and
+Current Developments in the US.”</span> March 7, 2025. <a href="https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webiner-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland">https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webiner-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/</guid>
+  <pubDate>Thu, 06 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/logo_oa_datenpraxis(1).png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Critical Data Discourses: A Lecture Series on the Ethics of Research Data</title>
   <dc:creator>Laura Rothfritz</dc:creator>
@@ -805,8 +877,8 @@ Artificial Intelligence in License Agreements Published.”</span> October
 <p>We are currently planning with the following program:</p>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 19%">
-<col style="width: 80%">
+<col style="width: 23%">
+<col style="width: 76%">
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -889,7 +961,6 @@ Networking Workshop of the Infra Wiss Blogs Project.”</span> October 9,
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <category>Workshop</category>
   <guid>https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/</guid>
   <pubDate>Tue, 08 Oct 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/vernetzungsworkshop.png" medium="image" type="image/png" height="81" width="144"/>
@@ -1356,56 +1427,6 @@ BiblioCon.”</span> July 15, 2024. <a href="https://doi.org/10.59350/mg09a-5ma6
   <guid>https://infomgnt.org/posts/2024-07-15-hands-on-lab-report/</guid>
   <pubDate>Sun, 14 Jul 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-07-15-hands-on-lab-report/112th_bibliocon.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Project launch: OA Datenpraxis- Data Practices for Shaping the Open Access Transformation</title>
-  <dc:creator>Dorothea Strecker</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>We are excited to announce the launch of our new project, “Data Practices for Shaping Open Access Transformation - Analysis, Recommendation, Training &amp; Networking - OA Datenpraxis” funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation).</p>
-<p>Together with our colleagues at the <a href="https://os.helmholtz.de/">Helmholtz Open Science Office</a> and the <a href="https://subugoe.github.io/scholcomm_analytics/">Scholarly Communication Analytics Team</a> at the <a href="https://www.sub.uni-goettingen.de/sub-aktuell/">Lower Saxony State and University Library Göttingen</a> (SUB), we, the research group Information Management at the <a href="https://www.ibi.hu-berlin.de/en/about-us">Berlin School of Library and Information Science</a> (IBI), will work towards strengthening structures for the use of data on the open access transformation at research institutions in Germany.</p>
-<p>The project supports practitioners in research administration, libraries and other service institutions in professionalizing their data practices through various activities. As a first step, the team at IBI will conduct a comprehensive study on how research institutions handle publication costs. Our research will build on existing research and previous work of the project partners. Our goal is to get a better understanding of current practices and challenges associated with managing data on Open Access publications and associated costs.</p>
-<p>In strengthening the abilities of research institutions to leverage data to monitor publication output and associated costs, we are addressing some of the recommendations of the German Council of Science and Humanities for fostering the Open Access transformation in Germany <span class="citation" data-cites="wissenschaftsrat_empfehlungen_2022">(Wissenschaftsrat 2022)</span>. Additional information about the project and its goals can be found in the project proposal (in German) <span class="citation" data-cites="pampel_datenpraxis_2024">(Pampel et al. 2024)</span>.</p>
-<p>At this year’s Open-Access-Tage in Cologne, we are organizing a workshop with <a href="https://www.open-access-berlin.de/">Open-Access-Büro Berlin</a>, <a href="https://open-access-brandenburg.de/">Vernetzungs- und Kompetenzstelle Open Access Brandenburg</a> and <a href="https://open-access-monitor.de/">Open Access Monitor</a> at Forschungszentrum Jülich (FZJ). If you are interested in Open Access reporting and are attending, please feel free to approach us at the conference or contact us via <a href="info.oa-datenpraxis@listserv.dfn.de">email</a>.</p>
-<p>We will report on current activities and project outputs on the <a href="https://oa-datenpraxis.de/">project website</a> and <a href="https://openbiblio.social/@oa_datenpraxis">Mastodon</a>.</p>
-<p><img src="https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/logo_oa_datenpraxis.png" class="img-fluid"></p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-pampel_datenpraxis_2024" class="csl-entry">
-Pampel, Heinz, Najko Jahn, Roland Bertelmann, Wolfram Horstmann, Laura Rothfritz, Lea Maria Ferguson, Birgit Schmidt, and Anna Stisser. 2024. <span>“Datenpraxis Zur <span>Gestaltung</span> Der <span>Open</span>-<span>Access</span>-<span>Transformation</span> - <span>Analyse</span>, <span>Empfehlung</span>, <span>Training</span> &amp; <span>Vernetzung</span> (<span>OA</span> <span>Datenpraxis</span>).”</span> <a href="https://doi.org/10.5281/ZENODO.10794298">https://doi.org/10.5281/ZENODO.10794298</a>.
-</div>
-<div id="ref-wissenschaftsrat_empfehlungen_2022" class="csl-entry">
-Wissenschaftsrat. 2022. <span>“Empfehlungen Zur <span>Transformation</span> Des Wissenschaftlichen <span>Publizierens</span> Zu <span>Open</span> <span>Access</span>.”</span> <a href="https://doi.org/10.57674/FYRC-VB61">https://doi.org/10.57674/FYRC-VB61</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2024,
-  author = {Strecker, Dorothea and Pampel, Heinz},
-  title = {Project Launch: {OA} {Datenpraxis-} {Data} {Practices} for
-    {Shaping} the {Open} {Access} {Transformation}},
-  date = {2024-06-19},
-  url = {https://doi.org/10.59350/es0dc-vhb02},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-strecker2024" class="csl-entry quarto-appendix-citeas">
-Strecker, Dorothea, and Heinz Pampel. 2024. <span>“Project Launch: OA
-Datenpraxis- Data Practices for Shaping the Open Access
-Transformation.”</span> June 19, 2024. <a href="https://doi.org/10.59350/es0dc-vhb02">https://doi.org/10.59350/es0dc-vhb02</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/</guid>
-  <pubDate>Tue, 18 Jun 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/logo_oa_datenpraxis.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

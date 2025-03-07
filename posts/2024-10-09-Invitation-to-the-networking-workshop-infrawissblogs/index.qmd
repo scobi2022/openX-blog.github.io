@@ -10,7 +10,7 @@ author:
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
     affiliation-url: http://hu-berlin.de/infomgnt
 date: "2024-10-09"
-categories: [Lab Life, Research, Workshop]
+categories: [Lab Life, Research]
 citation: 
   url: https://doi.org/10.59350/7sbqk-ppj44   
 image: vernetzungsworkshop.png
@@ -31,7 +31,7 @@ Where? Robert-Koch-Forum of the Einstein Center Digital Future (ECDF), Wilhelmst
 We are currently planning with the following program:
 
 |          |                                                                                  |
-|--------------|----------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | **Time** | **Topic**                                                                        |
 | 10:30    | Welcome                                                                          |
 | 11:00    | Presentation of the results of the mapping of the German science blog landscape. |

@@ -1,0 +1,64 @@
+---
+title: "What happens when public data infrastructures aren't save? A look at past and current developments in the US"
+author: 
+  - name: Dorothea Strecker
+    orcid: 0000-0002-9754-3807
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  - name: Jonas Höfting
+    orcid: 0009-0003-4466-1775
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement    
+date: "2025-03-07"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webiner-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland         
+image: logo_oa_datenpraxis(1).png
+draft: false
+bibliography: blogpost_references.bib
+---
+
+Wir laden Sie herzlich zur Veranstaltung “OA Datenpraxis Webinar: Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland” ein, die am 28.03.2025 von 10:00 bis 11:00 CET über Zoom stattfindet.
+
+In dem Webinar werden Ergebnisse einer Umfrage [@pampel_datenpraxis_2024] vorgestellt, die im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts OA Datenpraxis [@strecker_survey_2024] im Jahr 2024 durchgeführt wurde.
+
+Die Umfrage, die im Dialog mit Vertreter*innen der DEAL-Untergruppe “Kommunikation” entwickelt wurde, erhob, wie Daten zu Publikationskosten aktuell an wissenschaftlichen Einrichtungen in Deutschland erfasst werden. Adressiert wurden Vertreter*innen von Universitäten, Fachhochschulen, Instituten außeruniversitärer Forschungseinrichtungen sowie Ressortforschungseinrichtungen des Bundes. Von 583 eingeladenen Personen beteiligten sich 258 (44,3 %) an der Umfrage. Die Umfrage ist die erste umfassende Erhebung zur Erfassung von Publikationskosten in Deutschland.
+
+Dieses Webinar richtet sich an Professionals, die sich für Open-Access-Monitoring, insbesondere die Erfassung von Open-Access-Publikationskosten, interessieren.
+
+## Programm
+
+Nach einer Präsentation der Umfrageergebnisse haben Teilnehmende die Möglichkeit, Fragen zur Umfrage zu stellen. Anschließend werden einige zentrale Aspekte der Erfassung von Publikationskosten in einer Paneldiskussion mit Mitgliedern der DEAL-Gruppe erörtert.
+
+-   Begrüßung durch Heinz Pampel (5 Minuten)
+
+-   Vorstellung der Umfrageergebnisse durch Dorothea Strecker (30 Minuten)
+
+-   Q & A zur Umfrage (10 Minuten)
+
+-   Paneldiskussion mit Mitgliedern der DEAL-Gruppe (15 Minuten)
+
+## Anmeldung
+
+Eine Anmeldung zum Webinar ist über den folgenden Link möglich: [Link zur Anmeldung](https://hu-berlin.zoom-x.de/webinar/register/WN_pKTlDzjsQwC7QspLxwMHCg)
+
+![](logo_oa_datenpraxis(1).png){fig-align="center"}
+
+## Weitere Informationen zu OA Datenpraxis
+
+[OA Datenpraxis](https://www.oadatenpraxis.de) ist ein gemeinsames DFG-Projekt des [Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin](https://www.ibi.hu-berlin.de), des [Helmholtz Open Science Office](https://os.helmholtz.de) und der [Niedersächsischen Staats- und Universitätsbibliothek Göttingen](https://www.sub.uni-goettingen.de).
+
+Aktuelle Veranstaltungen von OA Datenpraxis finden Sie auf der [Projektwebseite](https://oa-datenpraxis.de/events.html).
+
+Weitere Informationen zum Lehrstuhl Information Management finden Sie auf unserer [offiziellen Webseite](http://hu.berlin/infomgnt).
+
+Dieser Text - mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen - ist lizenziert unter der [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
+
+---
+nocite: |
+  @*
+---
