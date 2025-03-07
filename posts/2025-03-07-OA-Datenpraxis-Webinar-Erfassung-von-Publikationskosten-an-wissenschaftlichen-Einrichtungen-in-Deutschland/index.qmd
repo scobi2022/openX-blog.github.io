@@ -1,5 +1,5 @@
 ---
-title: "What happens when public data infrastructures aren't save? A look at past and current developments in the US"
+title: "OA Datenpraxis Webinar: Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland"
 author: 
   - name: Dorothea Strecker
     orcid: 0000-0002-9754-3807
