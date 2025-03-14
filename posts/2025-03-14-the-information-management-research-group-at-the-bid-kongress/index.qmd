@@ -16,7 +16,7 @@ author:
 date: "2025-03-14"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress-2025          
+  url: https://doi.org/10.59350/txet3-efm12           
 image: BID.webp
 draft: false
 ---
