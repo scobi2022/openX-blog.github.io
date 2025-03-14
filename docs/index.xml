@@ -10,7 +10,59 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Thu, 06 Mar 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Mar 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Information Management Research Group at the BID Kongress 2025</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Dorothea Strecker</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are pleased to announce that the projects <a href="https://oa-datenpraxis.de/index.html">OA Datenpraxis</a> and <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> of the <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement">Information Management Research Group</a> from the <a href="https://www.ibi.hu-berlin.de/de">Berlin School of Library and Information Science</a> at the <a href="https://www.hu-berlin.de/de">Humboldt-Universität zu Berlin</a> will be represented at this year’s BID Congress. Furthermore, Heinz Pampel will be involved in several other events during the BID Congress.</p>
+<section id="oa-datenpraxis" class="level1">
+<h1>OA Datenpraxis</h1>
+<p>The Hands-on Lab titled ‘<a href="https://bid2025.abstractserver.com/program/#/details/sessions/79">Open-Access-Monitoring-Dashboards mit Quarto</a>’ will take place on June 24th from 16:00–18:00 in Salon London. <a href="https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/sophia-doerner/">Sophia Dörner</a> will give a practical introduction to the development of a simple dashboard for the (open access) publication output of research institutions using Quarto, an open-source publication system. Previous knowledge of the R programming language or Quarto is not required, but helpful. Please bring a laptop and create a <a href="https://posit.cloud/plans/free">Posit Cloud account</a> in advance.</p>
+<p>The lecture titled ‘<a href="https://bid2025.abstractserver.com/program/#/details/presentations/273">Recording of publication costs at scientific institutions in Germany</a>’ will take place on June 27th from 11 to 11:30 in the Focke-Wulf Saal. Dorothea Strecker, Heinz Pampel and Jonas Höfting will present the results of a survey conducted in 2024 as part of the OA Datenpraxis project. The survey investigated how data on publication costs are currently recorded at scientific institutions in Germany. Representatives of universities, universities of applied sciences, institutes of non-university research organisations (Fraunhofer Society, Helmholtz Association, Leibniz Association and Max Planck Society) and federal departmental research institutions were addressed.</p>
+</section>
+<section id="infra-wiss-blogs" class="level1">
+<h1>Infra Wiss Blogs</h1>
+<p>The lecture titled ‘<a href="https://bid2025.abstractserver.com/program/#/details/presentations/307">Mapping German scholarly blogs - results and impulses</a>’ will take place on June 26th from 11 to 11:30 in Hall 4.1/Room II. Catharina Ochsner, Heinz Pampel and Jonas Höfting from the <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement">Chair of Information Management</a> of the <a href="https://www.ibi.hu-berlin.de/de">Institute of Library and Information Science</a> at <a href="https://www.hu-berlin.de/de">Humboldt-Universität zu Berlin</a> (HU Berlin), will present the results of a data collection of over 800 German scholarly blogs, which were analysed for infrastructural aspects. In addition, impulses will be given for academic libraries to make a contribution to ensuring the long-term accessibility of blogs.</p>
+<p>The Hands-on Lab titled ‘<a href="https://bid2025.abstractserver.com/program/#/details/sessions/84">Libraries as operating and preserving institutions for scholarly blogs</a>’ will also take place on June 26th from 2 to 4 pm in the Salon Oslo. In the hands-on lab, participants will discuss the role of libraries in the development, dissemination and preservation of scholarly blogs under the organisation and moderation of experts from the scholarly blog landscape. Aspects of technology, organisation and framework conditions for safeguarding blogs will be discussed in round tables. The Hands-on Lab will be led by <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement">Catharina Ochsner</a> (HU Berlin) and supported by <a href="https://heinzpampel.de/">Heinz Pampel</a> (HU Berlin), <a href="https://verfassungsblog.de/author/elena-di-rosa/">Elena Di Rosa</a> (<a href="https://verfassungsblog.de/">Verfassungsblog</a>), <a href="https://front-matter.io/team">Martin Fenner</a> (<a href="https://front-matter.%20io/">Front Matter</a>), Sven Ködel (<a href="https://www.dhi-paris.fr/home.html">German Historical Institute Paris</a>), <a href="https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Charmaine.Voigt">Charmaine Voigt</a> (<a href="https://www.gesis.org/home">GESIS: Leibniz Institute for Social Sciences</a>) and <a href="https://www.dnb.de/SharedDocs/Kontaktdaten/DE/wolderingBritta.html">Britta Woldering</a> from the <a href="https://www.dnb.de/DE/Home/home_node.html">German National Library</a>. To register for the workshop, please send an E-Mail to Catharina Ochsner.</p>
+</section>
+<section id="other-work" class="level1">
+<h1>Other Work</h1>
+<p>Furthermore Heinz Pampel will be part of two lectures and a Hands-on-Lab. Together with <a href="https://vivo.tib.eu/fis/display/n0000-0001-5322-0478">Judith Luwdig</a> (<a href="https://www.tib.eu/de/">Technische Informationsbibliothek Hannover</a>) and <a href="https://www.fz-juelich.de/de/zb/kontakt/zb-leitung">Bernhard Mittermaier</a> (<a href="https://www.fz-juelich.de/de">Research Center Jülich</a>) Prof.&nbsp;Pampel will give a talk on ‘AI clauses in licence agreements’. The talk will take place on thursday June, 26th between 10 and 10:30 am in the Hanse Saal. Additionally Prof.&nbsp;Pampel will be part of the lecture ‘Strategic approaches to intensify the OA transformation: perspectives for science organisations’ alongside <a href="https://os.helmholtz.de/ueber-uns/team-und-kontakt/">Lea Maria Ferguson</a> (<a href="https://os.helmholtz.de/">Helmholtz Open Science Office</a>), <a href="https://os.helmholtz.de/ueber-uns/team-und-kontakt/">Marc Lange</a> (<a href="https://os.helmholtz.de/">Helmholtz Open Science Office</a>), <a href="https://www.fz-juelich.de/de/zb/kontakt/zb-leitung">Bernhard Mittermaier</a> (<a href="https://www.fz-juelich.de/de">Research Center Jülich</a>) and <a href="https://os.helmholtz.de/ueber-uns/team-und-kontakt/">Meistring</a> (<a href="https://os.helmholtz.de/">Helmholtz Open Science Office</a>). The talk will take place on June 26th from 9 to 9:30 am in Room 5 in hall 4.1. Lastly Prof.&nbsp;Pampel will lead the Hands-on Lab ‘Sustainably financing open access infrastructures’ at the 26th of June from 4:30 to 6 pm in the Salon London. Together with <a href="https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-olaf-siegert">Olaf Siegert</a> (<a href="https://www.zbw.eu/de/">ZBW - Leibniz Information Centre for Economics</a>), <a href="https://www.fz-juelich.de/de/zb/kontakt/zb-leitung">Bernhard Mittermaier</a> (<a href="https://www.fz-juelich.de/de">Research Center Jülich</a>), <a href="https://www.dfg.de/de/ueber-uns/geschaeftsstelle/personen/michael-geuenich-165456">Michael Geuenich</a> (<a href="(https://www.dfg.de/de)">German Research Foundation</a>, <a href="https://www.zib.de/members/rusch">Beate Rusch</a> (<a href="https://www.zib.de/index.php/">Zuse Institute Berlin</a>) and Silke Weisheit (<a href="https://www.uni-regensburg.de/bibliothek/startseite/index.html">University Library Regensburg</a>) the participants will discuss developments and practical reports on sustainable Open Access financing. To register for the workshop, please send an E-Mail to Heinz Pampel.</p>
+<p>We look forward to seeing you at this year’s BID Congress and to discuss our projects with you. If you have any questions regarding the BID Congress or the events, please do not hesitate to contact Dorothea Strecker and Catharina Ochsner.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+  author = {Ochsner, Catharina and Strecker, Dorothea and Pampel, Heinz},
+  title = {The {Information} {Management} {Research} {Group} at the
+    {BID} {Kongress} 2025},
+  date = {2025-03-14},
+  url = {https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress-2025},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, Dorothea Strecker, and Heinz Pampel. 2025.
+<span>“The Information Management Research Group at the BID Kongress
+2025.”</span> March 14, 2025. <a href="https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress-2025">https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress-2025</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/</guid>
+  <pubDate>Thu, 13 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/BID.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>OA Datenpraxis Webinar: Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland</title>
   <dc:creator>Dorothea Strecker</dc:creator>
@@ -1336,99 +1388,6 @@ Bibliocon 2024 - Ein Studentischer Reisebericht.”</span> July 26, 2024.
   <guid>https://infomgnt.org/posts/2024-07-26-reisebericht-bibliocon/</guid>
   <pubDate>Thu, 25 Jul 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-07-26-reisebericht-bibliocon/20240606_tripreport.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Report on the Hands-On Lab ‘Scenarios for the Development of Open Access Repositories’ at the 112th BiblioCon</title>
-  <dc:creator>Daniel Beucke</dc:creator>
-  <dc:creator>Isabella Meinecke</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <dc:creator>Marcel Wrzesinski</dc:creator>
-  <link>https://infomgnt.org/posts/2024-07-15-hands-on-lab-report/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>In the beginning of June 2024, Nature reported on the Japanese Ministry of Education’s plan to invest 10 billion yen in expanding institutional Open Access Repositories <span class="citation" data-cites="singh_chawla_japans_2024">(Singh Chawla 2024)</span>. This initiative provides a good opportunity to discuss the future of Open Access Repositories at the <a href="https://2024.bibliocon.de/" class="uri">https://2024.bibliocon.de/</a>.</p>
-<p>In collaboration with the project “Professionalization of the Open Access Repositories Infrastructure in Germany” (<a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de">Pro OAR DE</a>) <span class="citation" data-cites="pampel_professionalisierung_2023">(Pampel and Rothfritz 2023)</span>, funded by the Federal Ministry of Education and Research (BMBF), the Electronic Publishing Working Group (<a href="https://dini.de/e-pub">AG E-Pub</a>) of the German Initiative for Networked Information (<a href="https://dini.de">DINI</a>) organized a Hands-On Lab titled “Scenarios for the Development of Open Access Repositories” on June 6, 2024, during the 112th BiblioCon. The goal was to develop scenarios for the future orientation of institutional Open Access repositories with participants from academia, libraries, and other information infrastructures.</p>
-<p>The methodological approach for this event was based on the Delphi concept <span class="citation" data-cites="hader_delphi-befragungen_2014">(Häder 2014)</span>, <span class="citation" data-cites="niederberger_delphi-verfahren_2019">(Niederberger and Renn 2019)</span>. Participants were asked to evaluate predefined statements on repositories in two consecutive rounds. This method aimed to reach a consensus on specific scenarios for the future of repositories. About 30 people participated in the lab and were divided into groups of four which simultaneously discussed the scenarios. The discussions were based on eight statements that were prepared by the organizers in advance and addressed aspects of the development of Open Access repositories.</p>
-<p>First, each group assessed the eight statements with the aim of coming to a consensus about the topic. For example, participants were asked to discuss the following proposition: “Preprints play an important role in the informational expansion of repositories.” Each group needed to develop a joint position on this and the other seven statements, by rating them on a scale from “strongly disagree” to “strongly agree.”</p>
-<p>In the following round, each group further explored three statements and discussed strategies and concrete measures to address the issues raised in each statements. The goal was to develop practical approaches to the topics, based on a shared understanding of the statements, focusing on the joint discussion of solution strategies.</p>
-<p><img src="https://infomgnt.org/posts/2024-07-15-hands-on-lab-report/images/112th_bibliocon.jpeg" class="img-fluid"></p>
-<p><strong>Lessons Learned</strong></p>
-<p>The chosen method did not allow for in-depth examination and was not representative, but it enabled a focused and useful discussion of current issues facing institutional repositories. Reaching a consensus was challenging, as interpretations of the statements varied significantly among participants, and evaluations differed depending on perspectives and group compositions.</p>
-<p>For the following three statements, approval ratings were identified in all four groups (grouped as “somewhat agree” and “strongly agree”):</p>
-<ul>
-<li><p>Repositories’ user interfaces should become more intuitive and modern.</p></li>
-<li><p>Text and data repositories should intensify their exchange with each other.</p></li>
-<li><p>Repositories should take more measures to increase the visibility of their content.</p></li>
-</ul>
-<p>In the second round, the following implementation strategies were discussed for these three statements:</p>
-<p><strong>Repositories’ user interfaces should become more intuitive and modern:</strong></p>
-<ul>
-<li><p>Offer multilingual user interfaces that support languages beyond German and English.</p></li>
-<li><p>Simplify uploads through data import via API integration (e.g., DOI queries via Crossref).</p></li>
-<li><p>Eliminate mandatory fields that researchers must fill out.</p></li>
-<li><p>Ensure responsiveness on various devices.</p></li>
-</ul>
-<p><strong>Text and data repositories should intensify their exchange with each other:</strong></p>
-<ul>
-<li><p>Ensure automatic data flows between research data repositories and institutional Open Access repositories.</p></li>
-<li><p>Simplify uploads through data import via API integration (e.g., DOI queries via Crossref).</p></li>
-<li><p>Evaluate local architecture to determine whether a generic repository for all object types or different repositories for each publication type is more practical.</p></li>
-</ul>
-<p><strong>Repositories should take more measures to increase the visibility of their content:</strong></p>
-<ul>
-<li><p>Display bibliographic data in the OPAC or Discovery System.</p></li>
-<li><p>Index bibliographic data in search services .</p></li>
-<li><p>Actively implement search engine optimization measures.</p></li>
-<li><p>Enable automated data flows via persistent identifiers.</p></li>
-</ul>
-<p>The authors thank the participants for their open discussions and for sharing their experiences on strategies to further professionalize Open Access repositories.</p>
-<p>The results will also be used for the further development of the DINI Certificate for Open-Access Publication Services and in the ongoing work of the Pro OAR DE project. Workshops on some aspects will be held in the further course of the Pro OAR DE project.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.&nbsp;</p>
-<p><br>
-Photo Credit: Melanie Seltmann, licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-hader_delphi-befragungen_2014" class="csl-entry">
-Häder, Michael. 2014. <em>Delphi-<span>Befragungen</span>: <span>Ein</span> <span>Arbeitsbuch</span></em>. Wiesbaden: Springer Fachmedien Wiesbaden. <a href="https://doi.org/10.1007/978-3-658-01928-0">https://doi.org/10.1007/978-3-658-01928-0</a>.
-</div>
-<div id="ref-niederberger_delphi-verfahren_2019" class="csl-entry">
-Niederberger, Marlen, and Ortwin Renn, eds. 2019. <em>Delphi-<span>Verfahren</span> in Den <span>Sozial</span>- Und <span>Gesundheitswissenschaften</span>: <span>Konzept</span>, <span>Varianten</span> Und <span>Anwendungsbeispiele</span></em>. Wiesbaden: Springer Fachmedien Wiesbaden. <a href="https://doi.org/10.1007/978-3-658-21657-3">https://doi.org/10.1007/978-3-658-21657-3</a>.
-</div>
-<div id="ref-pampel_professionalisierung_2023" class="csl-entry">
-Pampel, Heinz, and Laura Rothfritz. 2023. <span>“Professionalisierung Der <span>Open</span>-<span>Access</span>-<span>Repositorien</span>-<span>Infrastruktur</span> in <span>Deutschland</span> (<span>Pro</span>-<span>OAR</span>-<span>DE</span>).”</span> November. <a href="https://doi.org/10.5281/ZENODO.10173494">https://doi.org/10.5281/ZENODO.10173494</a>.
-</div>
-<div id="ref-singh_chawla_japans_2024" class="csl-entry">
-Singh Chawla, Dalmeet. 2024. <span>“Japan’s Push to Make All Research Open Access Is Taking Shape.”</span> <em>Nature</em>, May. <a href="https://doi.org/10.1038/d41586-024-01493-8">https://doi.org/10.1038/d41586-024-01493-8</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{beucke2024,
-  author = {Beucke, Daniel and Meinecke, Isabella and Pampel, Heinz and
-    Wrzesinski, Marcel},
-  title = {Report on the {Hands-On} {Lab} “{Scenarios} for the
-    {Development} of {Open} {Access} {Repositories}” at the 112th
-    {BiblioCon}},
-  date = {2024-07-15},
-  url = {https://doi.org/10.59350/mg09a-5ma64},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-beucke2024" class="csl-entry quarto-appendix-citeas">
-Beucke, Daniel, Isabella Meinecke, Heinz Pampel, and Marcel Wrzesinski.
-2024. <span>“Report on the Hands-On Lab <span>‘Scenarios for the
-Development of Open Access Repositories’</span> at the 112th
-BiblioCon.”</span> July 15, 2024. <a href="https://doi.org/10.59350/mg09a-5ma64">https://doi.org/10.59350/mg09a-5ma64</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-07-15-hands-on-lab-report/</guid>
-  <pubDate>Sun, 14 Jul 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-07-15-hands-on-lab-report/112th_bibliocon.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

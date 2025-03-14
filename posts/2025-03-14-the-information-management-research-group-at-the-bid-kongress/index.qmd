@@ -1,0 +1,46 @@
+---
+title: "The Information Management Research Group at the BID Kongress 2025"
+author: 
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  - name: Dorothea Strecker
+    orcid: 0000-0002-9754-3807
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement  
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+date: "2025-03-14"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress-2025          
+image: BID.webp
+draft: false
+---
+
+We are pleased to announce that the projects [OA Datenpraxis](https://oa-datenpraxis.de/index.html) and [Infra Wiss Blogs](https://infrawissblogs.org/) of the [Information Management Research Group](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) from the [Berlin School of Library and Information Science](https://www.ibi.hu-berlin.de/de) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/de) will be represented at this year's BID Congress. Furthermore, Heinz Pampel will be involved in several other events during the BID Congress.
+
+# OA Datenpraxis
+
+The Hands-on Lab titled ‘[Open-Access-Monitoring-Dashboards mit Quarto](https://bid2025.abstractserver.com/program/#/details/sessions/79)’ will take place on June 24th from 16:00–18:00 in Salon London. [Sophia Dörner](https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/sophia-doerner/) will give a practical introduction to the development of a simple dashboard for the (open access) publication output of research institutions using Quarto, an open-source publication system. Previous knowledge of the R programming language or Quarto is not required, but helpful. Please bring a laptop and create a [Posit Cloud account](https://posit.cloud/plans/free) in advance.
+
+The lecture titled ‘[Recording of publication costs at scientific institutions in Germany](https://bid2025.abstractserver.com/program/#/details/presentations/273)’ will take place on June 27th from 11 to 11:30 in the Focke-Wulf Saal. Dorothea Strecker, Heinz Pampel and Jonas Höfting will present the results of a survey conducted in 2024 as part of the OA Datenpraxis project. The survey investigated how data on publication costs are currently recorded at scientific institutions in Germany. Representatives of universities, universities of applied sciences, institutes of non-university research organisations (Fraunhofer Society, Helmholtz Association, Leibniz Association and Max Planck Society) and federal departmental research institutions were addressed.
+
+# Infra Wiss Blogs
+
+The lecture titled ‘[Mapping German scholarly blogs - results and impulses](https://bid2025.abstractserver.com/program/#/details/presentations/307)’ will take place on June 26th from 11 to 11:30 in Hall 4.1/Room II. Catharina Ochsner, Heinz Pampel and Jonas Höfting from the [Chair of Information Management](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) of the [Institute of Library and Information Science](https://www.ibi.hu-berlin.de/de) at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/de) (HU Berlin), will present the results of a data collection of over 800 German scholarly blogs, which were analysed for infrastructural aspects. In addition, impulses will be given for academic libraries to make a contribution to ensuring the long-term accessibility of blogs.
+
+The Hands-on Lab titled ‘[Libraries as operating and preserving institutions for scholarly blogs](https://bid2025.abstractserver.com/program/#/details/sessions/84)’ will also take place on June 26th from 2 to 4 pm in the Salon Oslo. In the hands-on lab, participants will discuss the role of libraries in the development, dissemination and preservation of scholarly blogs under the organisation and moderation of experts from the scholarly blog landscape. Aspects of technology, organisation and framework conditions for safeguarding blogs will be discussed in round tables. The Hands-on Lab will be led by [Catharina Ochsner](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement) (HU Berlin) and supported by [Heinz Pampel](https://heinzpampel.de/) (HU Berlin), [Elena Di Rosa](https://verfassungsblog.de/author/elena-di-rosa/) ([Verfassungsblog](https://verfassungsblog.de/)), [Martin Fenner](https://front-matter.io/team) ([Front Matter](https://front-matter.%20io/)), Sven Ködel ([German Historical Institute Paris](https://www.dhi-paris.fr/home.html)), [Charmaine Voigt](https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Charmaine.Voigt) ([GESIS: Leibniz Institute for Social Sciences](https://www.gesis.org/home)) and [Britta Woldering](https://www.dnb.de/SharedDocs/Kontaktdaten/DE/wolderingBritta.html) from the [German National Library](https://www.dnb.de/DE/Home/home_node.html). To register for the workshop, please send an E-Mail to Catharina Ochsner.
+
+# Other Work
+
+Furthermore Heinz Pampel will be part of two lectures and a Hands-on-Lab. Together with [Judith Luwdig](https://vivo.tib.eu/fis/display/n0000-0001-5322-0478) ([Technische Informationsbibliothek Hannover](https://www.tib.eu/de/)) and [Bernhard Mittermaier](https://www.fz-juelich.de/de/zb/kontakt/zb-leitung) ([Research Center Jülich](https://www.fz-juelich.de/de)) Prof. Pampel will give a talk on ‘AI clauses in licence agreements’. The talk will take place on thursday June, 26th between 10 and 10:30 am in the Hanse Saal. Additionally Prof. Pampel will be part of the lecture ‘Strategic approaches to intensify the OA transformation: perspectives for science organisations’ alongside [Lea Maria Ferguson](https://os.helmholtz.de/ueber-uns/team-und-kontakt/) ([Helmholtz Open Science Office](https://os.helmholtz.de/)), [Marc Lange](https://os.helmholtz.de/ueber-uns/team-und-kontakt/) ([Helmholtz Open Science Office](https://os.helmholtz.de/)), [Bernhard Mittermaier](https://www.fz-juelich.de/de/zb/kontakt/zb-leitung) ([Research Center Jülich](https://www.fz-juelich.de/de)) and [Meistring](https://os.helmholtz.de/ueber-uns/team-und-kontakt/) ([Helmholtz Open Science Office](https://os.helmholtz.de/)). The talk will take place on June 26th from 9 to 9:30 am in Room 5 in hall 4.1. Lastly Prof. Pampel will lead the Hands-on Lab ‘Sustainably financing open access infrastructures’ at the 26th of June from 4:30 to 6 pm in the Salon London. Together with [Olaf Siegert](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-olaf-siegert) ([ZBW - Leibniz Information Centre for Economics](https://www.zbw.eu/de/)), [Bernhard Mittermaier](https://www.fz-juelich.de/de/zb/kontakt/zb-leitung) ([Research Center Jülich](https://www.fz-juelich.de/de)), [Michael Geuenich](https://www.dfg.de/de/ueber-uns/geschaeftsstelle/personen/michael-geuenich-165456) ([German Research Foundation]((https://www.dfg.de/de)), [Beate Rusch](https://www.zib.de/members/rusch) ([Zuse Institute Berlin](https://www.zib.de/index.php/)) and Silke Weisheit ([University Library Regensburg](https://www.uni-regensburg.de/bibliothek/startseite/index.html)) the participants will discuss developments and practical reports on sustainable Open Access financing. To register for the workshop, please send an E-Mail to Heinz Pampel.
+
+We look forward to seeing you at this year's BID Congress and to discuss our projects with you. If you have any questions regarding the BID Congress or the events, please do not hesitate to contact Dorothea Strecker and Catharina Ochsner.
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
