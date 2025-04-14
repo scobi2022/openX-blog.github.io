@@ -20,7 +20,7 @@ author:
 date: "2025-04-14"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten           
+  url: https://doi.org/10.59350/c7d5j-rw005            
 image: logo_oa_datenpraxis(2).png
 draft: false
 bibliography: references.bib
