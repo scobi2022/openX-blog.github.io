@@ -21,7 +21,7 @@ author:
 date: "2025-04-17"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science 
+  url: https://doi.org/10.59350/vc1ht-2mz23 
 image: PSE_Blogpost_image.jpg
 draft: false
 bibliography: Blogpost_Referenzen.bib
