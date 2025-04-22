@@ -24,7 +24,7 @@ bibliography: Blogpost_Referenzen(1).bib
 
 Funded by the Federal Ministry of Education and Research (BMBF), our research project Pro OAR DE investigates current challenges in operating institutional repositories (IR) in Germany. Since completing our initial research phase—which included a systematic review and an interview study with IR managers at academic institutions—we have organized four networking forums since November 2024. In this blog post, we provide an overview of these four events.
 
-![](Blogpost_image.JPG)
+![](Blogpost_image.jpg)
 
 Our inaugural networking forum on ["Institutional Repositories and Preprints"](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-preprints), held on November 19, 2024, attracted 64 participants across Germany. Following an introductory presentation by the project team, [Lea-Maria Ferguson](https://orcid.org/0000-0002-7060-3670) (Helmholtz Open Science Office) highlighted challenges in quality assurance, standardization, and workflows from submission to maintenance and [Alexander Wagner](https://orcid.org/0000-0001-9846-5516) (Deutsches Elektronen-Synchrotron DESY) then focused on technical and practical aspects of integrating preprints into institutional repositories and illustrated how preprints are handled at DESY, a Helmholtz Center. Documentation and slide decks from the event are available through [Zenodo](https://zenodo.org/doi/10.5281/zenodo.14185122).
 
