@@ -12,7 +12,7 @@ author:
 date: "2025-04-22"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-04-22-Interviews-on-Shadow-Libraries-and-AI-in-Publishing             
+  url: https://doi.org/10.59350/dp96r-bxb36              
 image: infomgnt_interview.jpeg
 draft: false
 bibliography: infomgnt_interview.bib
