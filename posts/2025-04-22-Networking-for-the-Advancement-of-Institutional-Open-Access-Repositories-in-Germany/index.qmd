@@ -1,5 +1,5 @@
 ---
-title: "Rückblick: OA Datenpraxis Webinar zur Erfassung von Publikationskosten"
+title: "Networking for the Advancement of Institutional Open Access Repositories in Germany"
 author:
   - name: Heinz Pampel
     orcid: 0000-0003-3334-2771
@@ -16,7 +16,7 @@ author:
 date: "2025-04-22"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany
+  url: https://doi.org/10.59350/s3ddy-gdm33 
 image: Blogpost_image.jpg
 draft: false
 bibliography: Blogpost_Referenzen(1).bib
