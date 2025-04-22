@@ -63,6 +63,66 @@ Libraries and AI in Publishing.”</span> April 22, 2025. <a href="https://infom
   <media:content url="https://infomgnt.org/posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/infomgnt_interview.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Rückblick: OA Datenpraxis Webinar zur Erfassung von Publikationskosten</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Lisa Mattihas</dc:creator>
+  <dc:creator>Christopher Onzie Khamis</dc:creator>
+  <link>https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Funded by the Federal Ministry of Education and Research (BMBF), our research project Pro OAR DE investigates current challenges in operating institutional repositories (IR) in Germany. Since completing our initial research phase—which included a systematic review and an interview study with IR managers at academic institutions—we have organized four networking forums since November 2024. In this blog post, we provide an overview of these four events.</p>
+<p><img src="https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/Blogpost_image.JPG" class="img-fluid"></p>
+<p>Our inaugural networking forum on <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-preprints">“Institutional Repositories and Preprints”</a>, held on November 19, 2024, attracted 64 participants across Germany. Following an introductory presentation by the project team, <a href="https://orcid.org/0000-0002-7060-3670">Lea-Maria Ferguson</a> (Helmholtz Open Science Office) highlighted challenges in quality assurance, standardization, and workflows from submission to maintenance and <a href="https://orcid.org/0000-0001-9846-5516">Alexander Wagner</a> (Deutsches Elektronen-Synchrotron DESY) then focused on technical and practical aspects of integrating preprints into institutional repositories and illustrated how preprints are handled at DESY, a Helmholtz Center. Documentation and slide decks from the event are available through <a href="https://zenodo.org/doi/10.5281/zenodo.14185122">Zenodo</a>.</p>
+<p>Our second networking forum,“Institutional Repositories and FIS/CRIS”, took place on December 11, 2024, and drew 103 participants. <a href="https://orcid.org/0000-0001-9846-5516">Daniel Beucke</a> (Göttingen State and University Library) shared practical experiences integrating repositories with research information systems, highlighting challenges in interoperability and emphasizing the importance of networking, standards and persistent identifiers. <a href="https://orcid.org/0009-0004-2098-8076">Malte Kramer</a> (CRIS.NRW, University of Münster) introduced the CRIS.NRW initiative from the federal state of North Rhine-Westphalia, highlighting the interaction between institutional repositories and research information systems while stressing the necessity of compatible input workflows and identifier systems for successful integration. Documentation and slide decks from the event are available through <a href="https://zenodo.org/doi/10.5281/zenodo.14440151">Zenodo</a>.</p>
+<p>The third networking forum on <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-zweitveroeffentlichung/prooarde-zweitveroeffentlichung/">“Institutional Repositories and Zweitveröffentlichung (self-archiving)”</a> took place on January 13, 2025, with 125 participants in attendance. <a href="https://orcid.org/0000-0001-5994-0820">Sonja Härkönen</a> from the University of Augsburg presented her library’s service-oriented approach to self-archiving based on sustainable and user-friendly workflows, addressing communication challenges with researchers and emphasizing the collaborative role of the open-access.network’s Focus Group on Self-Archiving. <a href="https://orcid.org/0000-0002-7279-2962">Tomasz Stompor</a> (Cooperative Library Network Berlin-Brandenburg) introduced DeepGreen as a central data hub for automated delivery of publications to repositories, outlining its evolution from a DFG project to an established service. Documentation and slide decks from the event are available through <a href="https://doi.org/10.5281/ZENODO.14725628">Zenodo</a>.</p>
+<p>On March 10, 2025, the fourth networking forum on <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-monitoring">“On monitoring and reporting with institutional repositories”</a> was held with 100 participants. <a href="https://orcid.org/0000-0002-6083-9348">Dirk Pieper</a> and <a href="https://orcid.org/0000-0001-5959-4999">Julia Bartlewski</a> (University of Bielefeld, openCost) introduced the openCost metadata schema as a standardized exchange format for publication costs and demonstrated its integration within their institutional repository as part of implementing an information budget.</p>
+<p><a href="https://orcid.org/0000-0002-8503-1740">Colin Sippl</a> and <a href="https://orcid.org/0000-0002-7462-3847">Gernot Deinzer</a> (University of Regensburg), who presented their institution’s experience with integrating publication cost management into their repository, were showing the historical development from 2011 to their current system that handles both article-level costs and publishing agreements. Documentation and slide decks from the event are available through <a href="https://doi.org/10.5281/zenodo.15056242">Zenodo</a>.</p>
+<p>The insights and discussions from these networking forums, combined with the themed breakout groups held during each event, will form the foundation for developing topic-specific guidelines for open access and IR professionals throughout Germany.</p>
+<p>Through these collaborative events, we have created opportunities for the open access community to collectively address key challenges in managing and evolving institutional repositories, identify practical solutions, and strengthen professional exchange across Germany’s IR landscape.</p>
+<p>For more information about Pro OAR DE and our upcoming activities, please visit our official <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de">website</a>.</p>
+<p>This text – excluding quotes and otherwise labeled sections – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-matthias_pro_2025" class="csl-entry">
+Matthias, Lisa, Dirk Pieper, Julia Bartlewski, Colin Sippl, and Gernot Deinzer. 2025. <span>“Pro <span>OAR</span> <span>DE</span> <span>Vernetzungsforum</span>: <span>Publikations</span>- Und <span>Kostenmonitoring</span> Mit Institutionellen <span>Repositorien</span>,”</span> March. <a href="https://doi.org/10.5281/ZENODO.15056242">https://doi.org/10.5281/ZENODO.15056242</a>.
+</div>
+<div id="ref-wrzesinski_pro_2024-1" class="csl-entry">
+Wrzesinski, Marcel, Daniel Beucke, and Malte Kramer. 2024. <span>“Pro <span>OAR</span> <span>DE</span> <span>Vernetzungsforum</span>: <span>Institutionelle</span> <span>Repositorien</span> Und <span>FIS</span>/<span>CRIS</span>,”</span> December. <a href="https://doi.org/10.5281/ZENODO.14440152">https://doi.org/10.5281/ZENODO.14440152</a>.
+</div>
+<div id="ref-wrzesinski_vernetzungsforum_2025" class="csl-entry">
+Wrzesinski, Marcel, Sonja Härkönen, and Tomasz Stompor. 2025. <span>“Vernetzungsforum: <span>Institutionelle</span> <span>Repositorien</span> Und <span>Zweitveröffentlichung</span>,”</span> January. <a href="https://doi.org/10.5281/ZENODO.14725629">https://doi.org/10.5281/ZENODO.14725629</a>.
+</div>
+<div id="ref-wrzesinski_pro_2024" class="csl-entry">
+Wrzesinski, Marcel, Alexander Wagner, Lea-Maria Ferguson, and Marcel Meistring. 2024. <span>“Pro <span>OAR</span> <span>DE</span> <span>Vernetzungsforum</span>: <span>Institutionelle</span> <span>Repositorien</span> Und <span>Preprints</span>,”</span> November. <a href="https://doi.org/10.5281/ZENODO.14185123">https://doi.org/10.5281/ZENODO.14185123</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+  author = {Pampel, Heinz and Mattihas, Lisa and Onzie Khamis,
+    Christopher},
+  title = {Rückblick: {OA} {Datenpraxis} {Webinar} Zur {Erfassung} von
+    {Publikationskosten}},
+  date = {2025-04-22},
+  url = {https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2025" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz, Lisa Mattihas, and Christopher Onzie Khamis. 2025.
+<span>“Rückblick: OA Datenpraxis Webinar Zur Erfassung von
+Publikationskosten.”</span> April 22, 2025. <a href="https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany">https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/</guid>
+  <pubDate>Mon, 21 Apr 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/Blogpost_image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Is the German Scientific Landscape a Strong Driver for Open Science?</title>
   <dc:creator>Laura Catalina Bohórquez Díaz</dc:creator>
   <dc:creator>Sharleen Frankenstein</dc:creator>
@@ -1265,59 +1325,6 @@ Germany.”</span> October 1, 2024. <a href="https://doi.org/10.59350/9z58m-vwv4
   <guid>https://infomgnt.org/posts/2024-09-30-survey-announcement-publication-costs/</guid>
   <pubDate>Mon, 30 Sep 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-09-30-survey-announcement-publication-costs/map.png" medium="image" type="image/png" height="36" width="144"/>
-</item>
-<item>
-  <title>Project launch: Infra Wiss Blogs - Ensuring Permanent Access to Scholarly Blogs</title>
-  <dc:creator>Catharina Ochsner</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>We are excited to announce the launch of our new project, “Infra Wiss Blogs - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs” funded by the Deutsche Forschungsgemeinschaft <span class="citation" data-cites="noauthor_forderprogramm_nodate">(DFG 2023)</span>.</p>
-<p>Blogs have become an indispensable component of digital science communication, serving as a platform for scholarly communication, a diary for documenting research findings in the context of open science, or a showcase for communicating scientific findings to the general public. However, challenges for scholarly blogs arise from unresolved issues pertaining to the permanent preservation of blog posts and the frequent lack of evidence in library records, hindering the sustainability of this publication type <span class="citation" data-cites="pampel_kooperative_2024">(Pampel and Rothfritz 2024)</span>.</p>
-<p>The project Infra Wiss Blogs aims to support blogging researchers and information infrastructure institutions in identifying potential solutions for ensuring the long-term accessibility of scholarly blogs in Germany. To this end, the project facilitates and moderates a discussion process to develop a distributed system for a permanent accessibility and storage solution for scholarly blogs. Given the complexity and scope of this endeavor the development of such an information system for research requires collaborative efforts <span class="citation" data-cites="pampel_kooperative_2024">(Pampel and Rothfritz 2024)</span>.</p>
-<p>To foster collaboration and promote stakeholder networking, the project will organize communication forums on this topic, bringing together science and infrastructure. This approach will facilitate coordination among actors, processes, and standards. The process should lead to the development of a distributed, organizational, technological, and cooperatively supported infrastructure that ensures the permanent accessibility of scholarly blogs. Furthermore, the project will be accompanied by a socio-technical perspective of information science <span class="citation" data-cites="pampel_kooperative_2024">(Pampel and Rothfritz 2024)</span>.</p>
-<p>For further details about the project, please refer to the <a href="https://doi.org/10.5281/zenodo.13234482">project proposal</a> <span class="citation" data-cites="pampel_kooperative_2024">(Pampel and Rothfritz 2024)</span>. Additionally, we are excited to host a workshop at this year’s <a href="https://open-access-tage.de/open-access-tage-2024-koeln">Open-Access-Tage</a> in Cologne. Together with our colleagues Evin Dalkilic from Verfassungsblog, Martin Fenner from Front Matter, and Ulrike Stockhausen from the Max Weber Stiftung, we will present the workshop “Wissenschaftsblogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren” and discuss aspects and solutions for providing the continuous accessibility of scholarly blogs <span class="citation" data-cites="gesis_-_leibniz-institute_for_the_social_sciences_open-access-tage_2024">(GESIS - Leibniz-Institute for the Social Sciences et al. 2024)</span>.</p>
-<p>Furthermore we will be hosting the workshop “Vernetzungsworkshop Infra Wiss Blogs” on December 6th at the <a href="https://www.digital-future.berlin/">Einstein Center Digital Future</a>, bringing together bloggers and stakeholders from information infrastructure facilities. At the workshop we will present a first insight into the German scholarly blogs and share experiences from both bloggers as well as information infrastructure experts.</p>
-<p>We will provide updates on current activities and project outputs on the projects blog, that will be published soon, and through the Infra Wiss Blogs <a href="infrawissblogs-ibi@lists.hu-berlin.de">mailing list</a>.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-noauthor_forderprogramm_nodate" class="csl-entry">
-DFG. 2023. <span>“Förderprogramm „<span>Verantwortung</span> Für <span>Informations</span>-Infrastrukturen Gemeinsam Organisieren“ (<span>VIGO</span>).”</span> <a href="https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/vigo">https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/vigo</a>.
-</div>
-<div id="ref-gesis_-_leibniz-institute_for_the_social_sciences_open-access-tage_2024" class="csl-entry">
-GESIS - Leibniz-Institute for the Social Sciences, Catholic University of Applied Sciences of North Rhine – Westphalia, TH Köln - University of Applied Sciences, University of Cologne: University and City Library of Cologne, and German National Library of Medicine. 2024. <span>“Open-<span>Access</span>-<span>Tage</span> 2024.”</span> Technische Informationsbibliothek (TIB). <a href="https://doi.org/10.25798/S2SD-VN02">https://doi.org/10.25798/S2SD-VN02</a>.
-</div>
-<div id="ref-pampel_kooperative_2024" class="csl-entry">
-Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative <span>Informationsinfrastruktur</span> Für Wissenschaftliche <span>Blogs</span> (<span>Infra</span> <span>Wiss</span> <span>Blogs</span>).”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2024,
-  author = {Ochsner, Catharina and Pampel, Heinz},
-  title = {Project Launch: {Infra} {Wiss} {Blogs} - {Ensuring}
-    {Permanent} {Access} to {Scholarly} {Blogs}},
-  date = {2024-09-05},
-  url = {https://doi.org/10.59350/sea3s-tc489},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2024" class="csl-entry quarto-appendix-citeas">
-Ochsner, Catharina, and Heinz Pampel. 2024. <span>“Project Launch: Infra
-Wiss Blogs - Ensuring Permanent Access to Scholarly Blogs.”</span>
-September 5, 2024. <a href="https://doi.org/10.59350/sea3s-tc489">https://doi.org/10.59350/sea3s-tc489</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html</guid>
-  <pubDate>Wed, 04 Sep 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/infrawiss_360.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

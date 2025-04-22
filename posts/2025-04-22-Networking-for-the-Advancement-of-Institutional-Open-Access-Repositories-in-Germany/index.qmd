@@ -1,0 +1,50 @@
+---
+title: "Rückblick: OA Datenpraxis Webinar zur Erfassung von Publikationskosten"
+author:
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  - name: Lisa Mattihas
+    orcid: 0000-0002-2612-2132
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+    affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/matthias 
+  - name: Christopher Onzie Khamis
+    orcid: 0009-0003-0654-2839
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+    affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/khamis  
+date: "2025-04-22"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany
+image: Blogpost_image.jpg
+draft: false
+bibliography: Blogpost_Referenzen(1).bib
+---
+
+Funded by the Federal Ministry of Education and Research (BMBF), our research project Pro OAR DE investigates current challenges in operating institutional repositories (IR) in Germany. Since completing our initial research phase—which included a systematic review and an interview study with IR managers at academic institutions—we have organized four networking forums since November 2024. In this blog post, we provide an overview of these four events.
+
+![](Blogpost_image.JPG)
+
+Our inaugural networking forum on ["Institutional Repositories and Preprints"](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-preprints), held on November 19, 2024, attracted 64 participants across Germany. Following an introductory presentation by the project team, [Lea-Maria Ferguson](https://orcid.org/0000-0002-7060-3670) (Helmholtz Open Science Office) highlighted challenges in quality assurance, standardization, and workflows from submission to maintenance and [Alexander Wagner](https://orcid.org/0000-0001-9846-5516) (Deutsches Elektronen-Synchrotron DESY) then focused on technical and practical aspects of integrating preprints into institutional repositories and illustrated how preprints are handled at DESY, a Helmholtz Center. Documentation and slide decks from the event are available through [Zenodo](https://zenodo.org/doi/10.5281/zenodo.14185122).
+
+Our second networking forum,"Institutional Repositories and FIS/CRIS", took place on December 11, 2024, and drew 103 participants. [Daniel Beucke](https://orcid.org/0000-0001-9846-5516) (Göttingen State and University Library) shared practical experiences integrating repositories with research information systems, highlighting challenges in interoperability and emphasizing the importance of networking, standards and persistent identifiers. [Malte Kramer](https://orcid.org/0009-0004-2098-8076) (CRIS.NRW, University of Münster) introduced the CRIS.NRW initiative from the federal state of North Rhine-Westphalia, highlighting the interaction between institutional repositories and research information systems while stressing the necessity of compatible input workflows and identifier systems for successful integration. Documentation and slide decks from the event are available through [Zenodo](https://zenodo.org/doi/10.5281/zenodo.14440151).
+
+The third networking forum on [“Institutional Repositories and Zweitveröffentlichung (self-archiving)”](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-zweitveroeffentlichung/prooarde-zweitveroeffentlichung/) took place on January 13, 2025, with 125 participants in attendance. [Sonja Härkönen](https://orcid.org/0000-0001-5994-0820) from the University of Augsburg presented her library’s service-oriented approach to self-archiving based on sustainable and user-friendly workflows, addressing communication challenges with researchers and emphasizing the collaborative role of the open-access.network’s Focus Group on Self-Archiving. [Tomasz Stompor](https://orcid.org/0000-0002-7279-2962) (Cooperative Library Network Berlin-Brandenburg) introduced DeepGreen as a central data hub for automated delivery of publications to repositories, outlining its evolution from a DFG project to an established service. Documentation and slide decks from the event are available through [Zenodo](https://doi.org/10.5281/ZENODO.14725628).
+
+On March 10, 2025, the fourth networking forum on [“On monitoring and reporting with institutional repositories”](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-monitoring) was held with 100 participants. [Dirk Pieper](https://orcid.org/0000-0002-6083-9348) and [Julia Bartlewski](https://orcid.org/0000-0001-5959-4999) (University of Bielefeld, openCost) introduced the openCost metadata schema as a standardized exchange format for publication costs and demonstrated its integration within their institutional repository as part of implementing an information budget.
+
+[Colin Sippl](https://orcid.org/0000-0002-8503-1740) and [Gernot Deinzer](https://orcid.org/0000-0002-7462-3847) (University of Regensburg), who presented their institution's experience with integrating publication cost management into their repository, were showing the historical development from 2011 to their current system that handles both article-level costs and publishing agreements. Documentation and slide decks from the event are available through [Zenodo](https://doi.org/10.5281/zenodo.15056242).
+
+The insights and discussions from these networking forums, combined with the themed breakout groups held during each event, will form the foundation for developing topic-specific guidelines for open access and IR professionals throughout Germany.
+
+Through these collaborative events, we have created opportunities for the open access community to collectively address key challenges in managing and evolving institutional repositories, identify practical solutions, and strengthen professional exchange across Germany’s IR landscape.
+
+For more information about Pro OAR DE and our upcoming activities, please visit our official [website](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de).
+
+This text – excluding quotes and otherwise labeled sections – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+---
+nocite: |
+  @*
+---
