@@ -1,0 +1,47 @@
+---
+title: "Webiner: Blog archiving with Rogue Scholar using the example of WordPress Blogs"
+author:
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement  
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz-Gesellschaft, Helmholtz Open Science Office
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+date: "2025-05-16"
+categories: [Lab Life, Research]
+citation: 
+  url: https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs
+image: roguescholar.png
+draft: false
+---
+
+As part of the [Infra Wiss Blogs](https://infrawissblogs.org/) project funded by the German Research Foundation (DFG), we invite you to a webinar on the topic of archiving scholarly blogs. This webinar will focus on the [Rogue Scholar](https://preview.rogue-scholar.org/de) service by [Front Matter](https://front-matter.io/). After an introduction to the Infra Wiss Blogs project, we will present and discuss how WordPress-hosted scholarly blogs can be archived with Rogue Scholar. This will be followed by user reports on their experiences of using Rogue Scholar. The webinar will conclude with an open discussion.
+
+The webinar is aimed at scholars, bloggers, experts from information infrastructures and anyone involved in digital scholarly communication and sustainable archiving. The Webinar will be held in German.
+
+**Date:** Wednesday, June 11th 2025
+
+**Duration:** 10:00 - 11:30
+
+**Please register here:** <https://hu.berlin/infrawissblogs>
+
+**Contact:** [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de)
+
+We are currently planning with the following program:
+
+| Uhrzeit | Thema                                                                                                                                                                                                                                                                                                                                                  |
+|--------------------|----------------------------------------------------|
+| 10:00   | Welcome and presentation of Infra Wiss Blogs (Heinz Pampel and Catharina Ochsner)                                                                                                                                                                                                                                                                      |
+| 10:10   | Introduction to Rogue Scholar (Martin Fenner, Front Matter)                                                                                                                                                                                                                                                                                            |
+| 10:30   | User perspective I: [Gemeinsamer Blog der AGs Forschungsinformationen & -systeme, Elektronisches Publizieren und des Kompetenzzentrums Interoperable Metadaten der Deutsche Initiative für Netzwerkinformation e. V.](https://blog.dini.de/EPub_FIS/ueber-uns/) (DINI) (Daniel Beucke, Niedersächsischen Staats- und Universitätsbibliothek Göttingen) |
+| 10:45   | User perspective II: [CSTonline, community blog of the journal *Critical Studies in Television*](https://cstonline.net/) (Tobias Steiner, COPIM)                                                                                                                                                                                                       |
+| 11:00   | Discussion                                                                                                                                                                                                                                                                                                                                             |
+| 11:30   | End of webinar                                                                                                                                                                                                                                                                                                                                         |
+
+Further details and updates on the workshop and the project Infra Wiss Blogs will be communicated via the [project blog](https://infrawissblogs.org/) as well as the project’s [mailing list](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs). If you have any questions, please contact [Catharina Ochsner](mailto:catharina.ochsner@hu-berlin.de).
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

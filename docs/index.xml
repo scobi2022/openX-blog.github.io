@@ -10,7 +10,84 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Mon, 21 Apr 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Webiner: Blog archiving with Rogue Scholar using the example of WordPress Blogs</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>As part of the <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> project funded by the German Research Foundation (DFG), we invite you to a webinar on the topic of archiving scholarly blogs. This webinar will focus on the <a href="https://preview.rogue-scholar.org/de">Rogue Scholar</a> service by <a href="https://front-matter.io/">Front Matter</a>. After an introduction to the Infra Wiss Blogs project, we will present and discuss how WordPress-hosted scholarly blogs can be archived with Rogue Scholar. This will be followed by user reports on their experiences of using Rogue Scholar. The webinar will conclude with an open discussion.</p>
+<p>The webinar is aimed at scholars, bloggers, experts from information infrastructures and anyone involved in digital scholarly communication and sustainable archiving. The Webinar will be held in German.</p>
+<p><strong>Date:</strong> Wednesday, June 11th 2025</p>
+<p><strong>Duration:</strong> 10:00 - 11:30</p>
+<p><strong>Please register here:</strong> <a href="https://hu.berlin/infrawissblogs" class="uri">https://hu.berlin/infrawissblogs</a></p>
+<p><strong>Contact:</strong> <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a></p>
+<p>We are currently planning with the following program:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Uhrzeit</th>
+<th>Thema</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>10:00</td>
+<td>Welcome and presentation of Infra Wiss Blogs (Heinz Pampel and Catharina Ochsner)</td>
+</tr>
+<tr class="even">
+<td>10:10</td>
+<td>Introduction to Rogue Scholar (Martin Fenner, Front Matter)</td>
+</tr>
+<tr class="odd">
+<td>10:30</td>
+<td>User perspective I: <a href="https://blog.dini.de/EPub_FIS/ueber-uns/">Gemeinsamer Blog der AGs Forschungsinformationen &amp; -systeme, Elektronisches Publizieren und des Kompetenzzentrums Interoperable Metadaten der Deutsche Initiative für Netzwerkinformation e. V.</a> (DINI) (Daniel Beucke, Niedersächsischen Staats- und Universitätsbibliothek Göttingen)</td>
+</tr>
+<tr class="even">
+<td>10:45</td>
+<td>User perspective II: <a href="https://cstonline.net/">CSTonline, community blog of the journal <em>Critical Studies in Television</em></a> (Tobias Steiner, COPIM)</td>
+</tr>
+<tr class="odd">
+<td>11:00</td>
+<td>Discussion</td>
+</tr>
+<tr class="even">
+<td>11:30</td>
+<td>End of webinar</td>
+</tr>
+</tbody>
+</table>
+<p>Further details and updates on the workshop and the project Infra Wiss Blogs will be communicated via the <a href="https://infrawissblogs.org/">project blog</a> as well as the project’s <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">mailing list</a>. If you have any questions, please contact <a href="mailto:catharina.ochsner@hu-berlin.de">Catharina Ochsner</a>.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+  author = {Ochsner, Catharina and Pampel, Heinz},
+  title = {Webiner: {Blog} Archiving with {Rogue} {Scholar} Using the
+    Example of {WordPress} {Blogs}},
+  date = {2025-05-16},
+  url = {https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, and Heinz Pampel. 2025. <span>“Webiner: Blog
+Archiving with Rogue Scholar Using the Example of WordPress
+Blogs.”</span> May 16, 2025. <a href="https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs">https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs/</guid>
+  <pubDate>Thu, 15 May 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs/roguescholar.png" medium="image" type="image/png" height="124" width="144"/>
+</item>
 <item>
   <title>Interviews on Shadow Libraries and AI in Publishing</title>
   <dc:creator>Dorothea Strecker</dc:creator>
@@ -1280,51 +1357,6 @@ Networking Workshop of the Infra Wiss Blogs Project.”</span> October 9,
   <guid>https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/</guid>
   <pubDate>Tue, 08 Oct 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/vernetzungsworkshop.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Survey announcement: Recording publication costs at research performing institutions in Germany</title>
-  <dc:creator>Dorothea Strecker</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-09-30-survey-announcement-publication-costs/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>The Research and Teaching Group Information Management is conducting a survey on the topic of recording publication costs at research performing institutions in Germany. The survey is part of the project <a href="https://oa-datenpraxis.de">OA Datenpraxis</a>, which is funded by the German Research Foundation (DFG).</p>
-<p>With this survey, we are investigating how research institutions record data on costs that may arise from the publication of research outputs by members of the institution.</p>
-<p>Invitations are sent out to a total of 583 representatives of publicly funded Universities and Universities of Applied Sciences, institutes of the Fraunhofer Society, Helmholtz Association, Leibniz Association, Max Planck Society and federal departmental research institutes (see Figure 1).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://infomgnt.org/posts/2024-09-30-survey-announcement-publication-costs/map.png" class="img-fluid figure-img"></p>
-<figcaption>Figure 1: Location of the research institutions that will be invited to the survey by type</figcaption>
-</figure>
-</div>
-<p>The survey takes about 15 to 20 minutes to complete and can be filled out in German and English. Participating in the survey will help to promote transparency in the area of publication costs and is also useful for institutions that are not yet particularly active in this area. Results of the survey will be made available anonymously under an open license, and will be used to develop supporting materials.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2024,
-  author = {Strecker, Dorothea and Pampel, Heinz},
-  title = {Survey Announcement: {Recording} Publication Costs at
-    Research Performing Institutions in {Germany}},
-  date = {2024-10-01},
-  url = {https://doi.org/10.59350/9z58m-vwv42},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-strecker2024" class="csl-entry quarto-appendix-citeas">
-Strecker, Dorothea, and Heinz Pampel. 2024. <span>“Survey Announcement:
-Recording Publication Costs at Research Performing Institutions in
-Germany.”</span> October 1, 2024. <a href="https://doi.org/10.59350/9z58m-vwv42">https://doi.org/10.59350/9z58m-vwv42</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-09-30-survey-announcement-publication-costs/</guid>
-  <pubDate>Mon, 30 Sep 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-09-30-survey-announcement-publication-costs/map.png" medium="image" type="image/png" height="36" width="144"/>
 </item>
 </channel>
 </rss>
