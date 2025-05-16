@@ -12,7 +12,7 @@ author:
 date: "2025-05-16"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs
+  url: https://doi.org/10.59350/72ce4-12298 
 image: roguescholar.png
 draft: false
 ---
