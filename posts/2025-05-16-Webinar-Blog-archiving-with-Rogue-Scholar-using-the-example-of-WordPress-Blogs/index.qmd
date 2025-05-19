@@ -1,5 +1,5 @@
 ---
-title: "Webiner: Blog archiving with Rogue Scholar using the example of WordPress Blogs"
+title: "Webinar: Blog archiving with Rogue Scholar using the example of WordPress Blogs"
 author:
   - name: Catharina Ochsner
     orcid: 0009-0005-3885-3951
@@ -32,7 +32,7 @@ The webinar is aimed at scholars, bloggers, experts from information infrastruct
 We are currently planning with the following program:
 
 | Uhrzeit | Thema                                                                                                                                                                                                                                                                                                                                                  |
-|--------------------|----------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | 10:00   | Welcome and presentation of Infra Wiss Blogs (Heinz Pampel and Catharina Ochsner)                                                                                                                                                                                                                                                                      |
 | 10:10   | Introduction to Rogue Scholar (Martin Fenner, Front Matter)                                                                                                                                                                                                                                                                                            |
 | 10:30   | User perspective I: [Gemeinsamer Blog der AGs Forschungsinformationen & -systeme, Elektronisches Publizieren und des Kompetenzzentrums Interoperable Metadaten der Deutsche Initiative für Netzwerkinformation e. V.](https://blog.dini.de/EPub_FIS/ueber-uns/) (DINI) (Daniel Beucke, Niedersächsischen Staats- und Universitätsbibliothek Göttingen) |
