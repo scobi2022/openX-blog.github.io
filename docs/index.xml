@@ -10,7 +10,91 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Thu, 15 May 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Rückblick: OA Datenpraxis Webinar zu offenen Metadaten für Hochschulrankings am Beispiel des Leiden Ranking</title>
+  <dc:creator>Sophia Dörner</dc:creator>
+  <link>https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/logo_oa_datenpraxis(2).png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Am 04.04.2025 veranstaltete das von der Deutschen Forschungsgemeinschaft (DFG) geförderte Projekt <a href="https://oa-datenpraxis.de/">OA Datenpraxis</a> ein Webinar zum Thema “Offene Metadaten für Hochschulrankings am Beispiel des Leiden Ranking”. Für das Webinar konnten Nees Jan von Eck (CWTS Leiden) und Anja Oberländer (Universität Konstanz) als Vortragende gewonnen werden. Der Vortrag von Nees Jan van Eck bot Einblicke in die Hintergründe und Entwicklung des CWTS Leiden Ranking vom traditionellen Ranking hin zur Open Edition. Der Vortrag von Anja Oberländer komplettierte dies durch Schilderungen zur Anwenderperspektive des Leiden Ranking Open Edition am Beispiel der Universität Konstanz, insbesondere in Bezug auf die datengestützte Kommunikation der institutionellen Forschungs- und Open-Access-Erfolge nach innen und außen.</p>
+<p>Dieser Beitrag fasst zentrale Punkte der beiden Vorträge sowie der anschließenden Frage-und-Antwort-Runde zusammen.</p>
+<section id="leiden-ranking-open-edition" class="level2">
+<h2 class="anchored" data-anchor-id="leiden-ranking-open-edition">Leiden Ranking (Open Edition)</h2>
+<p>Nees Jan van Eck eröffnete das Webinar mit einer detaillierten Präsentation über die Entwicklung des Leiden Ranking Open Edition. Diese Initiative wurde von der strategischen Ausrichtung des CWTS zu <a href="https://www.cwts.nl/blog?article=n-r2q274">verantwortungsvollem Hochschulranking-Design</a> getragen. Im Gegensatz zum traditionellen Leiden Ranking, das auf proprietären Daten aus dem Web of Science von Clarivate basiert, erreicht die Open Edition vollständige Transparenz, indem sie auf OpenAlex setzt, einer vollständig offenen Datenquelle von <a href="https://ourresearch.org/">OurResearch</a>. Sowohl die zugrundeliegenden Daten als auch der Quellcode sind offen zugänglich, was es ermöglicht, die Publikationen zu identifizieren, die verschiedene Indikatorenwerte maßgeblich beeinflussen. Die bibliometrische Methodik ist größtenteils unverändert, um Vergleiche zwischen den beiden Ranking-Versionen zu ermöglichen. Der Vortrag addressierte auch Herausforderungen, wie z. B. eine unzureichende Datenabdeckung und -qualität, die bei der Verwendung offener Datenquellen auftreten können. Nees Jan van Eck betonte, dass die aktive Nutzung offener Daten nicht nur Probleme transparent macht, sondern auch rasche Verbesserungen durch einen community-basierten Ansatz ermöglicht.</p>
+</section>
+<section id="anwendung-des-leiden-rankings-an-der-universität-konstanz" class="level2">
+<h2 class="anchored" data-anchor-id="anwendung-des-leiden-rankings-an-der-universität-konstanz">Anwendung des Leiden Rankings an der Universität Konstanz</h2>
+<p>Anja Oberländer stellte die praktische Anwendung des Leiden Ranking Open Edition an der Universität Konstanz vor. Sie hob die bundesweit führende Position der Universität in der Open Access Dimension hervor und führte diesen Erfolg auf strategische Initiativen wie die zentrale Nutzung des institutionellen Repositoriums für Open-Access-Publikationen, die Pflege der Hochschulbibliographie und die Nutzung als Datenquelle für die Berichterstattung zurück. Darüber hinaus hat eine proaktive institutionelle Open-Access-Politik eine entscheidende Rolle gespielt. Die herausragende Platzierung der Universität in der Open Access Dimension ist daneben vor allem auf den hohen Anteil an Publikationen zurückzuführen, die über den grünen Weg des Open Access zugänglich sind. Der Vortrag addressierte auch die Herausforderungen der Universität Konstanz, diese Spitzenposition zu halten, da andere Einrichtungen zunehmend ähnliche Strategien verfolgen und verlagsseitige Open-Access-Veröffentlichungen verstärkt über Transformationsverträge ausgehandelt werden.</p>
+</section>
+<section id="diskussionspunkte" class="level2">
+<h2 class="anchored" data-anchor-id="diskussionspunkte">Diskussionspunkte</h2>
+<p>Im Anschluss an die Vorträge hatten die Teilnehmer:innen des Webinars die Gelegenheit, Nachfragen zu stellen. Interesse weckten beispielsweise folgende zentrale Punkte:</p>
+<ul>
+<li><p>Datenquellen und Vergleichbarkeit: In der Diskussion wurde auf die Unterschiede zwischen OpenAlex, Scopus und Web of Science eingegangen. Es wurde hervorgehoben, dass OpenAlex eine breitere Abdeckung bietet. Trotz Unterschieden zwischen den Datenquellen ermöglicht die Verwendung der gleichen Methodik für die traditionelle und die Open Edition des Leiden Ranking einen Vergleich beider Versionen. Für die Open Access Dimension stützen sich alle Datenquellen auf Unpaywall, durch diesen gemeinsamen Referenzpunkt ist in diesem Aspekt bereits eine Vergleichbarkeit zwischen den Datenquellen gegeben.</p></li>
+<li><p>Datenqualität und Einbindung der Community: Die Diskussion hob die Bedeutung des Feedbacks aus der Community bei der Identifizierung und Korrektur von Datenfehlern in OpenAlex wurde hervor. Probleme wie die falsche Klassifizierung von Publikationstypen und Fehler bei Affiliationsdaten konnten bereits durch entsprechende Rückmeldungen an OpenAlex verbessert werden.</p></li>
+<li><p>Institutionelle Strukturen und ROR: Die Komplexität von institutionellen Strukturen und ihre Abbildung im Research Organisation Registry (ROR) wurde diskutiert. CWTS korrigiert Fehler im ROR manuell und fügt zusätzliche Beziehungen für die Nutzung im Leiden Ranking hinzu. Die community-basierte Kuratierung von ROR Daten trägt ebenfalls zur Verbesserung der Genauigkeit bei.</p></li>
+<li><p>Verwendung von Ranking-Daten: Es wurde betont, dass die Daten des Leiden Ranking Open Edition zur Nachnutzung offen zugänglich sind. Sie können über eine Google Big Query-Instanz oder ein Webinterface abgerufen werden, wodurch die Nachnutzung für Nutzende mit unterschiedlicher technischer Versiertheit ermöglicht wird. Die Einrichtungen wurden ermutigt, mit den Daten basierend auf ihren spezifischen Interessen zu experimentieren.</p></li>
+<li><p>Indikatoren: Es wurde darüber diskutiert, wie man über die traditionellen Metriken hinausgehen kann, die im Zuge von Reformen der Forschungsbewertung kritisiert werden. OpenAlex bietet eine gute Grundlage für die Weiterentwicklung, beispielsweise durch die Berücksichtigung nicht-englischsprachiger Publikationen und anderer Arten von wissenschaftlichem Output.</p></li>
+<li><p>Open-Access-Strategien: Die Bedeutung einer umfassenden Unterstützung für Forscher:innen, die Förderung von Diamond Open Access und ein ganzheitlicher Ansatz anstatt einer Fokussierung ausschließlich auf quantitative Maßnahmen wurden als Schlüsselstrategien zur Erreichung von “Exzellenz” im Bereich Open Access hervorgehoben.</p></li>
+<li><p>Vollständigkeit der Hochschulbibliographie: Auf die Frage nach der Vollständigkeit der Hochschulbibliographie an der Universität Konstanz und der Möglichkeit, dieses Vorgehen auf größere Universitäten zu übertragen, antwortete Anja Oberländer, dass die Bibliographie in den Naturwissenschaften sehr vollständig ist, während es in den Geisteswissenschaften Lücken gibt. Diese sind oft auf mangelndes Engagement der Forscher:innen zurückzuführen. Größere Universitäten können dieses Vorgehen zwar übernehmen, müssen jedoch mit einem höheren Zeitaufwand und mehr Ressourcen rechnen.</p></li>
+<li><p>Kommunikation der Ranking-Ergebnisse an die Hochschulleitung: Auf die Frage, ob die Universität Konstanz das Ranking aktiv in die Hochschulleitung einbringt, um für Open Access zu werben, erläuterte Anja Oberländer, dass dies nicht nötig ist, da die Hochschulleitung den Wert von Open Access bereits anerkennt und die Ergebnisse aktiv nutzt. Die kleine Größe der Universität erleichtert dies.</p></li>
+</ul>
+</section>
+<section id="materialien-zum-webinar" class="level2">
+<h2 class="anchored" data-anchor-id="materialien-zum-webinar">Materialien zum Webinar</h2>
+<p>Die Folien der beiden Vorträge sind unter folgenden Links verfügbar:</p>
+<ul>
+<li>CWTS Leiden Ranking Open Edition: <a href="https://doi.org/10.5281/zenodo.15147838" class="uri">https://doi.org/10.5281/zenodo.15147838</a></li>
+<li>Leiden Ranking at the University of Konstanz: <a href="https://doi.org/10.5281/zenodo.15593872" class="uri">https://doi.org/10.5281/zenodo.15593872</a></li>
+</ul>
+</section>
+<section id="weitere-informationen-zu-oa-datenpraxis" class="level2">
+<h2 class="anchored" data-anchor-id="weitere-informationen-zu-oa-datenpraxis">Weitere Informationen zu OA Datenpraxis</h2>
+<p><a href="https://www.oa-datenpraxis.de">OA Datenpraxis</a> ist ein gemeinsames DFG-Projekt des <a href="https://www.ibi.hu-berlin.de">Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin</a>, des <a href="https://os.helmholtz.de">Helmholtz Open Science Office</a> und der <a href="https://www.sub.uni-goettingen.de">Niedersächsischen Staats- und Universitätsbibliothek Göttingen</a>.</p>
+<p>Weitere Informationen zu OA Datenpraxis finden Sie auf der <a href="https://oa-datenpraxis.de/events.html">Webseite</a> des Projektes.</p>
+<p>Dieser Text - mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen - ist lizenziert unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-oberlander_leiden_2025" class="csl-entry">
+Oberländer, Anja. 2025. <span>“Leiden Ranking at the University of Konstanz.”</span> <a href="https://doi.org/10.5281/zenodo.15593872">https://doi.org/10.5281/zenodo.15593872</a>.
+</div>
+<div id="ref-van_eck_cwts_2025" class="csl-entry">
+Van Eck, Nees Jan. 2025. <span>“<span>CWTS</span> Leiden Ranking Open Edition.”</span> <a href="https://doi.org/10.5281/zenodo.15147838">https://doi.org/10.5281/zenodo.15147838</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{dörner2025,
+  author = {Dörner, Sophia},
+  title = {Rückblick: {OA} {Datenpraxis} {Webinar} Zu Offenen
+    {Metadaten} Für {Hochschulrankings} Am {Beispiel} Des {Leiden}
+    {Ranking}},
+  date = {2025-06-11},
+  url = {https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-dörner2025" class="csl-entry quarto-appendix-citeas">
+Dörner, Sophia. 2025. <span>“Rückblick: OA Datenpraxis Webinar Zu
+Offenen Metadaten Für Hochschulrankings Am Beispiel Des Leiden
+Ranking.”</span> June 11, 2025. <a href="https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings">https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/</guid>
+  <pubDate>Tue, 10 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/logo_oa_datenpraxis(2).png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Webinar: Blog archiving with Rogue Scholar using the example of WordPress Blogs</title>
   <dc:creator>Catharina Ochsner</dc:creator>
@@ -1250,113 +1334,6 @@ Artificial Intelligence in License Agreements Published.”</span> October
   <guid>https://infomgnt.org/posts/2024-10-17-Recommendations-on-Regulations-for-Artifical-Intelligence-in-License-Agreements-Published/</guid>
   <pubDate>Wed, 16 Oct 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-10-17-Recommendations-on-Regulations-for-Artifical-Intelligence-in-License-Agreements-Published/Arrangements on artificial intelligence in licence agreements.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Invitation to the networking workshop of the Infra Wiss Blogs project</title>
-  <dc:creator>Catharina Ochsner</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/vernetzungsworkshop.png" class="img-fluid"></p>
-<p>As part of the Infra Wiss Blogs <span class="citation" data-cites="pampel_kooperative_2024">(Pampel and Rothfritz 2024)</span> project, we are organizing a first networking workshop for blogging researchers and employees from infrastructure facilities on 06.12.2024.</p>
-<p>The aim is to share initial experiences of the various stakeholders and promote their exchange. We will also present the initial results of our survey of German science blogs.</p>
-<p>When? Wednesday, 06.12.2024, 10:30-15:00</p>
-<p>Where? Robert-Koch-Forum of the Einstein Center Digital Future (ECDF), Wilhelmstraße 67, 10117 Berlin</p>
-<p>We are currently planning with the following program:</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 76%">
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>Time</strong></td>
-<td><strong>Topic</strong></td>
-</tr>
-<tr class="even">
-<td>10:30</td>
-<td>Welcome</td>
-</tr>
-<tr class="odd">
-<td>11:00</td>
-<td>Presentation of the results of the mapping of the German science blog landscape.</td>
-</tr>
-<tr class="even">
-<td>11:30</td>
-<td>Coffee Break</td>
-</tr>
-<tr class="odd">
-<td>12:00</td>
-<td>Presentation by Henning Krause (Helmholtz Blogs) (angefragt)</td>
-</tr>
-<tr class="even">
-<td>12:30</td>
-<td>Presentation by Martin Fenner (Front Matter)</td>
-</tr>
-<tr class="odd">
-<td>13:00</td>
-<td>Food break</td>
-</tr>
-<tr class="even">
-<td>13:30</td>
-<td>Impulses from practice</td>
-</tr>
-<tr class="odd">
-<td>14:00</td>
-<td>Discussion round 1</td>
-</tr>
-<tr class="even">
-<td>14:30</td>
-<td>Discussion round 2</td>
-</tr>
-<tr class="odd">
-<td>15:00</td>
-<td>Summary of the results</td>
-</tr>
-<tr class="even">
-<td>15:15</td>
-<td>End of the Workshop</td>
-</tr>
-</tbody>
-</table>
-<p>The workshop will be organized in German. <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/vernetzungsworkshop-infra-wiss-blogs/anmeldung-vernetzungsworkshop-infra-wiss-blogs">Registration</a> is possible through the website of our research group.</p>
-<p>If you have any questions, feel free to contact Catharina Ochsner directly, who is managing the project for us. Her email address is: <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a></p>
-<p>Further information about the project can be found on the new website of the Infra Wiss Blogs site at: <a href="https://infrawissblogs.org/" class="uri">https://infrawissblogs.org/</a>. In the future, we will also report on the project’s progress in German on this website, where we will organize a project blog.</p>
-<p>Additional workshops are planned for the coming year.&nbsp;</p>
-<p>The “First come, first served” motto applies. We have space for about 20 people. We look forward to your participation. Registrations are possible until the 20th of October 2024.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-pampel_kooperative_2024" class="csl-entry">
-Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative <span>Informationsinfrastruktur</span> Für Wissenschaftliche <span>Blogs</span> (<span>Infra</span> <span>Wiss</span> <span>Blogs</span>).”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2024,
-  author = {Ochsner, Catharina and Pampel, Heinz},
-  title = {Invitation to the Networking Workshop of the {Infra} {Wiss}
-    {Blogs} Project},
-  date = {2024-10-09},
-  url = {https://doi.org/10.59350/7sbqk-ppj44},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2024" class="csl-entry quarto-appendix-citeas">
-Ochsner, Catharina, and Heinz Pampel. 2024. <span>“Invitation to the
-Networking Workshop of the Infra Wiss Blogs Project.”</span> October 9,
-2024. <a href="https://doi.org/10.59350/7sbqk-ppj44">https://doi.org/10.59350/7sbqk-ppj44</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/</guid>
-  <pubDate>Tue, 08 Oct 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-10-09-Invitation-to-the-networking-workshop-infrawissblogs/vernetzungsworkshop.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>
