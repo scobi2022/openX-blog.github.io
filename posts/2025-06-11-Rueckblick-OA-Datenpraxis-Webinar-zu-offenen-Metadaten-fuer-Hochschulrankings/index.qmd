@@ -8,7 +8,7 @@ author:
 date: "2025-06-11"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings 
+  url: https://doi.org/10.59350/21rye-3j054 
 image: logo_oa_datenpraxis(2).png
 draft: false
 bibliography: webinar_offene_metadaten.bib
