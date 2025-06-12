@@ -12,7 +12,7 @@ author:
 date: "2025-06-12"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-06-12-Open-Access-Dashboard-Collection-Launched 
+  url: https://doi.org/10.59350/gj3rx-m5059
 image: oa-dashboard-collection.jpeg
 draft: false
 bibliography: oa-dashboard-collection.bib
