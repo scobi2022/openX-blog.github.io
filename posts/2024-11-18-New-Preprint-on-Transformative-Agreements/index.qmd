@@ -43,7 +43,7 @@ Our analysis suggests that while TAs have increased the number of OA articles, t
 
 It will be interesting to see how the scientific community and libraries, in their negotiations with publishers, achieve progress in contract development and how these will fit into the future Open Access mix, including strategies for community-led publishing. A particularly noteworthy case is Sweden, where the Bibsam Consortium [recommends to no longer sign any TAs for hybrid journals](https://www.su.se/english/news/open-access-need-to-move-away-from-transformative-agreements-1.683787).
 
-Replication code, scripts, and data used for this study are publicly available on Zenodo: [https://zenodo.org/doi/10.5281/zenodo.13453629](%5Bhttps://zenodo.org/doi/10.5281/zenodo.13453629).
+Replication code, scripts, and data used for this study are publicly available on Zenodo: <https://zenodo.org/doi/10.5281/zenodo.13453629>.
 
 Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
 
