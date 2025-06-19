@@ -16,7 +16,7 @@ author:
 date: "2025-06-19"
 categories: [Lab Life, Research]
 citation: 
-  url: https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar 
+  url: https://doi.org/10.59350/5azm1-a0n89 
 image: webinar_infrawissblogs.png
 draft: false
 bibliography: references_webinar_infrawissblogs.bib
@@ -53,3 +53,8 @@ We would like to thank all speakers and participants for their contributions and
 Further information about our group can be found on the [official website](http://hu.berlin/infomgnt).
 
 This text – excluding quotes and otherwise labeled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/).
+
+---
+nocite: |
+  @*
+---
