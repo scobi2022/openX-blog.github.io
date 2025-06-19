@@ -6,17 +6,86 @@
       version="2.0">
 <channel>
 <title>Research Group Information Management @ Humboldt-Universität zu Berlin</title>
-<link>https://infomgnt.org/index.html</link>
+<link>https://infomgnt.org/</link>
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Wed, 11 Jun 2025 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.555</generator>
+<lastBuildDate>Wed, 18 Jun 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Recap: Infra Wiss Blogs Webinar on Rogue Scholar</title>
+  <dc:creator>Jonas Höfting</dc:creator>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="presentations" class="level2">
+<h2 class="anchored" data-anchor-id="presentations">Presentations</h2>
+<p>After a welcome by <a href="https://heinzpampel.de/">Heinz Pampel</a>, <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement">Catharina Ochsner</a> first introduced the topic of scholarly blogs. She introduced the basic concept of scholarly blogging, presented challenges of archiving blogs, and emphasized the importance of the long-term accessibility of scholarly blogs. <span class="citation" data-cites="ochsner_blogarchivierung_2025">(Ochsner and Pampel 2025)</span>.</p>
+<p>Martin Fenner (<a href="https://front-matter.io/team">Front Matter</a> then presented the functionality and possibilities of <a href="https://rogue-scholar.org/">Rogue Scholar</a>, a platform based on <a href="https://inveniosoftware.org/products/rdm/">Invenio RDM</a>, which is dedicated to archiving scholarly blogs. Rogue Scholar not only archives the content of the blogs, but also assigns Digital Object Identifiers (DOIs) for blog posts and ensures web archiving via the <a href="https://archive.org/about/">Internet Archive</a>. Currently, around 150 blogs and more than 40,000 posts are archived at Rogue Scholar. All blogs archived by Rogue Scholar are licensed under <a href="https://creativecommons.org/share-your-work/">Creative Commons</a> Attribution (CC-BY). To facilitate the archiving of blogs at Rogue Scholar, Martin Fenner made a number of recommendations, such as the use of a CC-BY license or the use of references in the blog posts <span class="citation" data-cites="fenner_blogarchivierung_2025">(Fenner 2025)</span>.</p>
+<p><img src="https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/webinar_infrawissblogs.png" class="img-fluid"></p>
+<p>Afterwards, <a href="https://blog.dini.de/EPub_FIS/author/beucked/">Daniel Beucke</a> from the <a href="https://www02.sub.uni-goettingen.de/en/news/">Göttingen State and University Library (SUB)</a> and <a href="https://zfmedienwissenschaft.de/archiv/autorin/steiner-tobias">Tobias Steiner</a> shared their experiences with Rogue Scholar and the associated archiving of their scholarly blogs.</p>
+<p>Daniel Beucke contributed the perspective of the <a href="https://blog.dini.de/EPub_FIS/">DINI blog</a>, which has been reporting from the working groups of the <a href="https://dini.de/">German Initiative for Network Information (DINI)</a> since 2016. He emphasized the relevance of long-term availability and described the simple integration into Rogue Scholar. According to Beucke, a central challenge for the DINI blog is the high number of guest authors and their representation in the metadata <span class="citation" data-cites="beucke_anwenderperspektive_2025">(Beucke 2025)</span>. Tobias Steiner contributed his experience from two perspectives: He not only blogs privately on <a href="https://flavoursofopen.science/">Flavours of Open</a>, but is also an editor for the blog of the open access journal <a href="https://journals.sagepub.com/home/CST">Critical Studies in Television</a>, <a href="https://cstonline.net/">CSTonline</a> <span class="citation" data-cites="steiner_archivierung_2025">(<strong>steiner_archivierung_2025?</strong>)</span>. Both blogs are archived on Rogue Scholar.</p>
+</section>
+<section id="discussion" class="level2">
+<h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
+<p>In the final discussion, a number of themes and questions emerged, which are summarized here.</p>
+<p>A first central point of discussion was the use of CC licenses for scholarly blogs. As mentioned above, Rogue Scholar only archives blogs whose posts are published under a CC-BY license. CC-BY can be seen as the standard for open access publications, as this license entails few restrictions and also corresponds most closely to the scholarly citation practice. However, subsequent archiving can lead to complex situations if blog posts in community blogs have not yet been published under an open license. In such cases, all previous authors must be contacted in order to enable subsequent licensing. It is therefore recommended that both the blog and each individual post be clearly licensed in advance.</p>
+<p>Technical challenges were also discussed, such as dealing with multimedia content or comments in blogs. Unresolved issues became clear here. The role of scholarly blogs in the publication landscape was considered from several perspectives. Similarities between blog posts and pre-prints were highlighted. Martin Fenner reported on the first successful tests with peer review procedures for blog posts via the platform <a href="https://cms.metaror.org/">MetaROR</a> <span class="citation" data-cites="marcum_peer-review_2025">(Marcum 2025)</span>. The possibility of mapping corrections and retractions of blog posts was also discussed.</p>
+<p>In the context of archiving scholarlyblogs, the structural dependence on individual actors was identified as a problem. Two strategies for enabling long-term accessibility emerged from the discussion: firstly, the collective assumption of responsibility through community-supported infrastructures, and secondly, the institutional anchoring of blog offerings within established organizations.</p>
+</section>
+<section id="summary-and-outlook" class="level2">
+<h2 class="anchored" data-anchor-id="summary-and-outlook">Summary and outlook</h2>
+<p>The webinar provided insights into both the functioning of Rogue Scholar and the perspectives of its users. The positive response as well as the large number of questions and discussions illustrate the existing need within the scholarly community. At the same time, it became clear that projects such as Infra Wiss Blogs can make an important contribution to structuring discourse on cooperative solutions for digital preservation.</p>
+<p>We would like to thank all speakers and participants for their contributions and the insightful discussions. The slide sets of the speakers are available in the <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement">Community of the Chair of Information Management on Zenodo</a>. We communicate updates on the project and other events via this blog, the <a href="https://infrawissblogs.org/">project blog</a> and the project’s <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">mailing list</a>.</p>
+<p>Further information about our group can be found on the <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-beucke_anwenderperspektive_2025" class="csl-entry">
+Beucke, Daniel. 2025. <span>“Anwenderperspektive: <span>DINI</span>-Blog.”</span> <a href="https://doi.org/10.5281/zenodo.15640226">https://doi.org/10.5281/zenodo.15640226</a>.
+</div>
+<div id="ref-fenner_blogarchivierung_2025" class="csl-entry">
+Fenner, Martin. 2025. <span>“Blogarchivierung von <span>WordPress</span> Mit Rogue Scholar.”</span> <a href="https://doi.org/10.5281/zenodo.15640360">https://doi.org/10.5281/zenodo.15640360</a>.
+</div>
+<div id="ref-marcum_peer-review_2025" class="csl-entry">
+Marcum, Christopher Steven. 2025. <span>“Peer-Review for a Blog Post? My Experience with <span>MetaROR</span>.”</span> <em>Upstream</em>, April. <a href="https://doi.org/10.54900/bymaz-4fw37">https://doi.org/10.54900/bymaz-4fw37</a>.
+</div>
+<div id="ref-ochsner_blogarchivierung_2025" class="csl-entry">
+Ochsner, Catharina, and Heinz Pampel. 2025. <span>“Blogarchivierung Mit Rogue Scholar Am Beispiel von <span>WordPress</span> Gehosteten Blogs.”</span> <a href="https://doi.org/10.5281/zenodo.15640371">https://doi.org/10.5281/zenodo.15640371</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{höfting2025,
+  author = {Höfting, Jonas and Ochsner, Catharina and Pampel, Heinz},
+  title = {Recap: {Infra} {Wiss} {Blogs} {Webinar} on {Rogue} {Scholar}},
+  date = {2025-06-19},
+  url = {https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-höfting2025" class="csl-entry quarto-appendix-citeas">
+Höfting, Jonas, Catharina Ochsner, and Heinz Pampel. 2025. <span>“Recap:
+Infra Wiss Blogs Webinar on Rogue Scholar.”</span> June 19, 2025. <a href="https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar">https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/</guid>
+  <pubDate>Wed, 18 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/webinar_infrawissblogs.png" medium="image" type="image/png" height="94" width="144"/>
+</item>
 <item>
   <title>Open Access Dashboard Collection Launched</title>
   <dc:creator>Heinz Pampel</dc:creator>
   <dc:creator>Johannes Schneider</dc:creator>
-  <link>https://infomgnt.org/posts/2025-06-12-Open-Access-Dashboard-Collection-Launched/index.html</link>
+  <link>https://infomgnt.org/posts/2025-06-12-Open-Access-Dashboard-Collection-Launched/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -38,11 +107,11 @@
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-pampel_datenpraxis_2024" class="csl-entry">
 Pampel, Heinz, Najko Jahn, Roland Bertelmann, Wolfram Horstmann, Laura Rothfritz, Lea Maria Ferguson, Birgit Schmidt, and Anna Stisser. 2024. <span>“Datenpraxis Zur <span>Gestaltung</span> Der <span>Open</span>-<span>Access</span>-<span>Transformation</span> - <span>Analyse</span>, <span>Empfehlung</span>, <span>Training</span> &amp; <span>Vernetzung</span> (<span>OA</span> <span>Datenpraxis</span>).”</span> <a href="https://doi.org/10.5281/zenodo.10794298">https://doi.org/10.5281/zenodo.10794298</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
   author = {Pampel, Heinz and Schneider, Johannes},
   title = {Open {Access} {Dashboard} {Collection} {Launched}},
   date = {2025-06-12},
@@ -55,22 +124,23 @@ Dashboard Collection Launched.”</span> June 12, 2025. <a href="https://doi.org
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-06-12-Open-Access-Dashboard-Collection-Launched/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-06-12-Open-Access-Dashboard-Collection-Launched/</guid>
   <pubDate>Wed, 11 Jun 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-06-12-Open-Access-Dashboard-Collection-Launched/oa-dashboard-collection.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Rückblick: OA Datenpraxis Webinar zu offenen Metadaten für Hochschulrankings am Beispiel des Leiden Ranking</title>
   <dc:creator>Sophia Dörner</dc:creator>
-  <link>https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/index.html</link>
+  <link>https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/</link>
   <description><![CDATA[ 
+
 
 
 
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/logo_oa_datenpraxis(2).png" class="img-fluid figure-img"></p>
+<p><img src="https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/logo_oa_datenpraxis(2).png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p>Am 04.04.2025 veranstaltete das von der Deutschen Forschungsgemeinschaft (DFG) geförderte Projekt <a href="https://oa-datenpraxis.de/">OA Datenpraxis</a> ein Webinar zum Thema “Offene Metadaten für Hochschulrankings am Beispiel des Leiden Ranking”. Für das Webinar konnten Nees Jan von Eck (CWTS Leiden) und Anja Oberländer (Universität Konstanz) als Vortragende gewonnen werden. Der Vortrag von Nees Jan van Eck bot Einblicke in die Hintergründe und Entwicklung des CWTS Leiden Ranking vom traditionellen Ranking hin zur Open Edition. Der Vortrag von Anja Oberländer komplettierte dies durch Schilderungen zur Anwenderperspektive des Leiden Ranking Open Edition am Beispiel der Universität Konstanz, insbesondere in Bezug auf die datengestützte Kommunikation der institutionellen Forschungs- und Open-Access-Erfolge nach innen und außen.</p>
@@ -115,14 +185,14 @@ Dashboard Collection Launched.”</span> June 12, 2025. <a href="https://doi.org
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-oberlander_leiden_2025" class="csl-entry">
 Oberländer, Anja. 2025. <span>“Leiden Ranking at the University of Konstanz.”</span> <a href="https://doi.org/10.5281/zenodo.15593872">https://doi.org/10.5281/zenodo.15593872</a>.
 </div>
 <div id="ref-van_eck_cwts_2025" class="csl-entry">
 Van Eck, Nees Jan. 2025. <span>“<span>CWTS</span> Leiden Ranking Open Edition.”</span> <a href="https://doi.org/10.5281/zenodo.15147838">https://doi.org/10.5281/zenodo.15147838</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{dörner2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{dörner2025,
   author = {Dörner, Sophia},
   title = {Rückblick: {OA} {Datenpraxis} {Webinar} Zu Offenen
     {Metadaten} Für {Hochschulrankings} Am {Beispiel} Des {Leiden}
@@ -138,7 +208,7 @@ Ranking.”</span> June 11, 2025. <a href="https://doi.org/10.59350/21rye-3j054"
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/</guid>
   <pubDate>Tue, 10 Jun 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-06-11-Rueckblick-OA-Datenpraxis-Webinar-zu-offenen-Metadaten-fuer-Hochschulrankings/logo_oa_datenpraxis(2).png" medium="image" type="image/png" height="144" width="144"/>
 </item>
@@ -146,8 +216,9 @@ Ranking.”</span> June 11, 2025. <a href="https://doi.org/10.59350/21rye-3j054"
   <title>Webinar: Blog archiving with Rogue Scholar using the example of WordPress Blogs</title>
   <dc:creator>Catharina Ochsner</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs/index.html</link>
+  <link>https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -159,7 +230,7 @@ Ranking.”</span> June 11, 2025. <a href="https://doi.org/10.59350/21rye-3j054"
 <p><strong>Please register here:</strong> <a href="https://hu.berlin/infrawissblogs" class="uri">https://hu.berlin/infrawissblogs</a></p>
 <p><strong>Contact:</strong> <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a></p>
 <p>We are currently planning with the following program:</p>
-<table class="table">
+<table class="caption-top table">
 <thead>
 <tr class="header">
 <th>Uhrzeit</th>
@@ -199,7 +270,7 @@ Ranking.”</span> June 11, 2025. <a href="https://doi.org/10.59350/21rye-3j054"
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
   author = {Ochsner, Catharina and Pampel, Heinz},
   title = {Webinar: {Blog} Archiving with {Rogue} {Scholar} Using the
     Example of {WordPress} {Blogs}},
@@ -214,7 +285,7 @@ Blogs.”</span> May 16, 2025. <a href="https://doi.org/10.59350/72ce4-12298">ht
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs/</guid>
   <pubDate>Thu, 15 May 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-05-16-Webinar-Blog-archiving-with-Rogue-Scholar-using-the-example-of-WordPress-Blogs/roguescholar.png" medium="image" type="image/png" height="124" width="144"/>
 </item>
@@ -222,8 +293,9 @@ Blogs.”</span> May 16, 2025. <a href="https://doi.org/10.59350/72ce4-12298">ht
   <title>Interviews on Shadow Libraries and AI in Publishing</title>
   <dc:creator>Dorothea Strecker</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/index.html</link>
+  <link>https://infomgnt.org/posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -238,7 +310,7 @@ Blogs.”</span> May 16, 2025. <a href="https://doi.org/10.59350/72ce4-12298">ht
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-cooke_politico_2025" class="csl-entry">
 Cooke, Melissa. 2025. <span>“<span>POLITICO</span> <span>Unveils</span> <span>Policy</span> <span>Intelligence</span> <span>Assistant</span>: <span>An</span> <span>AI</span> <span>Powered</span> <span>Suite</span> for <span>Policy</span> <span>Professionals</span>.”</span> <em>POLITICO</em>. <a href="https://politi.co/4is1z5g">https://politi.co/4is1z5g</a>.
 </div>
@@ -251,7 +323,7 @@ Reisner, Alex. 2025. <span>“The <span>Unbelievable</span> <span>Scale</span> o
 <div id="ref-stormyren_larsen_disse_2025" class="csl-entry">
 Stormyren Larsen, Selma, and Endre Ugelstad Ugelstad Aas. 2025. <span>“Disse Kan Leses Gratis.”</span> <em>Klassekampen.no</em>. <a href="https://klassekampen.no/artikkel/2025-03-27/disse-kan-leses-gratis">https://klassekampen.no/artikkel/2025-03-27/disse-kan-leses-gratis</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
   author = {Strecker, Dorothea and Pampel, Heinz},
   title = {Interviews on {Shadow} {Libraries} and {AI} in {Publishing}},
   date = {2025-04-22},
@@ -264,7 +336,7 @@ Libraries and AI in Publishing.”</span> April 22, 2025. <a href="https://doi.o
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/</guid>
   <pubDate>Mon, 21 Apr 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/infomgnt_interview.jpeg" medium="image" type="image/jpeg"/>
 </item>
@@ -273,8 +345,9 @@ Libraries and AI in Publishing.”</span> April 22, 2025. <a href="https://doi.o
   <dc:creator>Heinz Pampel</dc:creator>
   <dc:creator>Lisa Mattihas</dc:creator>
   <dc:creator>Christopher Onzie Khamis</dc:creator>
-  <link>https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/index.html</link>
+  <link>https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -294,7 +367,7 @@ Libraries and AI in Publishing.”</span> April 22, 2025. <a href="https://doi.o
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-matthias_pro_2025" class="csl-entry">
 Matthias, Lisa, Dirk Pieper, Julia Bartlewski, Colin Sippl, and Gernot Deinzer. 2025. <span>“Pro <span>OAR</span> <span>DE</span> <span>Vernetzungsforum</span>: <span>Publikations</span>- Und <span>Kostenmonitoring</span> Mit Institutionellen <span>Repositorien</span>,”</span> March. <a href="https://doi.org/10.5281/ZENODO.15056242">https://doi.org/10.5281/ZENODO.15056242</a>.
 </div>
@@ -307,7 +380,7 @@ Wrzesinski, Marcel, Sonja Härkönen, and Tomasz Stompor. 2025. <span>“Vernetz
 <div id="ref-wrzesinski_pro_2024" class="csl-entry">
 Wrzesinski, Marcel, Alexander Wagner, Lea-Maria Ferguson, and Marcel Meistring. 2024. <span>“Pro <span>OAR</span> <span>DE</span> <span>Vernetzungsforum</span>: <span>Institutionelle</span> <span>Repositorien</span> Und <span>Preprints</span>,”</span> November. <a href="https://doi.org/10.5281/ZENODO.14185123">https://doi.org/10.5281/ZENODO.14185123</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
   author = {Pampel, Heinz and Mattihas, Lisa and Onzie Khamis,
     Christopher},
   title = {Networking for the {Advancement} of {Institutional} {Open}
@@ -323,7 +396,7 @@ Repositories in Germany.”</span> April 22, 2025. <a href="https://doi.org/10.5
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/</guid>
   <pubDate>Mon, 21 Apr 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/Blogpost_image.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -339,8 +412,9 @@ Repositories in Germany.”</span> April 22, 2025. <a href="https://doi.org/10.5
   <dc:creator>Sofie-Lilly Prinada</dc:creator>
   <dc:creator>Patricia Rocha Dias</dc:creator>
   <dc:creator>Hendrik Zimnol</dc:creator>
-  <link>https://infomgnt.org/posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html</link>
+  <link>https://infomgnt.org/posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -377,14 +451,14 @@ Repositories in Germany.”</span> April 22, 2025. <a href="https://doi.org/10.5
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-deutsche_unesco-kommission_open_2020" class="csl-entry">
 Deutsche UNESCO-Kommission, ed. 2020. <em>Open Science: <span>Perspektiven</span> Aus <span>Deutschland</span> Auf Die <span>Erarbeitung</span> Der Geplanten <span>Empfehlung</span> Der <span>UNESCO</span> = <span>UNESCO</span> Recommendation in <span>Open</span> <span>Science</span></em>. Berlin: Deutsche UNESCO-Kommission e.V.
 </div>
 <div id="ref-unesco2021" class="csl-entry">
 UNESCO. 2021. <span>“UNESCO Recommendation on Open Science.”</span> <a href="https://doi.org/10.54677/MNMH8546">https://doi.org/10.54677/MNMH8546</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{catalina bohórquez díaz2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{catalina bohórquez díaz2025,
   author = {Catalina Bohórquez Díaz, Laura and Frankenstein, Sharleen
     and Humprecht, Henriette and Onzie Khamis, Christopher and Nur
     Kocabiyik, Zuhal and Kuhs-Ohmann, Jannik and Liebel, Max and
@@ -404,7 +478,7 @@ Driver for Open Science?”</span> April 17, 2025. <a href="https://doi.org/10.5
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/</guid>
   <pubDate>Wed, 16 Apr 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/PSE_Blogpost_image.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -414,8 +488,9 @@ Driver for Open Science?”</span> April 17, 2025. <a href="https://doi.org/10.5
   <dc:creator>Dorothea Strecker</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
   <dc:creator>Karin Ilg</dc:creator>
-  <link>https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html</link>
+  <link>https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -427,7 +502,7 @@ Driver for Open Science?”</span> April 17, 2025. <a href="https://doi.org/10.5
 <p>Nach der Begrüßung und Einführung wurden zentrale Ergebnisse der Studie vorgestellt: Während die systematische Erfassung von Publikationen und Publikationskosten an wissenschaftlichen Einrichtungen durchaus verbreitet ist, haben viele Einrichtungen diese noch nicht fest etabliert und nutzen zudem das Potenzial dieser Daten noch nicht voll aus. Für die Finanzierung von Open-Access-Publikationen stellen Publikationsfonds eine tragende Säule dar. Die Etablierung von Informationsbudgets dagegen befindet sich noch in der Aufbauphase. Zur Förderung der Open-Access-Transformation sollte die Finanzierung weiter untersucht werden. Diese und weitere Ergebnisse können den Vortragsfolien <span class="citation" data-cites="strecker_oa_2025">(Strecker, Pampel, and Höfting 2025)</span> entnommen werden. Eine Publikation dazu ist in Vorbereitung.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/logo_oa_datenpraxis(2).png" class="img-fluid figure-img"></p>
+<p><img src="https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/logo_oa_datenpraxis(2).png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 </section>
@@ -449,14 +524,14 @@ Driver for Open Science?”</span> April 17, 2025. <a href="https://doi.org/10.5
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-pampel_datenpraxis_2024" class="csl-entry">
 Pampel, Heinz, Najko Jahn, Roland Bertelmann, Wolfram Horstmann, Laura Rothfritz, Lea Maria Ferguson, Birgit Schmidt, and Anna Stisser. 2024. <span>“Datenpraxis Zur <span>Gestaltung</span> Der <span>Open</span>-<span>Access</span>-<span>Transformation</span> - <span>Analyse</span>, <span>Empfehlung</span>, <span>Training</span> &amp; <span>Vernetzung</span> (<span>OA</span> <span>Datenpraxis</span>).”</span> <a href="https://doi.org/10.5281/ZENODO.10794298">https://doi.org/10.5281/ZENODO.10794298</a>.
 </div>
 <div id="ref-strecker_oa_2025" class="csl-entry">
 Strecker, Dorothea, Heinz Pampel, and Jonas Höfting. 2025. <span>“<span>OA</span> <span>Datenpraxis</span> <span>Webinar</span>: <span>Erfassung</span> von <span>Publikationskosten</span> an Wissenschaftlichen <span>Einrichtungen</span> in <span>Deutschland</span>.”</span> <a href="https://doi.org/10.5281/zenodo.15076512">https://doi.org/10.5281/zenodo.15076512</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{höfting2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{höfting2025,
   author = {Höfting, Jonas and Strecker, Dorothea and Pampel, Heinz and
     Ilg, Karin},
   title = {Rückblick: {OA} {Datenpraxis} {Webinar} Zur {Erfassung} von
@@ -472,7 +547,7 @@ Publikationskosten.”</span> April 14, 2025. <a href="https://doi.org/10.59350/
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/</guid>
   <pubDate>Sun, 13 Apr 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/logo_oa_datenpraxis(2).png" medium="image" type="image/png" height="144" width="144"/>
 </item>
@@ -481,8 +556,9 @@ Publikationskosten.”</span> April 14, 2025. <a href="https://doi.org/10.59350/
   <dc:creator>Catharina Ochsner</dc:creator>
   <dc:creator>Dorothea Strecker</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/index.html</link>
+  <link>https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -508,7 +584,7 @@ Publikationskosten.”</span> April 14, 2025. <a href="https://doi.org/10.59350/
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
   author = {Ochsner, Catharina and Strecker, Dorothea and Pampel, Heinz},
   title = {The {Information} {Management} {Research} {Group} at the
     {BID} {Kongress} 2025},
@@ -523,7 +599,7 @@ Ochsner, Catharina, Dorothea Strecker, and Heinz Pampel. 2025.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/</guid>
   <pubDate>Thu, 13 Mar 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/BID.webp" medium="image" type="image/webp"/>
 </item>
@@ -532,8 +608,9 @@ Ochsner, Catharina, Dorothea Strecker, and Heinz Pampel. 2025.
   <dc:creator>Dorothea Strecker</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
   <dc:creator>Jonas Höfting</dc:creator>
-  <link>https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html</link>
+  <link>https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -557,7 +634,7 @@ Ochsner, Catharina, Dorothea Strecker, and Heinz Pampel. 2025.
 <p>Eine Anmeldung zum Webinar ist über den folgenden Link möglich: <a href="https://hu-berlin.zoom-x.de/webinar/register/WN_pKTlDzjsQwC7QspLxwMHCg">Link zur Anmeldung</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/logo_oa_datenpraxis(1).png" class="img-fluid figure-img"></p>
+<p><img src="https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/logo_oa_datenpraxis(1).png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 </section>
@@ -572,14 +649,14 @@ Ochsner, Catharina, Dorothea Strecker, and Heinz Pampel. 2025.
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-pampel_datenpraxis_2024" class="csl-entry">
 Pampel, Heinz, Najko Jahn, Roland Bertelmann, Wolfram Horstmann, Laura Rothfritz, Lea Maria Ferguson, Birgit Schmidt, and Anna Stisser. 2024. <span>“Datenpraxis Zur <span>Gestaltung</span> Der <span>Open</span>-<span>Access</span>-<span>Transformation</span> - <span>Analyse</span>, <span>Empfehlung</span>, <span>Training</span> &amp; <span>Vernetzung</span> (<span>OA</span> <span>Datenpraxis</span>).”</span> <a href="https://doi.org/10.5281/zenodo.10794298">https://doi.org/10.5281/zenodo.10794298</a>.
 </div>
 <div id="ref-strecker_survey_2024" class="csl-entry">
 Strecker, Dorothea, and Heinz Pampel. 2024. <span>“Survey Announcement: <span>Recording</span> Publication Costs at Research Performing Institutions in <span>Germany</span>.”</span> <em>Research Group Information Management @ Humboldt-Universität Zu Berlin</em>. <a href="https://doi.org/10.59350/9z58m-vwv42">https://doi.org/10.59350/9z58m-vwv42</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
   author = {Strecker, Dorothea and Pampel, Heinz and Höfting, Jonas},
   title = {OA {Datenpraxis} {Webinar:} {Erfassung} von
     {Publikationskosten} an Wissenschaftlichen {Einrichtungen} in
@@ -596,7 +673,7 @@ Wissenschaftlichen Einrichtungen in Deutschland.”</span> March 7, 2025.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/</guid>
   <pubDate>Thu, 06 Mar 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/logo_oa_datenpraxis(1).png" medium="image" type="image/png" height="144" width="144"/>
 </item>
@@ -604,8 +681,9 @@ Wissenschaftlichen Einrichtungen in Deutschland.”</span> March 7, 2025.
   <title>Critical Data Discourses: A Lecture Series on the Ethics of Research Data</title>
   <dc:creator>Laura Rothfritz</dc:creator>
   <dc:creator>Katrin Frisch</dc:creator>
-  <link>https://infomgnt.org/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html</link>
+  <link>https://infomgnt.org/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -670,14 +748,14 @@ Wissenschaftlichen Einrichtungen in Deutschland.”</span> March 7, 2025.
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-Carroll-2020" class="csl-entry">
 Carroll, Stephanie Russo, Ibrahim Garba, Oscar L. Figueroa-Rodríguez, Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons, et al. 2020. <span>“The <span>CARE</span> Principles for Indigenous Data Governance.”</span> <em>Data Science Journal</em>, November. <a href="https://doi.org/10.5334/dsj-2020-043">https://doi.org/10.5334/dsj-2020-043</a>.
 </div>
 <div id="ref-wilkinsonFAIRGuidingPrinciples2016" class="csl-entry">
 Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. <span>“The <span>FAIR Guiding Principles</span> for Scientific Data Management and Stewardship.”</span> <em>Scientific Data</em> 3 (March): 160018.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
   author = {Rothfritz, Laura and Frisch, Katrin},
   title = {Critical {Data} {Discourses:} {A} {Lecture} {Series} on the
     {Ethics} of {Research} {Data}},
@@ -692,7 +770,7 @@ February 21, 2025. <a href="https://doi.org/10.59350/6dp70-2j455">https://doi.or
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/</guid>
   <pubDate>Thu, 20 Feb 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/pic.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
@@ -700,15 +778,16 @@ February 21, 2025. <a href="https://doi.org/10.59350/6dp70-2j455">https://doi.or
   <title>Promoting Open Science at the Humboldt-Universität zu Berlin as BUA Open Science Ambassadors</title>
   <dc:creator>Catharina Ochsner</dc:creator>
   <dc:creator>Dorothea Strecker</dc:creator>
-  <link>https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/index.html</link>
+  <link>https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/</link>
   <description><![CDATA[ 
+
 
 
 
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/bua_logo.png" class="img-fluid figure-img"></p>
+<p><img src="https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/bua_logo.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p>The Ambassadors for Open Science program of the <a href="https://www.berlin-university-alliance.de/index.html">Berlin University Alliance, BUA</a> aims to promote the knowledge and application of Open Science in various subjects. As Open Science experts and enthusiasts, the ambassadors show researchers, students and decision-makers at their institution how they can benefit from and make use of Open Science infrastructure <span class="citation" data-cites="berlin_university_alliance_auftakt_2024">(Alliance 2024a)</span>.</p>
@@ -721,14 +800,14 @@ February 21, 2025. <a href="https://doi.org/10.59350/6dp70-2j455">https://doi.or
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-berlin_university_alliance_auftakt_2024" class="csl-entry">
 Alliance, Berlin University. 2024a. <span>“Auftakt Für Neu Ernannte <span>BUA</span> <span>Open</span> <span>Science</span> <span>Ambassadors</span>.”</span> <a href="https://www.berlin-university-alliance.de/items/2024/240924-open-science-ambassadors.html">https://www.berlin-university-alliance.de/items/2024/240924-open-science-ambassadors.html</a>.
 </div>
 <div id="ref-berlin_university_alliance_open_2024" class="csl-entry">
 ———. 2024b. <span>“Die <span>Open</span> <span>Science</span> <span>Botschafter</span> Der <span>Berlin</span> <span>University</span> <span>Alliance</span>.”</span> <a href="https://www.berlin-university-alliance.de/commitments/research-quality/openx/os-botschafter-innen/index.html">https://www.berlin-university-alliance.de/commitments/research-quality/openx/os-botschafter-innen/index.html</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
   author = {Ochsner, Catharina and Strecker, Dorothea},
   title = {Promoting {Open} {Science} at the {Humboldt-Universität} Zu
     {Berlin} as {BUA} {Open} {Science} {Ambassadors}},
@@ -742,15 +821,16 @@ Science at the Humboldt-Universität Zu Berlin as BUA Open Science
 Ambassadors.”</span> February 5, 2025. <a href="https://doi.org/10.59350/ja4m1-92098">https://doi.org/10.59350/ja4m1-92098</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
-  <guid>https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/</guid>
   <pubDate>Tue, 04 Feb 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/Unbenannt.png" medium="image" type="image/png" height="68" width="144"/>
 </item>
 <item>
   <title>What happens when public data infrastructures aren’t save? A look at past and current developments in the US</title>
   <dc:creator>Laura Rothfritz</dc:creator>
-  <link>https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html</link>
+  <link>https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -779,7 +859,7 @@ Ambassadors.”</span> February 5, 2025. <a href="https://doi.org/10.59350/ja4m1
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-CDCDatasetsUploaded" class="csl-entry">
 <span>“<span>CDC</span> Datasets Uploaded Before <span>January</span> 28th, 2025 : <span>Centers</span> for <span>Disease Control</span> and <span>Prevention</span> : <span>Free Download</span>, <span>Borrow</span>, and <span>Streaming</span>.”</span> n.d. <em>Internet Archive</em>. Accessed February 5, 2025. <a href="https://archive.org/details/20250128-cdc-datasets">https://archive.org/details/20250128-cdc-datasets</a>.
 </div>
@@ -831,7 +911,7 @@ Singer, Ethan. 2025. <span>“Thousands of <span>U</span>.<span>S</span>. <span>
 <div id="ref-sunCDCRemovesGender2025" class="csl-entry">
 Sun, Lena H., Dan Keating, and Fenit Nirappil. 2025. <span>“<span>CDC</span> Removes Gender, Equity References in Public Health Material.”</span> <em>Washington Post</em>, February.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
   author = {Rothfritz, Laura},
   title = {What Happens When Public Data Infrastructures Aren’t Save?
     {A} Look at Past and Current Developments in the {US}},
@@ -846,7 +926,7 @@ the US.”</span> February 5, 2025. <a href="https://doi.org/10.59350/6g3km-9w70
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/</guid>
   <pubDate>Tue, 04 Feb 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/datarescue.webp" medium="image" type="image/webp"/>
 </item>
@@ -855,8 +935,9 @@ the US.”</span> February 5, 2025. <a href="https://doi.org/10.59350/6g3km-9w70
   <dc:creator>Catharina Ochsner</dc:creator>
   <dc:creator>Jonas Höfting</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html</link>
+  <link>https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -900,7 +981,7 @@ the US.”</span> February 5, 2025. <a href="https://doi.org/10.59350/6g3km-9w70
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-fenner_ansatze_2024" class="csl-entry">
 Fenner, Martin. 2024. <span>“Ansätze Zur <span>Sicherung</span> Der Dauerhaften <span>Zugänglichkeit</span> von <span>Wissenschaftsblogs</span>.”</span> <a href="https://doi.org/10.5281/zenodo.14354060">https://doi.org/10.5281/zenodo.14354060</a>.
 </div>
@@ -913,7 +994,7 @@ Voigt, Charmaine, and Birte Kuhle. 2024. <span>“Wi⁴impact: <span>Befragung</
 <div id="ref-woldering_webarchivierung_2024" class="csl-entry">
 Woldering, Britta. 2024. <span>“Webarchivierung an Der Deutschen <span>Nationalbibliothek</span>.”</span> <a href="https://doi.org/10.5281/zenodo.14355206">https://doi.org/10.5281/zenodo.14355206</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
   author = {Ochsner, Catharina and Höfting, Jonas and Pampel, Heinz},
   title = {Perspective on {Future} {Infrastructure} for {Scholarly}
     {Blogs} in {Germany}},
@@ -928,7 +1009,7 @@ Germany.”</span> January 10, 2025. <a href="https://doi.org/10.59350/4fc41-6n7
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/</guid>
   <pubDate>Thu, 09 Jan 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/IMG_5273.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -936,8 +1017,9 @@ Germany.”</span> January 10, 2025. <a href="https://doi.org/10.59350/4fc41-6n7
   <title>Workshop ‘The state and prospects of open access reporting’ at Open-Access-Tage</title>
   <dc:creator>Dorothea Strecker</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/index.html</link>
+  <link>https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -952,14 +1034,14 @@ Germany.”</span> January 10, 2025. <a href="https://doi.org/10.59350/4fc41-6n7
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-barbers_stand_2024" class="csl-entry">
 Barbers, Irene, Maxi Kindling, Heike Stadler, and Dorothea Strecker. 2024. <span>“Stand Und <span>Perspektive</span> Des <span>Open</span>-<span>Access</span>-<span>Reportings</span>.”</span> Köln. <a href="https://doi.org/10.5281/zenodo.13831942">https://doi.org/10.5281/zenodo.13831942</a>.
 </div>
 <div id="ref-ferguson_transparenz_2025" class="csl-entry">
 Ferguson, Lea Maria, Heinz Pampel, Dorothea Strecker, and Marcel Meistring. 2025. <span>“Transparenz in Der <span>Wissenschaft</span>: <span>Strategien</span> Für Offene <span>Informationsversorgung</span>.”</span> <a href="https://doi.org/10.5281/zenodo.14505423">https://doi.org/10.5281/zenodo.14505423</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
   author = {Strecker, Dorothea and Pampel, Heinz},
   title = {Workshop “{The} State and Prospects of Open Access Reporting”
     at {Open-Access-Tage}},
@@ -974,15 +1056,16 @@ Open-Access-Tage.”</span> January 9, 2025. <a href="https://doi.org/10.59350/r
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/index.html</guid>
+  <guid>https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/</guid>
   <pubDate>Wed, 08 Jan 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/OAT.png" medium="image" type="image/png" height="80" width="144"/>
 </item>
 <item>
   <title>Open Access Award from Humboldt-Universität zu Berlin for Our Team!</title>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/index.html</link>
+  <link>https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -998,11 +1081,11 @@ Open-Access-Tage.”</span> January 9, 2025. <a href="https://doi.org/10.59350/r
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-riesenweber_open-access-preis_nodate" class="csl-entry">
 Riesenweber, Christina. n.d. <span>“Der <span>Open</span>-<span>Access</span>-<span>Preis</span> Der <span>HU</span> Geht 2024 an Den <span>Lehrstuhl</span> <span>Information</span> <span>Management</span> Des <span>IBI</span> <span></span> <span>UB</span> <span>Blog</span>.”</span> <em>UB Blog</em>. Accessed November 29, 2024. <a href="https://blogs.hu-berlin.de/wir_bewegen_buecher/2024/11/29/der-open-access-preis-der-hu-geht-2024-an-den-lehrstuhl-information-management-des-ibi/">https://blogs.hu-berlin.de/wir_bewegen_buecher/2024/11/29/der-open-access-preis-der-hu-geht-2024-an-den-lehrstuhl-information-management-des-ibi/</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
   author = {Pampel, Heinz},
   title = {Open {Access} {Award} from {Humboldt-Universität} Zu {Berlin}
     for {Our} {Team!}},
@@ -1016,15 +1099,16 @@ Zu Berlin for Our Team!”</span> December 4, 2024. <a href="https://doi.org/10.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/index.html</guid>
+  <guid>https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/</guid>
   <pubDate>Tue, 03 Dec 2024 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/Open_Access_Award.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>New preprint on Transformative Agreements</title>
   <dc:creator>Laura Rothfritz</dc:creator>
-  <link>https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html</link>
+  <link>https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1058,7 +1142,7 @@ Zu Berlin for Our Team!”</span> December 4, 2024. <a href="https://doi.org/10.
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-borregoTransformativeAgreementsThey2021" class="csl-entry">
 Borrego, Ángel, Lluís Anglada, and Ernest Abadal. 2021. <span>“Transformative Agreements: <span>Do</span> They Pave the Way to Open Access?”</span> <em>Learned Publishing</em> 34 (2): 216–32. <a href="https://doi.org/10.1002/leap.1347">https://doi.org/10.1002/leap.1347</a>.
 </div>
@@ -1074,7 +1158,7 @@ Jahn, Najko. 2024. <span>“How Open Are Hybrid Journals Included in Transformat
 <div id="ref-schmalHowTransformativeAre2024" class="csl-entry">
 Schmal, W. Benedikt. 2024. <span>“How Transformative Are Transformative Agreements? <span>Evidence</span> from <span>Germany</span> Across Disciplines.”</span> <em>Scientometrics</em> 129 (3): 1863–89. <a href="https://doi.org/10.1007/s11192-024-04955-y">https://doi.org/10.1007/s11192-024-04955-y</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2024,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2024,
   author = {Rothfritz, Laura},
   title = {New Preprint on {Transformative} {Agreements}},
   date = {2024-11-18},
@@ -1086,15 +1170,16 @@ Rothfritz, Laura. 2024. <span>“New Preprint on Transformative
 Agreements.”</span> November 18, 2024. <a href="https://doi.org/10.59350/fe9s4-8a179">https://doi.org/10.59350/fe9s4-8a179</a>.
 </div></div></section></div> ]]></description>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html</guid>
+  <guid>https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/</guid>
   <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/screenshot.png" medium="image" type="image/png" height="107" width="144"/>
 </item>
 <item>
   <title>Interview on Deutschlandfunk about the Wayback Machine of the Internet Archive</title>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/index.html</link>
+  <link>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1111,7 +1196,7 @@ Agreements.”</span> November 18, 2024. <a href="https://doi.org/10.59350/fe9s4
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-ochsner_infra_2024" class="csl-entry">
 Ochsner, Catharina. 2024. <span>“Infra <span>Wiss</span> <span>Blogs</span>: <span>Projektvorstellung</span>.”</span> Berlin. <a href="https://doi.org/10.5281/zenodo.12799719">https://doi.org/10.5281/zenodo.12799719</a>.
 </div>
@@ -1124,7 +1209,7 @@ Schräer, Frank. 2023. <span>“Cyber Attack on <span>Internet</span> <span>Arch
 <div id="ref-strecker_disappearing_2023" class="csl-entry">
 Strecker, Dorothea, Heinz Pampel, Rouven Schabinger, and Nina Leonie Weisweiler. 2023. <span>“Disappearing Repositories: <span>Taking</span> an Infrastructure Perspective on the Long-Term Availability of Research Data.”</span> <em>Quantitative Science Studies</em> 4 (4): 1–18. <a href="https://doi.org/10.1162/qss_a_00277">https://doi.org/10.1162/qss_a_00277</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
   author = {Pampel, Heinz},
   title = {Interview on {Deutschlandfunk} about the {Wayback} {Machine}
     of the {Internet} {Archive}},
@@ -1138,15 +1223,16 @@ Wayback Machine of the Internet Archive.”</span> November 17, 2024. <a href="h
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/index.html</guid>
+  <guid>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</guid>
   <pubDate>Sat, 16 Nov 2024 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/wayback-machine.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Our Contribution to Open Access Week 2024</title>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/index.html</link>
+  <link>https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1171,7 +1257,7 @@ Wayback Machine of the Internet Archive.”</span> November 17, 2024. <a href="h
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-noauthor_barcelona_nodate" class="csl-entry">
 <span>“Barcelona <span>Declaration</span> on <span>Open</span> <span>Research</span> <span>Information</span>.”</span> n.d. <em>Barcelona Declaration on Open Research Information</em>. Accessed October 17, 2024. <a href="https://barcelona-declaration.org/">https://barcelona-declaration.org/</a>.
 </div>
@@ -1187,7 +1273,7 @@ Priem, Jason, Heather Piwowar, and Richard Orr. 2022. <span>“<span>OpenAlex</s
 <div id="ref-open_access_week_theme_nodate" class="csl-entry">
 Week, Open Access. n.d. <span>“Theme for <span>Open</span> <span>Access</span> <span>Week</span> 2024 <span>Continues</span> <span>Call</span> to <span>Put</span> <span>‘<span>Community</span> over <span>Commercialization</span>’</span>.”</span> Accessed October 17, 2024. <a href="https://www.openaccessweek.org/theme/en">https://www.openaccessweek.org/theme/en</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
   author = {Pampel, Heinz},
   title = {Our {Contribution} to {Open} {Access} {Week} 2024},
   date = {2024-10-21},
@@ -1200,7 +1286,7 @@ Pampel, Heinz. 2024. <span>“Our Contribution to Open Access Week
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/index.html</guid>
+  <guid>https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/</guid>
   <pubDate>Sun, 20 Oct 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/oaweek2024.jpeg" medium="image" type="image/jpeg"/>
 </item>
@@ -1212,8 +1298,9 @@ Pampel, Heinz. 2024. <span>“Our Contribution to Open Access Week
   <dc:creator>Martin Fenner</dc:creator>
   <dc:creator>Mareike König</dc:creator>
   <dc:creator>Ulrike Stockhausen</dc:creator>
-  <link>https://infomgnt.org/posts/2024-10-16-blogs-as-blueprint-for-community-led-OA-publishing/index.html</link>
+  <link>https://infomgnt.org/posts/2024-10-16-blogs-as-blueprint-for-community-led-OA-publishing/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1246,14 +1333,14 @@ Pampel, Heinz. 2024. <span>“Our Contribution to Open Access Week
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-noauthor_open-access-tage_nodate" class="csl-entry">
 <span>“Open-<span>Access</span>-<span>Tage</span>: <span>Mittwoch</span>, 11.09.2024.”</span> n.d. Accessed September 23, 2024. <a href="https://open-access-tage.de/open-access-tage-2024-koeln/koeln/programm/mittwoch-11092024">https://open-access-tage.de/open-access-tage-2024-koeln/koeln/programm/mittwoch-11092024</a>.
 </div>
 <div id="ref-pampel_thesen_2024" class="csl-entry">
 Pampel, Heinz, Margo Bargheer, Roland Bertelmann, Ben Kaden, Maxi Kindling, Dagmar Schobert, and Marcel Wrzesinski. 2024. <span>“Thesen Zur <span>Zukunft</span> Des Wissenschaftsgeleiteten <span>Open</span>-<span>Access</span>-<span>Publizierens</span> – <span>Entwicklung</span> Und <span>Diskussion</span> in Einem Partizipativen <span>Prozess</span>.”</span> <em>Bibliothek Forschung Und Praxis</em> 48 (2): 322–33. <a href="https://doi.org/10.1515/bfp-2024-0027">https://doi.org/10.1515/bfp-2024-0027</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2024,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2024,
   author = {Ochsner, Catharina and Pampel, Heinz and Dalkilic, Evin and
     Fenner, Martin and König, Mareike and Stockhausen, Ulrike},
   title = {Blogs as a Blueprint for Community-Led {Open} {Access}
@@ -1269,51 +1356,9 @@ Community-Led Open Access Publishing.”</span> October 17, 2024. <a href="https
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-10-16-blogs-as-blueprint-for-community-led-OA-publishing/index.html</guid>
+  <guid>https://infomgnt.org/posts/2024-10-16-blogs-as-blueprint-for-community-led-OA-publishing/</guid>
   <pubDate>Wed, 16 Oct 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-10-16-blogs-as-blueprint-for-community-led-OA-publishing/OAT.png" medium="image" type="image/png" height="80" width="144"/>
-</item>
-<item>
-  <title>Interview on Shadow Libraries on Deutschlandfunk</title>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-10-17-Interview-on-Shadow-Libraries-on-Deutschlandfunk/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>In the latest episode of <a href="https://www.deutschlandfunkkultur.de/breitband-100.html">“Breitband”</a> on Deutschlandfunk Kultur, there is an interview with <a href="https://www.ibi.hu-berlin.de/de/institut/personen/strecker">Dorothea Strecker</a> from our research group at the Berlin School of Library and Information Science on shadow libraries <span class="citation" data-cites="belanger_pirate_2024">(Belanger 2024)</span>. The occasion for the interview was the lawsuit for damages against LibGen in the United States.</p>
-<p><img src="https://infomgnt.org/posts/2024-10-17-Interview-on-Shadow-Libraries-on-Deutschlandfunk/schattenbibliotheken.jpeg" class="img-fluid"></p>
-<p>Here’s the linkt to the Interview: <a href="https://www.deutschlandfunkkultur.de/libgen-schattenbibliothek-ebook-piraterie-100.html">“LibGen: Shadow Libraries and eBook Piracy”</a> <span class="citation" data-cites="deutschlandfunkkulturde_libgen-urteil_2024">(deutschlandfunkkultur.de 2024)</span>.</p>
-<p>Further information about our research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
-<div id="ref-belanger_pirate_2024" class="csl-entry">
-Belanger, Ashley. 2024. <span>“Pirate Library Must Pay Publishers $<span>30M</span>, but No One Knows Who Runs It.”</span> <em>Ars Technica</em>. <a href="https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/">https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/</a>.
-</div>
-<div id="ref-deutschlandfunkkulturde_libgen-urteil_2024" class="csl-entry">
-deutschlandfunkkultur.de. 2024. <span>“<span>LibGen</span>-<span>Urteil</span>: <span>E</span>-<span>Book</span>-<span>Piraterie</span> Am <span>Ende</span>?”</span> <em>Deutschlandfunk Kultur</em>. <a href="https://www.deutschlandfunkkultur.de/libgen-schattenbibliothek-ebook-piraterie-100.html">https://www.deutschlandfunkkultur.de/libgen-schattenbibliothek-ebook-piraterie-100.html</a>.
-</div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
-  author = {Pampel, Heinz},
-  title = {Interview on {Shadow} {Libraries} on {Deutschlandfunk}},
-  date = {2024-10-17},
-  url = {https://doi.org/10.59350/66e4r-zd174},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz. 2024. <span>“Interview on Shadow Libraries on
-Deutschlandfunk.”</span> October 17, 2024. <a href="https://doi.org/10.59350/66e4r-zd174">https://doi.org/10.59350/66e4r-zd174</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-10-17-Interview-on-Shadow-Libraries-on-Deutschlandfunk/index.html</guid>
-  <pubDate>Wed, 16 Oct 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-10-17-Interview-on-Shadow-Libraries-on-Deutschlandfunk/schattenbibliotheken.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
