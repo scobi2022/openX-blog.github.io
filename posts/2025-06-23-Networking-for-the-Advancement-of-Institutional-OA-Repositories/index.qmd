@@ -19,7 +19,7 @@ author:
 date: "2025-06-23"
 categories: [Lab Life, Research] 
 citation:
-  url: https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories 
+  url: https://doi.org/10.59350/kb3zc-v2x38  
 image: Blogpost_Preprint_Handreichung.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: Preprint_Handreichung_Blogpost.bib
