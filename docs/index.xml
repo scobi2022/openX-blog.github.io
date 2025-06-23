@@ -10,7 +10,82 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Wed, 18 Jun 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Jun 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Networking for the Advancement of Institutional Open Access Repositories in Germany</title>
+  <dc:creator>Lisa Matthias</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Christopher Onzie Khamis</dc:creator>
+  <link>https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are excited to share our first guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)”: “Preprints: Handlungsfeld für institutionelle Open-Access-Repositorien” (German only.)</p>
+<p>Matthias, L., Pampel, H., Khamis, C. O., Rothfritz, L., &amp; Wrzesinski, M. (2025). <em>Preprints: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.</em> Zenodo. <a href="https://doi.org/10.5281/zenodo.15603096" class="uri">https://doi.org/10.5281/zenodo.15603096</a></p>
+<p><img src="https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/Blogpost_Preprint_Handreichung.jpg" class="img-fluid"></p>
+<p>This publication stems from our November 13, 2024 <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-preprints">networking forum</a> on preprints and institutional repositories, which brought together 59 Open Access professionals from across Germany. The guide captures the collective expertise and insights generated during this collaborative event, offering practical recommendations to enhance how institutional repositories handle preprints.</p>
+<p>Following expert presentations by <a href="https://orcid.org/0000-0002-7060-3670">Lea-Maria Ferguson</a> (Helmholtz Open Science Office) and <a href="https://orcid.org/0000-0001-9846-5516">Alexander Wagner</a> (DESY), participants engaged in dynamic discussions in a “world café” format where they shared experiences and developed solutions to common obstacles. The presentation slides are available <a href="https://zenodo.org/doi/10.5281/zenodo.14185122">online</a>.</p>
+<hr>
+<p>The guide distills these rich discussions into actionable recommendations across five critical areas for repository managers:</p>
+<section id="policy-for-preprints" class="level3">
+<h3 class="anchored" data-anchor-id="policy-for-preprints">1. Policy for Preprints</h3>
+<p>Without overarching standards, institutions struggle with unclear definitions distinguishing publication types. Proposed solutions include establishing clear typological classifications at submission, setting explicit criteria for different preprint versions, implementing automated notification systems for updates, and creating robust links between preprints and their final published versions.</p>
+</section>
+<section id="accessibility-workflows" class="level3">
+<h3 class="anchored" data-anchor-id="accessibility-workflows">2. Accessibility Workflows</h3>
+<p>Repository managers face a complex web of challenges: the relationship between institutional and subject-specific repositories, technical representation issues, and limited researcher awareness about the strategic implications of preprints. Solutions include fostering cross-institutional dialogue, setting focused goals to reduce maintenance overhead, and providing comprehensive consultation services that empower researchers to make informed publication decisions.</p>
+</section>
+<section id="versioning" class="level3">
+<h3 class="anchored" data-anchor-id="versioning">3. Versioning</h3>
+<p>Three major barriers complicate version management: First, many repository systems simply lack versioning functionalities. Second, those with versioning capabilities must navigate the trade-off between merge approaches and split approaches. Third, authors have no obligation to report when their preprints are subsequently published, making it difficult to track version evolution. The community strongly advocated for early publication counseling and proactive author engagement to map out publication trajectories and develop appropriate pathways collaboratively.</p>
+</section>
+<section id="disciplinary-diversity" class="level3">
+<h3 class="anchored" data-anchor-id="disciplinary-diversity">4. Disciplinary Diversity</h3>
+<p>Preprint definitions and practices vary across disciplines, creating workflow complexities that require tailored solutions and generating reporting issues when publications appear across multiple platforms and stages. This diversity demands flexible approaches: facilitating faculty-level decision-making, establishing discipline-specific editorial networks for quality assurance, and emphasizing the critical role of high-quality metadata.</p>
+</section>
+<section id="further-challenges" class="level3">
+<h3 class="anchored" data-anchor-id="further-challenges">5. Further Challenges</h3>
+<p>Communication barriers with publishers (particularly in the humanities), absent technical standards for metadata transfer and linking, and limited training opportunities for repository managers continue to hinder progress. Highlighted solutions include targeted outreach to academic communities, developing robust technical interfaces for better interoperability, establishing preprint policies with clear Persistent identifier (PID) recommendations, and expanding professional development programs both nationally and internationally.</p>
+<hr>
+<p>This guide provides a foundation for continued professional exchange. Repository operators, libraries, and institutional decision-makers will find valuable insights for strategically embedding preprints within their institutions.</p>
+<p>We extend our sincere thanks to all forum participants who contributed their expertise and experience to this collaborative effort. We welcome your feedback and look forward to continuing this important dialogue as we collectively strengthen the Open Access repository landscape.</p>
+<p>The Pro OAR DE project continues with its sixth Networking Forum on July 7, 2025, focusing on “Compliance with Funding Requirements for Open Access.” We are delighted to welcome representatives from the European Research Council (ERC) and the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG), who will provide insights into their repository strategies and Open Access policies. <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-compliance">Registration</a> is now open for this virtual event.</p>
+<p>For more information about Pro OAR DE and our upcoming activities, please visit our official <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de">website</a>. This text – excluding quotes and otherwise labeled sections – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-matthias_preprints_2025" class="csl-entry">
+Matthias, Lisa, Heinz Pampel, Christopher Onzie Khamis, Laura Rothfritz, and Marcel Wrzesinski. 2025. <span>“Preprints: <span>Handlungsfeld</span> Für Institutionelle <span>Open</span>-<span>Access</span>-<span>Repositorien</span>. <span>Pro</span> <span>OAR</span> <span>DE</span> <span>Handreichung</span>.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.15603096">https://doi.org/10.5281/zenodo.15603096</a>.
+</div>
+<div id="ref-wrzesinski_pro_2024" class="csl-entry">
+Wrzesinski, Marcel, Alexander Wagner, Lea-Maria Ferguson, and Marcel Meistring. 2024. <span>“Pro <span>OAR</span> <span>DE</span> <span>Vernetzungsforum</span>: <span>Institutionelle</span> <span>Repositorien</span> Und <span>Preprints</span>,”</span> November. <a href="https://doi.org/10.5281/zenodo.14185122">https://doi.org/10.5281/zenodo.14185122</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
+  author = {Matthias, Lisa and Pampel, Heinz and Onzie Khamis,
+    Christopher},
+  title = {Networking for the {Advancement} of {Institutional} {Open}
+    {Access} {Repositories} in {Germany}},
+  date = {2025-06-23},
+  url = {https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-matthias2025" class="csl-entry quarto-appendix-citeas">
+Matthias, Lisa, Heinz Pampel, and Christopher Onzie Khamis. 2025.
+<span>“Networking for the Advancement of Institutional Open Access
+Repositories in Germany.”</span> June 23, 2025. <a href="https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories">https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/</guid>
+  <pubDate>Sun, 22 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/Blogpost_Preprint_Handreichung.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Recap: Infra Wiss Blogs Webinar on Rogue Scholar</title>
   <dc:creator>Jonas Höfting</dc:creator>
@@ -1293,76 +1368,6 @@ Pampel, Heinz. 2024. <span>“Our Contribution to Open Access Week
   <guid>https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/</guid>
   <pubDate>Sun, 20 Oct 2024 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/oaweek2024.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Blogs as a blueprint for community-led Open Access publishing</title>
-  <dc:creator>Catharina Ochsner</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <dc:creator>Evin Dalkilic</dc:creator>
-  <dc:creator>Martin Fenner</dc:creator>
-  <dc:creator>Mareike König</dc:creator>
-  <dc:creator>Ulrike Stockhausen</dc:creator>
-  <link>https://infomgnt.org/posts/2024-10-16-blogs-as-blueprint-for-community-led-OA-publishing/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Scholarly blogs can disseminate current research content quickly and beyond their own specialist community and put it up for discussion. Open communication without paywalls increases the visibility of scholarly research. Researchers as well as information infrastructure and cultural institutions therefore have an interest in supporting scholarly blogs as an Open Access publication format. But what can the individual actors do to strengthen and further develop scholarly blogs and how do scholarly blogs fit into current discussions about the science-led development of the Open Access transformation <span class="citation" data-cites="pampel_thesen_2024">(Pampel et al. 2024)</span>?</p>
-<p>During the workshop ‘Blogs as a blueprint for community-led Open Access publishing’ which took place as a part of the Open-Access-Tage 2024, the role of blogs within science communication was discussed using three statements <span class="citation" data-cites="noauthor_open-access-tage_nodate">(<span>“Open-<span>Access</span>-<span>Tage</span>: <span>Mittwoch</span>, 11.09.2024”</span> n.d.)</span>.</p>
-<p>The workshop was organized and moderated by Evin Dalkilic from <a href="https://verfassungsblog.de/">Verfassungsblog</a>, Martin Fenner from <a href="https://front-matter.io/">Front Matter</a>, Mareike König from the <a href="https://www.dhi-paris.fr/home.html">German historical Institute Paris</a>, Catharina Ochsner from the <a href="https://www.ibi.hu-berlin.de/de">Berlin School of Library and Information Science</a> at the <a href="https://www.hu-berlin.de/de">Humboldt-Universität zu Berlin</a> , Heinz Pampel, also from Berlin School of Library and Information Science as well as the <a href="https://os.helmholtz.de/">Helmholtz Open Science Office</a> and Ulrike Stockhausen from the <a href="https://www.maxweberstiftung.de/startseite.html">Max Weber Foundation</a> / <a href="https://de.hypotheses.org/">de.hypotheses</a>. The workshop was aimed at scientists, as well as information and publication professionals. The aims of the workshop were: to create a deeper understanding of the importance of scholarly blogs as an instrument of scholarly and science communication, to strengthen the recognition of their contribution to an open and sustainable research culture, and to identify needs for the further development of community-led open access publication infrastructures, based on the experiences of the participants <span class="citation" data-cites="noauthor_open-access-tage_nodate">(<span>“Open-<span>Access</span>-<span>Tage</span>: <span>Mittwoch</span>, 11.09.2024”</span> n.d.)</span>.</p>
-<p>Together with the participants, statements on the following three topics were discussed: (1) workflow-related basic services, (2) networking services and (3) reputation management of scholarly blogs.</p>
-<section id="discussion-1-workflow-related-basic-services-statement" class="level3">
-<h3 class="anchored" data-anchor-id="discussion-1-workflow-related-basic-services-statement">Discussion 1: Workflow-related basic services Statement:</h3>
-<p>“Scholarly blogs must provide the same basic services as other forms of scientific publication: including PID assignment with relevant metadata, indexing in relevant catalogs, provision of full texts in various formats and long-term archiving.”</p>
-<p>A central topic in the discussion on thesis 1 was the question of the definition of scholarly blogs: What formats and content characterize ‘scholarly blogs’? Which components should be archived in the long term? This also raises the question of whether authors are interested in permanent availability. Since the role of blogs varies greatly depending on discipline, bloggers also have different requirements for their archiving. The format also raises the question of whether discussions and comments, which are important additions to the blog posts, should and can be archived. The participants emphasized that the responsibility for making blogs and their content findable, visible and accessible in the long term lies not only with the bloggers, but also with information infrastructure institutions.</p>
-</section>
-<section id="discussion-2-networking-services" class="level3">
-<h3 class="anchored" data-anchor-id="discussion-2-networking-services">Discussion 2: Networking services</h3>
-<p>Statement: “Scholarly blogs are living networks and show research at its best: open, transparent, serious.”</p>
-<p>Once again, the participants discussed issues relating to the definition and function of scholarly blogs and the quality assurance of content, as scholarly blogs are used for very different purposes and with different requirements - while some have their own editorial boards, others focus more on popular science communication. In the discussion, it became clear that quality assurance on scholarly blogs can be made possible primarily through openness and transparency (e.g.&nbsp;through versioning and comments). The connection of many blogs to research institutes or third-party funded projects also creates transparency and quality assurance. The possibility of low-threshold commenting and discussing content also contributes significantly to quality assurance (keyword: open peer review).</p>
-<p>With regard to the quality assurance of scholarly blogs in comparison to the traditional scholarly publication landscape, the concern was also expressed that traditional publishing structures - such as gatekeeping by editorial offices and publishers- could be adopted in the blog landscape, although blogs should offer a more open format for scientific communication.</p>
-</section>
-<section id="discussion-3-reputation-management" class="level3">
-<h3 class="anchored" data-anchor-id="discussion-3-reputation-management">Discussion 3: Reputation management</h3>
-<p>Statement: “Science blogs as a low-threshold, genuinely freely accessible and digital publication format are particularly suitable for reputation building.”</p>
-<p>Questions of quality assurance, trustworthiness and scientific rigor were also discussed as part of the third statement. However, the answers to these questions also depend on the blog’s target audience. Should the interested public or the scientific community be addressed? The primary target audience has a decisive influence on how research is communicated and from whom recognition and reputation are expected. It was also observed that the reputation of blog posts depends on the respective blog and their discipline. Open peer reviews, e.g.&nbsp;through comment columns, were mentioned as a means of quality assurance, but consideration was also given to orienting oneself on existing quality assurance procedures for journals or other journalistic outlets. At the same time, blogs also offer the opportunity to break away from traditional publishers and establish themselves as an independent, academic publication format. In particular, blogs make it possible to develop and test new ideas. They often serve as a starting point for more extensive publications such as journal articles - which then also incorporate the discussions on the blog.</p>
-<p>Conclusion Scholarly blogs offer a diverse format for presenting and discussing scientific ideas and research results at an early stage, flexibly and with a low threshold. They can serve as an independent publication platform for scholarly and science communication. Although quality and reputation can vary depending on the discipline and blog, scholarly blogs have the potential to establish themselves as a serious, open and transparent publication medium. Quality assurance, archiving and recognition represent a challenge that differs from traditional publications. In addition, very fundamental questions arise, such as the definition of scholarly blogs, i.e.&nbsp;their formal, technical and content requirements, or their function as a medium of science communication.</p>
-<p>Updates and further information on the Infra Wiss Blog can be found on the Project Website On December 06, 2024, the project team at the Berlin School of Library and Information Science will organize a networking workshop in Berlin at the Einstein Center Digital Future (ECDF) in Berlin. The event will be held in German. Registration is possible here. We look forward to further discussions on the topic.</p>
-<p>Further information about the research and teaching group, Information Management, at the Berlin School of Library and Information Science can be found on the official group <a href="http://hu.berlin/infomgnt">website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-noauthor_open-access-tage_nodate" class="csl-entry">
-<span>“Open-<span>Access</span>-<span>Tage</span>: <span>Mittwoch</span>, 11.09.2024.”</span> n.d. Accessed September 23, 2024. <a href="https://open-access-tage.de/open-access-tage-2024-koeln/koeln/programm/mittwoch-11092024">https://open-access-tage.de/open-access-tage-2024-koeln/koeln/programm/mittwoch-11092024</a>.
-</div>
-<div id="ref-pampel_thesen_2024" class="csl-entry">
-Pampel, Heinz, Margo Bargheer, Roland Bertelmann, Ben Kaden, Maxi Kindling, Dagmar Schobert, and Marcel Wrzesinski. 2024. <span>“Thesen Zur <span>Zukunft</span> Des Wissenschaftsgeleiteten <span>Open</span>-<span>Access</span>-<span>Publizierens</span> – <span>Entwicklung</span> Und <span>Diskussion</span> in Einem Partizipativen <span>Prozess</span>.”</span> <em>Bibliothek Forschung Und Praxis</em> 48 (2): 322–33. <a href="https://doi.org/10.1515/bfp-2024-0027">https://doi.org/10.1515/bfp-2024-0027</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2024,
-  author = {Ochsner, Catharina and Pampel, Heinz and Dalkilic, Evin and
-    Fenner, Martin and König, Mareike and Stockhausen, Ulrike},
-  title = {Blogs as a Blueprint for Community-Led {Open} {Access}
-    Publishing},
-  date = {2024-10-17},
-  url = {https://doi.org/10.59350/b971b-ek551},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2024" class="csl-entry quarto-appendix-citeas">
-Ochsner, Catharina, Heinz Pampel, Evin Dalkilic, Martin Fenner, Mareike
-König, and Ulrike Stockhausen. 2024. <span>“Blogs as a Blueprint for
-Community-Led Open Access Publishing.”</span> October 17, 2024. <a href="https://doi.org/10.59350/b971b-ek551">https://doi.org/10.59350/b971b-ek551</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-10-16-blogs-as-blueprint-for-community-led-OA-publishing/</guid>
-  <pubDate>Wed, 16 Oct 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-10-16-blogs-as-blueprint-for-community-led-OA-publishing/OAT.png" medium="image" type="image/png" height="80" width="144"/>
 </item>
 </channel>
 </rss>
