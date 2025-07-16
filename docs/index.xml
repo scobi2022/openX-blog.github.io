@@ -9,8 +9,68 @@
 <link>https://infomgnt.org/</link>
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
-<generator>quarto-1.4.555</generator>
-<lastBuildDate>Sun, 22 Jun 2025 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Tue, 15 Jul 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Connecting Knowledge with Wikidata: A Practical Project with the Museum für Naturkunde Berlin</title>
+  <dc:creator>Laura Rothfritz</dc:creator>
+  <dc:creator>Stefanie Paß</dc:creator>
+  <dc:creator>Sabine von Mering</dc:creator>
+  <dc:creator>Clara Schindler</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>How can scholarly publications be made more visible, discoverable, and interconnected? This question is the focus of a student practical project conducted as part of the seminar within the module Information Production and Management (BP3) in the summer semester 2025.</p>
+<p>In close collaboration with colleagues from the <a href="https://www.museumfuernaturkunde.berlin/de/forschung/bibliothek">Coordination Office for Scholarly Publishing at the Library</a> as well as a research associate from the “Future of Collections” research area at the Museum für Naturkunde Berlin (MfN), the students are working on an exciting task: documenting scholarly journals in Wikidata from the fields of zoology, biodiversity research, and paleontology, including taxonomy and systematics of fossil organisms, enriching them with information, and linking them to each other.</p>
+<p><img src="https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/mfn_visit.jpg" class="img-fluid"></p>
+<p>As part of this semester’s “Übung”, students received an introduction to Linked Open Data, with a particular focus on Wikidata. Especially for library applications, Wikidata is an exciting project because authorities, publications, and collections can be linked together, creating new opportunities for discovery, contextualization, and visibility.</p>
+<p>The students worked with real datasets on the Museum für Naturkunde’s in-house journals <a href="https://zse.pensoft.net/">Zoosystematics and Evolution (ZSE)</a>, <a href="https://fr.pensoft.net/">Fossil Record (FR)</a> and <a href="https://dez.pensoft.net/">Deutsche Entomologische Zeitschrift (DEZ)</a>. Among other tasks, their work involved reviewing existing Wikidata entries, adding missing information, and linking relevant metadata (for example ISSNs, publishers, publication periods) with authority records such as the <a href="https://www.biodiversitylibrary.org/">Biodiversity Heritage Library (BHL)</a>, the <a href="https://gnd.network/Webs/gnd/DE/Entdecken/entdecken_node.html">Gemeinsame Normdatei (GND)</a>, or the <a href="https://viaf.org/de">Virtual International Authority File (VIAF)</a>.</p>
+<p>The module at the Institute for Library and Information Science also included a visit to the Museum für Naturkunde, where students received a tour of the collections. This provided a hands-on introduction to working with real museum objects as part of their data-related assignments.</p>
+<p>The edit-a-thon, embedded in a university seminar, demonstrated impressively the potential of structured, machine-readable data for digital science communication. Through the targeted recording and interlinking of publication data in Wikidata, new possibilities emerge for analysis and visualization. Tools like <a href="https://scholia.toolforge.org/">Scholia</a> already offer fascinating insights into topics such as “Top Topics through Time,” author networks, or gender ratios in science.</p>
+<p>Examples from Scholia for individual publication periods of the three journals:</p>
+<ul>
+<li><p>ZSE (2008–present): <a href="https://scholia.toolforge.org/venue/Q15755646" class="uri">https://scholia.toolforge.org/venue/Q15755646</a></p></li>
+<li><p>FR (2008–present): <a href="https://scholia.toolforge.org/venue/Q2455930" class="uri">https://scholia.toolforge.org/venue/Q2455930</a></p></li>
+<li><p>DEZ (1954–present): <a href="https://scholia.toolforge.org/venue/Q403726">https://scholia.toolforge.org/venue/Q4037265</a></p></li>
+</ul>
+<p>By systematically capturing article data from more than 160 years of publishing activity, a valuable resource is created for future research questions. Scholarly publications serve here as references and as data sources, but also as links to other entities such as groups of organisms, people, places, research expeditions, and collections (von Mering, 2024). The overarching goal is an open knowledge infrastructure for everyone, both researchers and the broader public. The Museum für Naturkunde Berlin will continue along this path with its own digitization initiatives and in collaboration with external partner projects.</p>
+<p>Further information: Post about Open Cultural Data in Wikimedia Germany’s blog: <a href="https://blog.wikimedia.de/2024/04/22/wie-das-naturkundemuseum-mit-linked-open-data-unbekannte-forschende-sichtbar-macht/">Wie das Naturkundemuseum mit Linked Open Data unbekannte Forschende sichtbar macht</a></p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-10.3897/rio.10.e118851" class="csl-entry">
+von Mering, Sabine, Erik Stolze, Katja Kaiser, and Mareike Petersen. 2024. <span>“Sharing Data, Caring for Collections. <span>Open</span> Data on Collection Agents Affiliated with the <span>Museum</span> f<span>ü</span>r <span>Naturkunde Berlin</span>.”</span> <em>Research Ideas and Outcomes</em> 10: e118851. <a href="https://doi.org/10.3897/rio.10.e118851">https://doi.org/10.3897/rio.10.e118851</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
+  author = {Rothfritz, Laura and Paß, Stefanie and von Mering, Sabine
+    and Schindler, Clara and Pampel, Heinz},
+  title = {Connecting {Knowledge} with {Wikidata:} {A} {Practical}
+    {Project} with the {Museum} Für {Naturkunde} {Berlin}},
+  date = {2025-07-16},
+  url = {https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-A-Practical-Project-with-the-Museum-fuer-Naturkunde-Berlin},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-rothfritz2025" class="csl-entry quarto-appendix-citeas">
+Rothfritz, Laura, Stefanie Paß, Sabine von Mering, Clara Schindler, and
+Heinz Pampel. 2025. <span>“Connecting Knowledge with Wikidata: A
+Practical Project with the Museum Für Naturkunde Berlin.”</span> July
+16, 2025. <a href="https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-A-Practical-Project-with-the-Museum-fuer-Naturkunde-Berlin">https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-A-Practical-Project-with-the-Museum-fuer-Naturkunde-Berlin</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Teaching</category>
+  <guid>https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/</guid>
+  <pubDate>Tue, 15 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/mfn_visit.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Networking for the Advancement of Institutional Open Access Repositories in Germany</title>
   <dc:creator>Lisa Matthias</dc:creator>
@@ -537,7 +597,7 @@ Deutsche UNESCO-Kommission, ed. 2020. <em>Open Science: <span>Perspektiven</span
 <div id="ref-unesco2021" class="csl-entry">
 UNESCO. 2021. <span>“UNESCO Recommendation on Open Science.”</span> <a href="https://doi.org/10.54677/MNMH8546">https://doi.org/10.54677/MNMH8546</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{catalina bohórquez díaz2025,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{catalina_bohórquez_díaz2025,
   author = {Catalina Bohórquez Díaz, Laura and Frankenstein, Sharleen
     and Humprecht, Henriette and Onzie Khamis, Christopher and Nur
     Kocabiyik, Zuhal and Kuhs-Ohmann, Jannik and Liebel, Max and
@@ -548,7 +608,7 @@ UNESCO. 2021. <span>“UNESCO Recommendation on Open Science.”</span> <a href=
   url = {https://doi.org/10.59350/vc1ht-2mz23},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-catalina bohórquez díaz2025" class="csl-entry quarto-appendix-citeas">
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-catalina_bohórquez_díaz2025" class="csl-entry quarto-appendix-citeas">
 Catalina Bohórquez Díaz, Laura, Sharleen Frankenstein, Henriette
 Humprecht, Christopher Onzie Khamis, Zuhal Nur Kocabiyik, Jannik
 Kuhs-Ohmann, Max Liebel, Sofie-Lilly Prinada, Patricia Rocha Dias, and
@@ -1305,69 +1365,6 @@ Wayback Machine of the Internet Archive.”</span> November 17, 2024. <a href="h
   <guid>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</guid>
   <pubDate>Sat, 16 Nov 2024 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/wayback-machine.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Our Contribution to Open Access Week 2024</title>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This week marks the fifteenth annual International <a href="https://www.openaccessweek.org/">Open Access Week</a>. Since 2010, the week has provided a platform to discuss the state and challenges of open access to scientific knowledge. While the early years focused on access to scientific articles <span class="citation" data-cites="noauthor_open_2024">(<span>“Open <span>Access</span> <span>Week</span>”</span> 2024)</span>, this year’s activities increasingly address other aspects of Open Science.</p>
-<p>Universities, research labs, and libraries worldwide are participating in the week with various activities. For Germany, a list of events can be found on the website <a href="https://open-access.network/services/news/artikel/open-access-week-2024">open-access.network</a>. Since 2012, a theme has been chosen for the week each year. This year’s theme is “Community over Commercialization” <span class="citation" data-cites="open_access_week_theme_nodate">(Week n.d.)</span>.</p>
-<p>Our research group is also participating in this year’s Open Access Week. On Monday, October 21, 2024, from 2:00 PM to 3:30 PM (CET), we are organizing a panel in collaboration with the <a href="https://www.open-access-berlin.de/">Open-Access-Büro Berlin</a> titled “Open Access Monitoring – Opportunities and Challenges for Open Science.” The event will be held online in German. Registration is available on the Open-Access-Büro Berlin <a href="https://blogs.fu-berlin.de/open-access-berlin/2024/08/02/quo-vadis-4-auftaktveranstaltung/">website</a>.</p>
-<p><img src="https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/oaweek2024.jpeg" class="img-fluid"></p>
-<p>Abstract <span class="citation" data-cites="kindling_21_2024">(Kindling and Pampel 2024, translation by me)</span></p>
-<p>To track the progress of the transformation to Open Access, indicators such as publication numbers or publication costs are often considered. Open data plays a key role in this. With <a href="https://openalex.org/">OpenAlex</a> <span class="citation" data-cites="priem_openalex_2022">(Priem, Piwowar, and Orr 2022)</span> and the accompanying <a href="https://barcelona-declaration.org/">Barcelona Declaration on Open Research Information</a> <span class="citation" data-cites="noauthor_barcelona_nodate">(<span>“Barcelona <span>Declaration</span> on <span>Open</span> <span>Research</span> <span>Information</span>”</span> n.d.)</span>, the Open Access community is well on its way to ensuring that monitoring is not left solely to commercial providers. At the same time, new challenges arise in monitoring, such as considering more advanced principles of Open Science in the context of community-led Open Access publishing or including other publication formats and practices. These questions include:</p>
-<ul>
-<li><p>How can we track the growing number of community-led initiatives and their publication and funding models without simply counting the quantitative output of journals and articles?</p></li>
-<li><p>How can institutions make their efforts to build open publication infrastructures more visible?</p></li>
-<li><p>How can the implementation of strategies be made visible not only in terms of outcomes at a given point in time but also in terms of process?</p></li>
-<li><p>How much influence do the things we measure and define have on the path we take in the Open Access transformation?</p></li>
-</ul>
-<p>I look forward to moderating the discussions with Irene Barbers (Forschungszentrum Jülich), Najko Jahn (University of Göttingen), Jochen Johannsen (RWTH Aachen), and Maxi Kindling (Open-Access-Büro Berlin).</p>
-<p>The event is also part of the <a href="URL">“Quo Vadis Open Science in Berlin and Brandenburg 2024/25”</a> series, which addresses the state and perspectives of Open Science in Berlin and Brandenburg.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-noauthor_barcelona_nodate" class="csl-entry">
-<span>“Barcelona <span>Declaration</span> on <span>Open</span> <span>Research</span> <span>Information</span>.”</span> n.d. <em>Barcelona Declaration on Open Research Information</em>. Accessed October 17, 2024. <a href="https://barcelona-declaration.org/">https://barcelona-declaration.org/</a>.
-</div>
-<div id="ref-kindling_21_2024" class="csl-entry">
-Kindling, Maxi, and Heinz Pampel. 2024. <span>“21. <span>Oktober</span> 2024: <span>Open</span> <span>Access</span> <span>Monitoring</span> – <span>Chancen</span> Und <span>Herausforderungen</span> Für Die Offene <span>Wissenschaft</span> (<span>Auftaktveranstaltung</span> in Der <span>Reihe</span> „<span>Quo</span> Vadis Offene <span>Wissenschaft</span> in <span>Berlin</span> Und <span>Brandenburg</span>“) – <span>Open</span> <span>Access</span> <span>Blog</span> <span>Berlin</span>.”</span> <a href="https://blogs.fu-berlin.de/open-access-berlin/2024/08/02/quo-vadis-4-auftaktveranstaltung/">https://blogs.fu-berlin.de/open-access-berlin/2024/08/02/quo-vadis-4-auftaktveranstaltung/</a>.
-</div>
-<div id="ref-noauthor_open_2024" class="csl-entry">
-<span>“Open <span>Access</span> <span>Week</span>.”</span> 2024. <em>Wikipedia</em>. <a href="https://en.wikipedia.org/w/index.php?title=Open_Access_Week&amp;oldid=1251639261">https://en.wikipedia.org/w/index.php?title=Open_Access_Week&amp;oldid=1251639261</a>.
-</div>
-<div id="ref-priem_openalex_2022" class="csl-entry">
-Priem, Jason, Heather Piwowar, and Richard Orr. 2022. <span>“<span>OpenAlex</span>: <span>A</span> Fully-Open Index of Scholarly Works, Authors, Venues, Institutions, and Concepts.”</span> arXiv. <a href="https://doi.org/10.48550/arXiv.2205.01833">https://doi.org/10.48550/arXiv.2205.01833</a>.
-</div>
-<div id="ref-open_access_week_theme_nodate" class="csl-entry">
-Week, Open Access. n.d. <span>“Theme for <span>Open</span> <span>Access</span> <span>Week</span> 2024 <span>Continues</span> <span>Call</span> to <span>Put</span> <span>‘<span>Community</span> over <span>Commercialization</span>’</span>.”</span> Accessed October 17, 2024. <a href="https://www.openaccessweek.org/theme/en">https://www.openaccessweek.org/theme/en</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
-  author = {Pampel, Heinz},
-  title = {Our {Contribution} to {Open} {Access} {Week} 2024},
-  date = {2024-10-21},
-  url = {https://doi.org/10.59350/9n4et-tkf55},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz. 2024. <span>“Our Contribution to Open Access Week
-2024.”</span> October 21, 2024. <a href="https://doi.org/10.59350/9n4et-tkf55">https://doi.org/10.59350/9n4et-tkf55</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/</guid>
-  <pubDate>Sun, 20 Oct 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-10-21-Our-Contribution-to-Open-Acces-Week-2024/oaweek2024.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

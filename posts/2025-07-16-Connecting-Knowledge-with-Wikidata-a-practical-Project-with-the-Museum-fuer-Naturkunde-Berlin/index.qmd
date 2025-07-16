@@ -1,0 +1,71 @@
+---
+title: "Connecting Knowledge with Wikidata: A Practical Project with the Museum für Naturkunde Berlin"
+author:
+- name: Laura Rothfritz
+  url: http://hu.berlin/infomgnt
+  orcid: 0000-0001-7525-0635
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement
+- name: Stefanie Paß
+  url: https://www.museumfuernaturkunde.berlin/de/museum/heute/team/stefanie.pass
+  orcid: 0000-0002-8651-8120
+  affiliation: Museum für Naturkunde, Leibniz-Institut für Evolutions- und Biodiversitätsforschung
+  affiliation-url: https://www.museumfuernaturkunde.berlin/de
+- name: Sabine von Mering
+  url: https://www.museumfuernaturkunde.berlin/de/museum/heute/team/sabine.von-mering 
+  orcid: 0000-0003-2982-7792
+  affiliation: Museum für Naturkunde, Leibniz-Institut für Evolutions- und Biodiversitätsforschung
+  affiliation-url: https://www.museumfuernaturkunde.berlin/de
+- name: Clara Schindler
+  url: 
+  orcid: 0000-0003-0377-5840
+  affiliation: Museum für Naturkunde, Leibniz-Institut für Evolutions- und Biodiversitätsforschung
+  affiliation-url: https://www.museumfuernaturkunde.berlin/de
+- name: Heinz Pampel
+  url: http://hu.berlin/infomgnt
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement
+date: "2025-07-16"
+categories: [Lab Life, Teaching] 
+citation:
+  url: https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-A-Practical-Project-with-the-Museum-fuer-Naturkunde-Berlin 
+image: mfn_visit.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: references_wikidata.bib
+---
+
+How can scholarly publications be made more visible, discoverable, and interconnected? This question is the focus of a student practical project conducted as part of the seminar within the module Information Production and Management (BP3) in the summer semester 2025.
+
+In close collaboration with colleagues from the [Coordination Office for Scholarly Publishing at the Library](https://www.museumfuernaturkunde.berlin/de/forschung/bibliothek) as well as a research associate from the “Future of Collections” research area at the Museum für Naturkunde Berlin (MfN), the students are working on an exciting task: documenting scholarly journals in Wikidata from the fields of zoology, biodiversity research, and paleontology, including taxonomy and systematics of fossil organisms, enriching them with information, and linking them to each other.
+
+![](mfn_visit.jpg)
+
+As part of this semester’s “Übung”, students received an introduction to Linked Open Data, with a particular focus on Wikidata. Especially for library applications, Wikidata is an exciting project because authorities, publications, and collections can be linked together, creating new opportunities for discovery, contextualization, and visibility.
+
+The students worked with real datasets on the Museum für Naturkunde’s in-house journals [Zoosystematics and Evolution (ZSE)](https://zse.pensoft.net/), [Fossil Record (FR)](https://fr.pensoft.net/) and [Deutsche Entomologische Zeitschrift (DEZ)](https://dez.pensoft.net/). Among other tasks, their work involved reviewing existing Wikidata entries, adding missing information, and linking relevant metadata (for example ISSNs, publishers, publication periods) with authority records such as the [Biodiversity Heritage Library (BHL)](https://www.biodiversitylibrary.org/), the [Gemeinsame Normdatei (GND)](https://gnd.network/Webs/gnd/DE/Entdecken/entdecken_node.html), or the [Virtual International Authority File (VIAF)](https://viaf.org/de).
+
+The module at the Institute for Library and Information Science also included a visit to the Museum für Naturkunde, where students received a tour of the collections. This provided a hands-on introduction to working with real museum objects as part of their data-related assignments.
+
+The edit-a-thon, embedded in a university seminar, demonstrated impressively the potential of structured, machine-readable data for digital science communication. Through the targeted recording and interlinking of publication data in Wikidata, new possibilities emerge for analysis and visualization. Tools like [Scholia](https://scholia.toolforge.org/) already offer fascinating insights into topics such as “Top Topics through Time,” author networks, or gender ratios in science.
+
+Examples from Scholia for individual publication periods of the three journals:
+
+-   ZSE (2008–present): <https://scholia.toolforge.org/venue/Q15755646>
+
+-   FR (2008–present): <https://scholia.toolforge.org/venue/Q2455930>
+
+-   DEZ (1954–present): [https://scholia.toolforge.org/venue/Q4037265](https://scholia.toolforge.org/venue/Q403726)
+
+By systematically capturing article data from more than 160 years of publishing activity, a valuable resource is created for future research questions. Scholarly publications serve here as references and as data sources, but also as links to other entities such as groups of organisms, people, places, research expeditions, and collections (von Mering, 2024). The overarching goal is an open knowledge infrastructure for everyone, both researchers and the broader public. The Museum für Naturkunde Berlin will continue along this path with its own digitization initiatives and in collaboration with external partner projects.
+
+Further information: Post about Open Cultural Data in Wikimedia Germany’s blog: [Wie das Naturkundemuseum mit Linked Open Data unbekannte Forschende sichtbar macht](https://blog.wikimedia.de/2024/04/22/wie-das-naturkundemuseum-mit-linked-open-data-unbekannte-forschende-sichtbar-macht/)
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
+
+---
+nocite: |
+  @*
+---
