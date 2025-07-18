@@ -29,7 +29,7 @@ author:
 date: "2025-07-16"
 categories: [Lab Life, Teaching] 
 citation:
-  url: https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-A-Practical-Project-with-the-Museum-fuer-Naturkunde-Berlin 
+  url: https://doi.org/10.59350/hzjde-ss694
 image: mfn_visit.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: references_wikidata.bib

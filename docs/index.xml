@@ -10,7 +10,95 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 15 Jul 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 17 Jul 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>BUA fellowship: Metadata flows in the context of research data</title>
+  <dc:creator>Dorothea Strecker</dc:creator>
+  <link>https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/fellowship_program.jpg" class="img-fluid"></p>
+<p>In my PhD research, I investigate how metadata for research data are generated and maintained. I have started by analyzing how metadata records of the DOI registration agency DataCite change over time <span class="citation" data-cites="strecker_changes_2024 strecker_how_2024">(Strecker 2024a, 2024b)</span>. Recently, I was awarded a grant by the Berlin University Alliance (BUA) - through the <a href="https://www.berlin-university-alliance.de/en/commitments/research-quality/forschung/fellowship/index.html">BUA Fellowship Program of the Objective 3 - Advancing Research Quality and Value</a>. This grant will allow me to visit Stefanie Haustein, associate professor at the School of Information Studies at the University of Ottawa and co-director of the <a href="https://www.scholcommlab.ca">ScholCommLab</a>. During my stay, I will investigate metadata flows in the context of research data. In particular, I will examine the transfer of metadata from local to global contexts.</p>
+<section id="metadata-flows-in-the-context-of-research-data" class="level3">
+<h3 class="anchored" data-anchor-id="metadata-flows-in-the-context-of-research-data">Metadata flows in the context of research data</h3>
+<p>Research data are typically deposited in research data repositories - infrastructures that specialize in handling this resource type. Metadata describing the datasets are also generated and maintained at these infrastructures. Numerous standards - metadata schemas - are used to describe research data <span class="citation" data-cites="asok_common_2024 koshoffer_giving_2018">(Asok et al. 2024; Koshoffer et al. 2018)</span>. Even within a discipline, the use of metadata schemas is not uniform <span class="citation" data-cites="mayernik_role_2022">(Mayernik and Liapich 2022)</span>. This variance arises because research data repositories create metadata for different use cases. On the one hand, metadata are needed to describe research data in a general and homogeneous way - for example, to enable data discovery in large search services. On the other hand, researchers need subject-specific metadata in order to be able to make an informed decision about whether they want to reuse a dataset <span class="citation" data-cites="de_vries_flexible_2022 doran_reconciling_2021 sostek_discovering_2024">(De Vries et al. 2022; Doran, Edmond, and Nugent-Folan 2021; Sostek et al. 2024)</span>. In order to cover this range of requirements, many research data repositories use several metadata schemas in parallel, e.g.&nbsp;the general DataCite metadata schema for DOI registration and a specialized schema adressing the needs of local users <span class="citation" data-cites="habermann_connecting_2023 lee_landscape_2019 wu_analysis_2023">(Habermann 2023; Lee and Jeng 2019; Wu et al. 2023)</span>. In research data repositories, metadata are often initially generated based on a locally implemented, specific metadata schema. Metadata are then mapped to a general schema to meet global requirements such as DOI registration or harvesting <span class="citation" data-cites="habermann_connecting_2023">(Habermann 2023)</span>. During these mapping processes, however, information from the original comprehensive description can be lost <span class="citation" data-cites="radio_manifestations_2017 taylor_think_2022">(Radio et al. 2017; Taylor et al. 2022)</span>. As a result, metadata lose completeness when they are transferred from local to global contexts <span class="citation" data-cites="mayernik_role_2022">(Mayernik and Liapich 2022)</span>.</p>
+<p>During the fellowship, I will investigate metadata flows from research data repositories to DataCite. The aim is to determine whether information that is missing in DataCite metadata are also missing in local contexts or would be available but are not transmitted.</p>
+</section>
+<section id="why-this-matters" class="level3">
+<h3 class="anchored" data-anchor-id="why-this-matters">Why this matters</h3>
+<p>Complete metadata are necessary to convey the context of research data. This is relevant for many interactions with research data, including discovery, reuse and citation. Bibliometric research in particular is hindered by incomplete metadata, as is the development of metrics that are intended to reflect the impact of research data <span class="citation" data-cites="ninkov_datasets_2021">(Ninkov et al. 2021)</span>. This research will assess the potential of an approach to improve metadata quality - the optimization of mappings to the DataCite metadata schema.</p>
+<p>Further information about our research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-asok_common_2024" class="csl-entry">
+Asok, Kavya, Sushree Snigdha Dandpat, Dinesh K. Gupta, and Prashant Shrivastava. 2024. <span>“Common <span>Metadata</span> <span>Framework</span> for <span>Research</span> <span>Data</span> <span>Repository</span>: <span>Necessity</span> to <span>Support</span> <span>Open</span> <span>Science</span>.”</span> <em>Journal of Library Metadata</em> 24: 1–13. <a href="https://doi.org/10.1080/19386389.2024.2329370">https://doi.org/10.1080/19386389.2024.2329370</a>.
+</div>
+<div id="ref-de_vries_flexible_2022" class="csl-entry">
+De Vries, Jerry, Vyacheslav Tykhonov, Andrea Scharnhorst, Eko Indarto, Femmy Admiraal, and Mike Priddy. 2022. <span>“Flexible <span>Metadata</span> <span>Schemes</span> for <span>Research</span> <span>Data</span> <span>Repositories</span>.<span>The</span> <span>Common</span> <span>Framework</span> in <span>Dataverse</span> and the <span>CMDI</span> <span>Use</span> <span>Case</span>.”</span> In, 168–80. <a href="https://doi.org/10.3384/ecp18915">https://doi.org/10.3384/ecp18915</a>.
+</div>
+<div id="ref-doran_reconciling_2021" class="csl-entry">
+Doran, Michelle, Jennifer Edmond, and Georgina Nugent-Folan. 2021. <span>“Reconciling the <span>Cultural</span> <span>Complexity</span> of <span>Research</span> <span>Data</span>: <span>Can</span> We <span>Make</span> <span>Data</span> <span>Interdisciplinary</span> Without <span>Hiding</span> <span>Disciplinary</span> <span>Knowledge</span>.”</span> <a href="http://www.tara.tcd.ie/handle/2262/83156">http://www.tara.tcd.ie/handle/2262/83156</a>.
+</div>
+<div id="ref-habermann_connecting_2023" class="csl-entry">
+Habermann, Ted. 2023. <span>“Connecting <span>Repositories</span> to the <span>Global</span> <span>Research</span> <span>Community</span>: <span>A</span> <span>Re</span>-<span>Curation</span> <span>Process</span>.”</span> <em>Journal of eScience Librarianship</em> 12 (3): e739. <a href="https://doi.org/10.7191/jeslib.739">https://doi.org/10.7191/jeslib.739</a>.
+</div>
+<div id="ref-koshoffer_giving_2018" class="csl-entry">
+Koshoffer, Amy, Amy E. Neeser, Linda Newman, and Lisa R. Johnston. 2018. <span>“Giving <span>Datasets</span> <span>Context</span>: A <span>Comparison</span> <span>Study</span> of <span>Institutional</span> <span>Repositories</span> That <span>Apply</span> <span>Varying</span> <span>Degrees</span> of <span>Curation</span>.”</span> <em>International Journal of Digital Curation</em> 13 (1): 15–34. <a href="https://doi.org/10.2218/ijdc.v13i1.632">https://doi.org/10.2218/ijdc.v13i1.632</a>.
+</div>
+<div id="ref-lee_landscape_2019" class="csl-entry">
+Lee, Jian‐Sin, and Wei Jeng. 2019. <span>“The Landscape of Archived Studies in a Social Science Data Infrastructure: <span>Investigating</span> the <span>ICPSR</span> Metadata Records.”</span> <em>Proceedings of the Association for Information Science and Technology</em> 56 (1): 147–56. <a href="https://doi.org/10.1002/pra2.62">https://doi.org/10.1002/pra2.62</a>.
+</div>
+<div id="ref-mayernik_role_2022" class="csl-entry">
+Mayernik, Matthew S., and Yauheniya Liapich. 2022. <span>“The <span>Role</span> of <span>Metadata</span> and <span>Vocabulary</span> <span>Standards</span> in <span>Enabling</span> <span>Scientific</span> <span>Data</span> <span>Interoperability</span>: <span>A</span> <span>Study</span> of <span>Earth</span> <span>System</span> <span>Science</span> <span>Data</span> <span>Facilities</span>.”</span> <em>Journal of eScience Librarianship</em> 11 (2). <a href="https://doi.org/10.7191/jeslib.619">https://doi.org/10.7191/jeslib.619</a>.
+</div>
+<div id="ref-ninkov_datasets_2021" class="csl-entry">
+Ninkov, Anton Boudreau, Kathleen Gregory, Isabella Peters, and Stefanie Haustein. 2021. <span>“Datasets on <span>DataCite</span> - an <span>Initial</span> <span>Bibliometric</span> <span>Investigation</span>.”</span> In. Leuven, Belgium (Virtual). <a href="https://doi.org/10.5281/zenodo.4730857">https://doi.org/10.5281/zenodo.4730857</a>.
+</div>
+<div id="ref-radio_manifestations_2017" class="csl-entry">
+Radio, Erik, Fernando Rios, Jeffrey C. Oliver, Benjamin Hickson, and Niamh Wallace. 2017. <span>“Manifestations of <span>Metadata</span> <span>Structures</span> in <span>Research</span> <span>Datasets</span> and <span>Their</span> <span>Ontic</span> <span>Implications</span>.”</span> <em>Journal of Library Metadata</em> 17 (3-4): 161–82. <a href="https://doi.org/10.1080/19386389.2018.1439278">https://doi.org/10.1080/19386389.2018.1439278</a>.
+</div>
+<div id="ref-sostek_discovering_2024" class="csl-entry">
+Sostek, Katrina, Daniel Russell, Nitesh Goyal, Tarfah Alrashed, Stella Dugall, and Natasha Noy. 2024. <span>“Discovering <span>Datasets</span> on the <span>Web</span> <span>Scale</span>: <span>Challenges</span> and <span>Recommendations</span> for <span>Google</span> <span>Dataset</span> <span>Search</span>.”</span> <em>Harvard Data Science Review</em> Special Issue 4. <a href="https://doi.org/10.1162/99608f92.4c3e11ca">https://doi.org/10.1162/99608f92.4c3e11ca</a>.
+</div>
+<div id="ref-strecker_changes_2024" class="csl-entry">
+Strecker, Dorothea. 2024a. <span>“Changes in <span>DataCite</span> <span>DOI</span> Metadata for Research Data.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.14274240">https://doi.org/10.5281/zenodo.14274240</a>.
+</div>
+<div id="ref-strecker_how_2024" class="csl-entry">
+———. 2024b. <span>“How Permanent Are Metadata for Research Data? <span>Understanding</span> Changes in <span>DataCite</span> <span>DOI</span> Metadata.”</span> arXiv. <a href="https://doi.org/10.48550/arxiv.2412.05128">https://doi.org/10.48550/arxiv.2412.05128</a>.
+</div>
+<div id="ref-taylor_think_2022" class="csl-entry">
+Taylor, Shawna, Sarah Wright, Mikala R. Narlock, and Ted Habermann. 2022. <span>“Think <span>Globally</span>, <span>Act</span> <span>Locally</span>: <span>The</span> <span>Importance</span> of <span>Elevating</span> <span>Data</span> <span>Repository</span> <span>Metadata</span> to the <span>Global</span> <span>Infrastructure</span>.”</span> In. <a href="https://hdl.handle.net/11299/228001">https://hdl.handle.net/11299/228001</a>.
+</div>
+<div id="ref-wu_analysis_2023" class="csl-entry">
+Wu, Mingfang, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, and Nick Juty. 2023. <span>“An <span>Analysis</span> of <span>Crosswalks</span> from <span>Research</span> <span>Data</span> <span>Schemas</span> to <span>Schema</span>.org.”</span> <em>Data Intelligence</em> 5 (1): 100–121. <a href="https://doi.org/10.1162/dint_a_00186">https://doi.org/10.1162/dint_a_00186</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
+  author = {Strecker, Dorothea},
+  title = {BUA Fellowship: {Metadata} Flows in the Context of Research
+    Data},
+  date = {2025-07-18},
+  url = {https://infomgnt.org/posts/2025-07-18-Bua-Fellowship-Metadata-flows-in-the-context-of-research-data/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-strecker2025" class="csl-entry quarto-appendix-citeas">
+Strecker, Dorothea. 2025. <span>“BUA Fellowship: Metadata Flows in the
+Context of Research Data .”</span> July 18, 2025. <a href="https://infomgnt.org/posts/2025-07-18-Bua-Fellowship-Metadata-flows-in-the-context-of-research-data/">https://infomgnt.org/posts/2025-07-18-Bua-Fellowship-Metadata-flows-in-the-context-of-research-data/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/</guid>
+  <pubDate>Thu, 17 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/fellowship_program.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Connecting Knowledge with Wikidata: A Practical Project with the Museum für Naturkunde Berlin</title>
   <dc:creator>Laura Rothfritz</dc:creator>
@@ -56,14 +144,14 @@ von Mering, Sabine, Erik Stolze, Katja Kaiser, and Mareike Petersen. 2024. <span
   title = {Connecting {Knowledge} with {Wikidata:} {A} {Practical}
     {Project} with the {Museum} Für {Naturkunde} {Berlin}},
   date = {2025-07-16},
-  url = {https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-A-Practical-Project-with-the-Museum-fuer-Naturkunde-Berlin},
+  url = {https://doi.org/10.59350/hzjde-ss694},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-rothfritz2025" class="csl-entry quarto-appendix-citeas">
 Rothfritz, Laura, Stefanie Paß, Sabine von Mering, Clara Schindler, and
 Heinz Pampel. 2025. <span>“Connecting Knowledge with Wikidata: A
 Practical Project with the Museum Für Naturkunde Berlin.”</span> July
-16, 2025. <a href="https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-A-Practical-Project-with-the-Museum-fuer-Naturkunde-Berlin">https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-A-Practical-Project-with-the-Museum-fuer-Naturkunde-Berlin</a>.
+16, 2025. <a href="https://doi.org/10.59350/hzjde-ss694">https://doi.org/10.59350/hzjde-ss694</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Teaching</category>
@@ -1312,59 +1400,6 @@ Agreements.”</span> November 18, 2024. <a href="https://doi.org/10.59350/fe9s4
   <guid>https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/</guid>
   <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/screenshot.png" medium="image" type="image/png" height="107" width="144"/>
-</item>
-<item>
-  <title>Interview on Deutschlandfunk about the Wayback Machine of the Internet Archive</title>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I recently had the opportunity to speak on <a href="https://www.deutschlandfunk.de/computer-und-kommunikation-9-11-2024-komplette-sendung-dlf-3c985bf4-100.html">Deutschlandfunk</a> about the Wayback Machine from the Internet Archive. The occasion was the recent cyberattack on the Internet Archive <span class="citation" data-cites="schraer_cyber_2023">(Schräer 2023)</span>. The Wayback Machine plays a crucial role in preserving websites and providing access to our digital past—for researchers, journalists, and the interested public alike.</p>
-<p>The preservation of other types of digital information is also important, for example the data researchers base their findings on. Together with colleagues, our team at the Berlin School of Library and Information Science at Humboldt-Universität zu Berlin, examined the ongoing operation of research data repositories. These repositories are of great importance to the scientific community, as they preserve data and facilitate data exchange among researchers. In our sample of 3,000 research data repositories, we found last year that repository shutdowns are not uncommon: 6% of the repositories we examined were no longer online at the time of our study <span class="citation" data-cites="strecker_disappearing_2023">(Strecker et al. 2023)</span>.</p>
-<p><img src="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/wayback-machine.jpeg" class="img-fluid"></p>
-<p>These findings, and the recent incident threatening the Wayback Machine, show that maintaining our digital heritage requires robust information infrastructures. Information Science research can contribute towards this goal by investigating threats to the availability of information resources.</p>
-<p>As part of the <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> project funded by the German Research Foundation (DFG), we are currently working on assessing and ensuring the permanent accessibility of scholarly blogs <span class="citation" data-cites="pampel_kooperative_2024 ochsner_infra_2024">(Pampel and Rothfritz 2024; Ochsner 2024)</span>.</p>
-<p>Another part of the <a href="https://www.deutschlandfunk.de/computer-und-kommunikation-9-11-2024-komplette-sendung-dlf-3c985bf4-100.html">Deutschlandfunk program</a> discusses the current copyright proceedings surrounding the Internet Archive. Enjoy listening!</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-ochsner_infra_2024" class="csl-entry">
-Ochsner, Catharina. 2024. <span>“Infra <span>Wiss</span> <span>Blogs</span>: <span>Projektvorstellung</span>.”</span> Berlin. <a href="https://doi.org/10.5281/zenodo.12799719">https://doi.org/10.5281/zenodo.12799719</a>.
-</div>
-<div id="ref-pampel_kooperative_2024" class="csl-entry">
-Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative <span>Informationsinfrastruktur</span> Für Wissenschaftliche <span>Blogs</span> (<span>Infra</span> <span>Wiss</span> <span>Blogs</span>),”</span> August. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
-</div>
-<div id="ref-schraer_cyber_2023" class="csl-entry">
-Schräer, Frank. 2023. <span>“Cyber Attack on <span>Internet</span> <span>Archive</span> Apparently Carried Out by <span>Russian</span> Hackers <span></span> Heise Online.”</span> <em>Heise.de</em>, October. <a href="https://www.heise.de/en/news/Cyber-attack-on-Internet-Archive-apparently-carried-out-by-Russian-hackers-9983840.html">https://www.heise.de/en/news/Cyber-attack-on-Internet-Archive-apparently-carried-out-by-Russian-hackers-9983840.html</a>.
-</div>
-<div id="ref-strecker_disappearing_2023" class="csl-entry">
-Strecker, Dorothea, Heinz Pampel, Rouven Schabinger, and Nina Leonie Weisweiler. 2023. <span>“Disappearing Repositories: <span>Taking</span> an Infrastructure Perspective on the Long-Term Availability of Research Data.”</span> <em>Quantitative Science Studies</em> 4 (4): 1–18. <a href="https://doi.org/10.1162/qss_a_00277">https://doi.org/10.1162/qss_a_00277</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
-  author = {Pampel, Heinz},
-  title = {Interview on {Deutschlandfunk} about the {Wayback} {Machine}
-    of the {Internet} {Archive}},
-  date = {2024-11-17},
-  url = {https://doi.org/10.59350/b8n21-pda75},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz. 2024. <span>“Interview on Deutschlandfunk about the
-Wayback Machine of the Internet Archive.”</span> November 17, 2024. <a href="https://doi.org/10.59350/b8n21-pda75">https://doi.org/10.59350/b8n21-pda75</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/</guid>
-  <pubDate>Sat, 16 Nov 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-11-18-Interview-on-Deutschlandfunk-about-the-Wayback-Machine-of-the-Internet-Archive/wayback-machine.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
