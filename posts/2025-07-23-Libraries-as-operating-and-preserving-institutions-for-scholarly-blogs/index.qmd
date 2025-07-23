@@ -1,0 +1,112 @@
+---
+title: 'Libraries as operating and preserving institutions for scholarly blogs: Report on a Hands-on Lab at the 113th Bibliocon'
+author:
+- name: Heinz Pampel
+  url: https://infomgnt.org/team/pampel
+  orcid: 0000-0003-3334-2771
+  affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
+  affiliation-url: https://www.hu-berlin.de
+- name: Till Stadtbäumer
+  url: https://verfassungsblog.de/author/till-stadtbaeumer/
+  orcid: 0009-0003-9980-3945
+  affiliation: Verfassungsblog, Berlin
+  affiliation-url: https://verfassungsblog.de
+- name: Martin Fenner
+  url: https://front-matter.io/about
+  orcid: https://orcid.org/0000-0003-1419-2405 
+  affiliation: Front Matter, Münster
+  affiliation-url: https://front-matter.io
+- name: Sven Ködel
+  orcid: 0000-0002-7911-6887
+  affiliation: German Historical Institute Paris / Max Weber Foundation
+  affiliation-url: https://www.maxweberstiftung.de
+- name: Charmaine Voigt
+  url: https://www.gesis.org/personen/charmaine-voigt
+  orcid: 
+  affiliation: GESIS – Leibniz Institute for Social Sciences, Köln
+  affiliation-url: https://www.gesis.org
+- name: Britta Woldering
+  orcid: 0000-0002-9718-0698
+  affiliation: German National Library, Frankfurt am Main
+  affiliation-url: https://www.dnb.de
+- name: Catharina Ochsner
+  url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  orcid: 0000-0003-1226-760X
+  affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
+  affiliation-url: https://www.hu-berlin.de
+- name: Jonas Höfting
+  url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  orcid: 0009-0003-4466-1775
+  affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
+  affiliation-url: https://www.ibi.hu-berlin.de/
+- name: Christopher Onzie Khamis
+  url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  orcid: 0009-0003-0654-2839
+  affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
+  affiliation-url: https://www.ibi.hu-berlin.de/
+date: "2025-07-23"
+categories: [Lab Life, Research]
+citation:
+  url: https://infomgnt.org/posts/2025-07-23-hands-on-lab-wissenschaftsblogs/
+image: IMG_3511.jpg
+draft: false
+bibliography: references_bid.bib
+---
+
+![](IMG_3511.jpg)
+
+Scholarly blogs have established themselves as important platforms for making research findings and discourse accessible both within scientific communities and to the general public. Considering the changing social media landscape, the role of non-commercial infrastructures such as blogs or the Fediverse is becoming increasingly important. Blogs can also be seen as part of scholarly-led open access publishing [@ochsner2025].
+
+The long-term accessibility of blogs, especially outside of infrastructures such as [de.hypotheses.org](https://de.hypotheses.org/), is a challenge that has not yet been solved. Archiving dynamic content and comments is a technical and organisational challenge, especially when such content is cited in scientific articles or even court rulings (such as in the [Verfassungsblog](https://verfassungsblog.de)). The hacker attacks on the [Internet Archive](https://archive.org/) in the fall of 2024 furthermore underline the general fragility of digital sources [@ochsner2025].
+
+As part of the [BID Congress 2025](https://bid-kongress2025.de/), the Hands-on Lab ‘Libraries as Operating and Preserving Institutions for Scholarly Blogs’ took place on 26 June in Bremen. The lab was initiated by the project ‘Infra Wiss Blogs – Kooperative Informationsinfrastruktur für wissenschaftliche Blogs‘ funded by the German Research Foundation (DFG) [@ochsner2025, @pampel2024].
+
+The aim of the Hands-on Lab was to bring together experts from the scholarly blogosphere and libraries to discuss the challenges and potential of scholarly blogs with regard to visibility, indexing and long-term accessibility. Using the World Café method, the participants discussed aspects such as technology, organisation and framework conditions for the sustainable safeguarding and visibility of scholarly blogs in moderated discussion rounds, with a particular focus on the role of libraries as potential supporting institutions [@ochsner2025].
+
+### These 1: Metadaten und Licenses
+
+The first thesis was: ‘For the long-term archiving of their publications, scholarly blogs must carry out the necessary preparatory work, such as maintaining metadata and issuing (open) licences.’
+
+The discussion showed that there is often a lack of awareness of these requirements in the blog community. Although blogs are valued as a low-threshold form of communication, it is precisely this low-threshold nature that is in tension with requirements such as metadata maintenance, licensing and technical standardisation.
+
+According to the discussion, the responsibility lies with the blogs or authors - for example with regard to clear licence declarations, clarification of copyright issues (e.g. for embedded images) or the uniform use of CSS classes to support automated import processes. In this context, infrastructure providers, such as libraries, are responsible for providing technical solutions such as plugins to import blog posts into their information systems, as well as providing low-threshold information services.
+
+The extent to which nudging strategies could help to establish more sustainable practices was also discussed. The promotion of open licences was highlighted as a particularly relevant field of action in order to overcome legal challenges in subsequent use, for example in the context of archiving.
+
+### These 2: Cataloguing
+
+The second thesis focused on the cataloguing of scholarly blogs: ‘The cataloguing of scholarly blogs presents libraries with new challenges, as they can only be catalogued to a limited extent using traditional cataloguing criteria.’
+
+The discussion focused on how deeply blogs should be catalogued. The variety of formats - from individual posts and comments to multimedia content - as well as the often multiple authorship lead to uncertainties in library practice.
+
+Technical aspects such as different platforms, software architectures or feed maintenance also make standardisation difficult. The possible use of web scraping or aggregators such as [Rogue Scholar](https://rogue-scholar.org) was discussed. The debate was supplemented by considerations on the sustainability of file formats (e.g. PDF-A, HTML), legal categorisation and liability for international content. One thing became clear: A more systematic approach to librarian fields of action in dealing with blogs is needed.
+
+### These 3: Responsibility and Infrastructure Institutions
+
+The third thesis to be discussed was: "The long-term archiving of scholarly blogs must no longer be treated as a secondary task of public institutions. If necessary, this task must be secured by community-supported platforms."
+
+This statement was met with broad approval. The focus was on the question of which community can take on this role. Examples from practice showed the commitment of regional depository libraries or specialised information services (FIDs). Several participants reported on ongoing initiatives in their institutions.
+
+Web archiving services and federated models such as [ActivityPub](https://www.w3.org/TR/activitypub/) were discussed as technical solutions. There was consensus that there is a need for better mapping of existing actors, activities and data flows at the infrastructure level.
+
+### Concluding discussion
+
+In the final discussion, the question of how a sustainable, community-supported archiving of scholarly blogs could be designed was discussed: centralised through a new software solution or decentralised through stronger integration of existing institutions?
+
+There was a consensus that cooperative models are needed in which different actors take on different roles, for example in metadata management, storage or visibility. A systematic approach was proposed: who is already active, what infrastructures exist and how can a cooperative system be formed from them?
+
+The potential of web archiving was emphasised, especially in combination with targeted metadata extraction. The idea of parallel archiving, by the DNB, discipline-specific FIDs or institutional repositories, met with broad approval.
+
+[Rogue Scholar](https://rogue-scholar.org) was highlighted as an example of good practice. However, it also became clear that there is still considerable room for improvement in ensuring data flows, e.g. for linking archiving, cataloguing and referencing.
+
+Another topic was the role of scholarly blogs in the reputation system. Some called for blogs to be made more visible and integrated into recognition mechanisms for research evaluation. Others emphasised the independence of blogs, analogous to preprints, but without identical rules.
+
+This led to the central question of definition: When is a blog considered scientific enough? The Infra Wiss Blogs project applies a broad definition: Scholarly blogs can be understood as those blogs that are written by scholars or are concerned with scholarly topics. The participants also favoured an orientation towards relevance rather than formal scientificity.
+
+### Conclusion
+
+In the Hands-on Lab, there was overwhelming support for a distributed system with various technical and organisational solutions, supported by a committed, interdisciplinary community that takes responsibility for the maintenance and visibility of scholarly blogs.
+
+Further information about the research group can be found on our [official Website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

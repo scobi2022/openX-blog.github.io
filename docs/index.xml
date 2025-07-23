@@ -10,7 +10,99 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Thu, 17 Jul 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Jul 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Libraries as operating and preserving institutions for scholarly blogs: Report on a Hands-on Lab at the 113th Bibliocon</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Till Stadtbäumer</dc:creator>
+  <dc:creator>Martin Fenner</dc:creator>
+  <dc:creator>Sven Ködel</dc:creator>
+  <dc:creator>Charmaine Voigt</dc:creator>
+  <dc:creator>Britta Woldering</dc:creator>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Jonas Höfting</dc:creator>
+  <dc:creator>Christopher Onzie Khamis</dc:creator>
+  <link>https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/IMG_3511.jpg" class="img-fluid"></p>
+<p>Scholarly blogs have established themselves as important platforms for making research findings and discourse accessible both within scientific communities and to the general public. Considering the changing social media landscape, the role of non-commercial infrastructures such as blogs or the Fediverse is becoming increasingly important. Blogs can also be seen as part of scholarly-led open access publishing <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>.</p>
+<p>The long-term accessibility of blogs, especially outside of infrastructures such as <a href="https://de.hypotheses.org/">de.hypotheses.org</a>, is a challenge that has not yet been solved. Archiving dynamic content and comments is a technical and organisational challenge, especially when such content is cited in scientific articles or even court rulings (such as in the <a href="https://verfassungsblog.de">Verfassungsblog</a>). The hacker attacks on the <a href="https://archive.org/">Internet Archive</a> in the fall of 2024 furthermore underline the general fragility of digital sources <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>.</p>
+<p>As part of the <a href="https://bid-kongress2025.de/">BID Congress 2025</a>, the Hands-on Lab ‘Libraries as Operating and Preserving Institutions for Scholarly Blogs’ took place on 26 June in Bremen. The lab was initiated by the project ’Infra Wiss Blogs – Kooperative Informationsinfrastruktur für wissenschaftliche Blogs‘ funded by the German Research Foundation (DFG) <span class="citation" data-cites="ochsner2025">Pampel and Rothfritz (2024)</span>.</p>
+<p>The aim of the Hands-on Lab was to bring together experts from the scholarly blogosphere and libraries to discuss the challenges and potential of scholarly blogs with regard to visibility, indexing and long-term accessibility. Using the World Café method, the participants discussed aspects such as technology, organisation and framework conditions for the sustainable safeguarding and visibility of scholarly blogs in moderated discussion rounds, with a particular focus on the role of libraries as potential supporting institutions <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>.</p>
+<section id="these-1-metadaten-und-licenses" class="level3">
+<h3 class="anchored" data-anchor-id="these-1-metadaten-und-licenses">These 1: Metadaten und Licenses</h3>
+<p>The first thesis was: ‘For the long-term archiving of their publications, scholarly blogs must carry out the necessary preparatory work, such as maintaining metadata and issuing (open) licences.’</p>
+<p>The discussion showed that there is often a lack of awareness of these requirements in the blog community. Although blogs are valued as a low-threshold form of communication, it is precisely this low-threshold nature that is in tension with requirements such as metadata maintenance, licensing and technical standardisation.</p>
+<p>According to the discussion, the responsibility lies with the blogs or authors - for example with regard to clear licence declarations, clarification of copyright issues (e.g.&nbsp;for embedded images) or the uniform use of CSS classes to support automated import processes. In this context, infrastructure providers, such as libraries, are responsible for providing technical solutions such as plugins to import blog posts into their information systems, as well as providing low-threshold information services.</p>
+<p>The extent to which nudging strategies could help to establish more sustainable practices was also discussed. The promotion of open licences was highlighted as a particularly relevant field of action in order to overcome legal challenges in subsequent use, for example in the context of archiving.</p>
+</section>
+<section id="these-2-cataloguing" class="level3">
+<h3 class="anchored" data-anchor-id="these-2-cataloguing">These 2: Cataloguing</h3>
+<p>The second thesis focused on the cataloguing of scholarly blogs: ‘The cataloguing of scholarly blogs presents libraries with new challenges, as they can only be catalogued to a limited extent using traditional cataloguing criteria.’</p>
+<p>The discussion focused on how deeply blogs should be catalogued. The variety of formats - from individual posts and comments to multimedia content - as well as the often multiple authorship lead to uncertainties in library practice.</p>
+<p>Technical aspects such as different platforms, software architectures or feed maintenance also make standardisation difficult. The possible use of web scraping or aggregators such as <a href="https://rogue-scholar.org">Rogue Scholar</a> was discussed. The debate was supplemented by considerations on the sustainability of file formats (e.g.&nbsp;PDF-A, HTML), legal categorisation and liability for international content. One thing became clear: A more systematic approach to librarian fields of action in dealing with blogs is needed.</p>
+</section>
+<section id="these-3-responsibility-and-infrastructure-institutions" class="level3">
+<h3 class="anchored" data-anchor-id="these-3-responsibility-and-infrastructure-institutions">These 3: Responsibility and Infrastructure Institutions</h3>
+<p>The third thesis to be discussed was: “The long-term archiving of scholarly blogs must no longer be treated as a secondary task of public institutions. If necessary, this task must be secured by community-supported platforms.”</p>
+<p>This statement was met with broad approval. The focus was on the question of which community can take on this role. Examples from practice showed the commitment of regional depository libraries or specialised information services (FIDs). Several participants reported on ongoing initiatives in their institutions.</p>
+<p>Web archiving services and federated models such as <a href="https://www.w3.org/TR/activitypub/">ActivityPub</a> were discussed as technical solutions. There was consensus that there is a need for better mapping of existing actors, activities and data flows at the infrastructure level.</p>
+</section>
+<section id="concluding-discussion" class="level3">
+<h3 class="anchored" data-anchor-id="concluding-discussion">Concluding discussion</h3>
+<p>In the final discussion, the question of how a sustainable, community-supported archiving of scholarly blogs could be designed was discussed: centralised through a new software solution or decentralised through stronger integration of existing institutions?</p>
+<p>There was a consensus that cooperative models are needed in which different actors take on different roles, for example in metadata management, storage or visibility. A systematic approach was proposed: who is already active, what infrastructures exist and how can a cooperative system be formed from them?</p>
+<p>The potential of web archiving was emphasised, especially in combination with targeted metadata extraction. The idea of parallel archiving, by the DNB, discipline-specific FIDs or institutional repositories, met with broad approval.</p>
+<p><a href="https://rogue-scholar.org">Rogue Scholar</a> was highlighted as an example of good practice. However, it also became clear that there is still considerable room for improvement in ensuring data flows, e.g.&nbsp;for linking archiving, cataloguing and referencing.</p>
+<p>Another topic was the role of scholarly blogs in the reputation system. Some called for blogs to be made more visible and integrated into recognition mechanisms for research evaluation. Others emphasised the independence of blogs, analogous to preprints, but without identical rules.</p>
+<p>This led to the central question of definition: When is a blog considered scientific enough? The Infra Wiss Blogs project applies a broad definition: Scholarly blogs can be understood as those blogs that are written by scholars or are concerned with scholarly topics. The participants also favoured an orientation towards relevance rather than formal scientificity.</p>
+</section>
+<section id="conclusion" class="level3">
+<h3 class="anchored" data-anchor-id="conclusion">Conclusion</h3>
+<p>In the Hands-on Lab, there was overwhelming support for a distributed system with various technical and organisational solutions, supported by a committed, interdisciplinary community that takes responsibility for the maintenance and visibility of scholarly blogs.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official Website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-ochsner2025" class="csl-entry">
+Ochsner, Catharina, Elena Di Rosa, Martin Fenner, Sven Ködel, Heinz Pampel, Britta Woldering, Till Stadtbäumer, Charmaine Voigt, and Jonas Höfting. 2025. <span>“Bibliotheken Als Betreibende Und Bewahrende Institutionen Für Wissenschaftliche Blogs.”</span> In. <a href="https://nbn-resolving.org/urn:nbn:de:0290-opus4-194690">https://nbn-resolving.org/urn:nbn:de:0290-opus4-194690</a>.
+</div>
+<div id="ref-pampel2024" class="csl-entry">
+Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative Informationsinfrastruktur Für Wissenschaftliche Blogs (Infra Wiss Blogs).”</span> <em>Zenodo</em>, August. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+  author = {Pampel, Heinz and Stadtbäumer, Till and Fenner, Martin and
+    Ködel, Sven and Voigt, Charmaine and Woldering, Britta and Ochsner,
+    Catharina and Höfting, Jonas and Onzie Khamis, Christopher},
+  title = {Libraries as Operating and Preserving Institutions for
+    Scholarly Blogs: {Report} on a {Hands-on} {Lab} at the 113th
+    {Bibliocon}},
+  date = {2025-07-23},
+  url = {https://infomgnt.org/posts/2025-07-23-hands-on-lab-wissenschaftsblogs/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2025" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz, Till Stadtbäumer, Martin Fenner, Sven Ködel, Charmaine
+Voigt, Britta Woldering, Catharina Ochsner, Jonas Höfting, and
+Christopher Onzie Khamis. 2025. <span>“Libraries as Operating and
+Preserving Institutions for Scholarly Blogs: Report on a Hands-on Lab at
+the 113th Bibliocon.”</span> July 23, 2025. <a href="https://infomgnt.org/posts/2025-07-23-hands-on-lab-wissenschaftsblogs/">https://infomgnt.org/posts/2025-07-23-hands-on-lab-wissenschaftsblogs/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/</guid>
+  <pubDate>Tue, 22 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/IMG_3511.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>BUA fellowship: Metadata flows in the context of research data</title>
   <dc:creator>Dorothea Strecker</dc:creator>
@@ -86,12 +178,12 @@ Wu, Mingfang, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste 
   title = {BUA Fellowship: {Metadata} Flows in the Context of Research
     Data},
   date = {2025-07-18},
-  url = {https://infomgnt.org/posts/2025-07-18-Bua-Fellowship-Metadata-flows-in-the-context-of-research-data/},
+  url = {https://doi.org/10.59350/wwwj7-4cm07},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-strecker2025" class="csl-entry quarto-appendix-citeas">
 Strecker, Dorothea. 2025. <span>“BUA Fellowship: Metadata Flows in the
-Context of Research Data .”</span> July 18, 2025. <a href="https://infomgnt.org/posts/2025-07-18-Bua-Fellowship-Metadata-flows-in-the-context-of-research-data/">https://infomgnt.org/posts/2025-07-18-Bua-Fellowship-Metadata-flows-in-the-context-of-research-data/</a>.
+Context of Research Data .”</span> July 18, 2025. <a href="https://doi.org/10.59350/wwwj7-4cm07">https://doi.org/10.59350/wwwj7-4cm07</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
@@ -1329,77 +1421,6 @@ Zu Berlin for Our Team!”</span> December 4, 2024. <a href="https://doi.org/10.
   <guid>https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/</guid>
   <pubDate>Tue, 03 Dec 2024 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/Open_Access_Award.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>New preprint on Transformative Agreements</title>
-  <dc:creator>Laura Rothfritz</dc:creator>
-  <link>https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>In recent years, <a href="https://esac-initiative.org/about/transformative-agreements/">transformative agreements</a> (TAs) have become a go-to strategy for publishers and research performing organizations aiming to open up access to research <span class="citation" data-cites="farleyTransformativeAgreementsSix2021">(Farley et al. 2021)</span>. These agreements promise to bridge traditional subscription-based journal models to an Open Access (OA) future <span class="citation" data-cites="borregoTransformativeAgreementsThey2021">(Borrego, Anglada, and Abadal 2021)</span>. But are they delivering on that promise? In this new pre-print, my colleagues <a href="https://sites.google.com/view/wbschmal">W. Benedikt Schmal</a>, <a href="https://pulse49.com/about-ulrich-herb/">Ulrich Herb</a> and I did a thorough analysis of 1,075 TAs in order to get the most complete picture possible with the available data.</p>
-<p>Rothfritz, L., Schmal, W. B., &amp; Herb, U. (2024). Trapped in Transformative Agreements? A Multifaceted Analysis of &gt;1,000 Contracts. arXiv. <a href="https://doi.org/10.48550/ARXIV.2409.20224" class="uri">https://doi.org/10.48550/ARXIV.2409.20224</a></p>
-<section id="what-we-did-a-blend-of-data-crunching-and-thematic-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="what-we-did-a-blend-of-data-crunching-and-thematic-analysis">What We Did: A Blend of Data Crunching and Thematic Analysis</h3>
-<p>To understand TAs better, we gathered data from a unique source: the <a href="https://esac-initiative.org/">ESAC Initiative</a>, which tracks over 1,000 transformative agreements. This data, alongside additional contract details we scraped, allowed us to go beyond basic summaries. We analyzed both numbers and narratives, mixing quantitative approaches like regression analysis with qualitative coding of free-text answers collected by ESAC through their <a href="https://esac-initiative.org/about/transformative-agreements/share/">registry form</a>. This dual approach helped us capture not only the frequency and size of agreements but also the subjective experiences libraries shared.</p>
-</section>
-<section id="key-findings-are-libraries-trapped" class="level3">
-<h3 class="anchored" data-anchor-id="key-findings-are-libraries-trapped">Key Findings: Are Libraries Trapped?</h3>
-<p>One of our core findings is that TAs may not just be a stepping stone toward full OA but could be trapping libraries in hybrid models indefinitely. Here’s what stood out:</p>
-<ol type="1">
-<li><p>Dominance of Big Publishers: We found that a small number of publishers, mainly Elsevier, Springer Nature, and Wiley, dominate these agreements. These “Big 3” often secure longer contracts with more favorable terms for themselves, locking libraries into longer commitments and substantial costs.</p></li>
-<li><p>Rising Costs, Limited Flexibility: While TAs have led to more OA articles, they don’t always reduce costs for libraries. In fact, we discovered that the larger the initial TA contract, the more likely it is to be renewed, creating a cycle of dependency. Libraries often face increased administrative burdens and costs without the savings they expected.</p></li>
-<li><p>Capped vs.&nbsp;Uncapped Contracts: Contracts come in two flavors—capped (with a limit on the number of OA articles) and uncapped. Uncapped contracts are generally preferred, as they reduce the risk of libraries exceeding their article limit and facing additional charges. However, even uncapped contracts often exclude fully OA journals, limiting the growth of the OA movement.</p></li>
-<li><p>Workflow Wins and Woes: One bright spot is that many libraries reported improvements in their workflows under TAs, especially where automated tools like CCC RightsLink and others and real-time dashboards were used. Yet, issues remain—many libraries still struggle with complex, manual workflows and limited monitoring capabilities.</p></li>
-<li><p>Mixed Feelings on Sustainability: Libraries are split on the sustainability of TAs. While some view them as a positive, affordable transition tool, others worry about long-term financial strain, especially as publishers maintain their market power and high fees.</p></li>
-</ol>
-</section>
-<section id="final-thoughts-a-double-edged-sword" class="level3">
-<h3 class="anchored" data-anchor-id="final-thoughts-a-double-edged-sword">Final Thoughts: A Double-Edged Sword?</h3>
-<p>Our analysis suggests that while TAs have increased the number of OA articles, they might also be cementing the dominance of large publishers and creating financial traps for libraries. Rather than acting as a bridge to a fully OA landscape, TAs may become a permanent fixture, with academic institutions continually caught in a cycle of payments and negotiations <span class="citation" data-cites="fenterItNotTransformation2022 jahnHowOpenAre2024 schmalHowTransformativeAre2024">(Fenter 2022; Jahn 2024; Schmal 2024)</span>.</p>
-<p>It will be interesting to see how the scientific community and libraries, in their negotiations with publishers, achieve progress in contract development and how these will fit into the future Open Access mix, including strategies for community-led publishing. A particularly noteworthy case is Sweden, where the Bibsam Consortium <a href="https://www.su.se/english/news/open-access-need-to-move-away-from-transformative-agreements-1.683787">recommends to no longer sign any TAs for hybrid journals</a>.</p>
-<p>Replication code, scripts, and data used for this study are publicly available on Zenodo: <a href="https://zenodo.org/doi/10.5281/zenodo.13453629" class="uri">https://zenodo.org/doi/10.5281/zenodo.13453629</a>.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-borregoTransformativeAgreementsThey2021" class="csl-entry">
-Borrego, Ángel, Lluís Anglada, and Ernest Abadal. 2021. <span>“Transformative Agreements: <span>Do</span> They Pave the Way to Open Access?”</span> <em>Learned Publishing</em> 34 (2): 216–32. <a href="https://doi.org/10.1002/leap.1347">https://doi.org/10.1002/leap.1347</a>.
-</div>
-<div id="ref-farleyTransformativeAgreementsSix2021" class="csl-entry">
-Farley, Ashley, Allison Langham-Putrow, Elisabeth Shook, Leila Belle Sterman, and Megan Wacha. 2021. <span>“Transformative Agreements: <span>Six</span> Myths, Busted.”</span> <em>College &amp; Research Libraries News</em>, July. <a href="https://doi.org/10.5860/crln.82.7.298">https://doi.org/10.5860/crln.82.7.298</a>.
-</div>
-<div id="ref-fenterItNotTransformation2022" class="csl-entry">
-Fenter, Frederick. 2022. <span>“It Is Not Transformation If Nothing Changes.”</span> Frontiers.
-</div>
-<div id="ref-jahnHowOpenAre2024" class="csl-entry">
-Jahn, Najko. 2024. <span>“How Open Are Hybrid Journals Included in Transformative Agreements?”</span> arXiv. <a href="https://doi.org/10.48550/arXiv.2402.18255">https://doi.org/10.48550/arXiv.2402.18255</a>.
-</div>
-<div id="ref-schmalHowTransformativeAre2024" class="csl-entry">
-Schmal, W. Benedikt. 2024. <span>“How Transformative Are Transformative Agreements? <span>Evidence</span> from <span>Germany</span> Across Disciplines.”</span> <em>Scientometrics</em> 129 (3): 1863–89. <a href="https://doi.org/10.1007/s11192-024-04955-y">https://doi.org/10.1007/s11192-024-04955-y</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2024,
-  author = {Rothfritz, Laura},
-  title = {New Preprint on {Transformative} {Agreements}},
-  date = {2024-11-18},
-  url = {https://doi.org/10.59350/fe9s4-8a179},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-rothfritz2024" class="csl-entry quarto-appendix-citeas">
-Rothfritz, Laura. 2024. <span>“New Preprint on Transformative
-Agreements.”</span> November 18, 2024. <a href="https://doi.org/10.59350/fe9s4-8a179">https://doi.org/10.59350/fe9s4-8a179</a>.
-</div></div></section></div> ]]></description>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/</guid>
-  <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/screenshot.png" medium="image" type="image/png" height="107" width="144"/>
 </item>
 </channel>
 </rss>
