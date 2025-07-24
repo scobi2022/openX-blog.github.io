@@ -10,7 +10,84 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 22 Jul 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Jul 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Guide Published: Interplay of Institutional Repositories and CRIS</title>
+  <dc:creator>Lisa Matthias</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Christopher Onzie Khamis</dc:creator>
+  <link>https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>To support repository managers and institutional decision-makers, we are pleased to present our second guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)”: “Forschungsinformationssysteme (CRIS): Handlungsfeld für institutionelle Open-Access-Repositorien” (German only.)</p>
+<p>Matthias, L., Pampel, H., Khamis, C. O., Rothfritz, L., &amp; Wrzesinski, M. (2025). <em>Forschungsinformationssysteme (CRIS): Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.</em> Zenodo. <a href="https://doi.org/10.5281/zenodo.15800262" class="uri">https://doi.org/10.5281/zenodo.15800262</a></p>
+<p><img src="https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/FIS_Handreichung_Blogpost.jpeg" class="img-fluid"></p>
+<p>This publication documents the outcomes of our December 11, 2024 <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-cris">networking forum</a> on Current Research Information Systems (CRIS) and institutional repositories that brought together 67 Open Access professionals from across Germany. The resulting guide synthesizes the collective expertise and insights generated during this collaborative event, offering practical recommendations to enhance collaboration between institutional repositories and current research information systems.</p>
+<p>Following expert presentations by <a href="https://orcid.org/0000-0003-4905-1936">Daniel Beucke</a> (Göttingen State and University Library) and <a href="https://orcid.org/0009-0004-2098-8076">Malte Kramer</a> (CRIS.NRW), participants engaged in open discussions through a world café format, where they shared institutional experiences and developed practical approaches to common obstacles. The presentation slides from the expert talks are available <a href="https://zenodo.org/doi/10.5281/zenodo.14440151">online</a>.</p>
+<p>The guide distills these rich discussions into actionable recommendations across six critical areas for repository managers:</p>
+<section id="interoperability-for-automated-data-flows" class="level3">
+<h3 class="anchored" data-anchor-id="interoperability-for-automated-data-flows">1. Interoperability for Automated Data Flows</h3>
+<p>The participants identified essential prerequisites for successful interoperability. They emphasized that interoperability can only be guaranteed when the precise purposes of each actor and system are clearly defined as these purposes determine the required quality level, actual workload, and access authorizations for different data views (for researchers versus administrators) with appropriate granularity. This specificity is particularly important because interoperability exists in varying degrees, and the mapping of relationships must function bidirectionally between systems. Core challenges emerged around the standardization of metadata schemas, international connectivity through multilingual labels, and the consistent use of PIDs, particularly in the versioning of preprints. Attendees proposed several possible solutions. These included stakeholder involvement in determining responsibilities, clear guidance systems for data types, Linked Open Data, and regular quality management. Active participation in relevant networks and collaborative projects can further support these efforts.</p>
+</section>
+<section id="repository-and-cris---complementary-systems" class="level3">
+<h3 class="anchored" data-anchor-id="repository-and-cris---complementary-systems">2. Repository and CRIS - Complementary Systems</h3>
+<p>Critical organizational factors include the need for clear system definitions, the determination of a lead system, and the explicit institutional anchoring of responsibilities. Technical hurdles stem from diverse resource types and varying levels of metadata detail. The proposed solution begins with a comprehensive inventory analysis, followed by transparent assignment of responsibilities across departmental boundaries. The graphical representation of workflows was emphasized as a particularly valuable tool for communication among involved actors.</p>
+</section>
+<section id="standards-for-research-information" class="level3">
+<h3 class="anchored" data-anchor-id="standards-for-research-information">3. Standards for Research Information</h3>
+<p>Insufficient harmonization between the <a href="https://www.kerndatensatz-forschung.de/">KDSF – Standard für Forschungsinformationen in Deutschland</a> and library standards presents a significant obstacle, alongside further development of research evaluation criteria in the context of the <a href="https://coara.eu/">Coalition for Advancing Research Assessment (CoARA)</a> agreement. Participants identified consistent use of PIDs as a crucial technical prerequisite. CRIS systems show particular promise in adding value to the information budget through the systematic capture of publication costs.</p>
+</section>
+<section id="system-diversity-and-isolated-solutions" class="level3">
+<h3 class="anchored" data-anchor-id="system-diversity-and-isolated-solutions">4. System Diversity and Isolated Solutions</h3>
+<p>Participants identified several barriers, such as insufficient user-friendliness, imprecise requirement profiles, inadequate data management, and limited system upgradeability. To address these challenges, they proposed establishing institutional networking and cooperation strategies guided by a dedicated steering group. In addition, they highlighted the precise definition of responsibilities and the strategic involvement of the institutional leadership. Resources emerged as a crucial factor, with particular emphasis on securing adequate IT competencies. This should be complemented by professional project management. The group proposed that user requirements should be systematically documented through user stories and discussed in an interdisciplinary manner.</p>
+</section>
+<section id="diversity-of-data---publication-data-and-other-research-information" class="level3">
+<h3 class="anchored" data-anchor-id="diversity-of-data---publication-data-and-other-research-information">5. Diversity of Data - Publication Data and Other Research Information</h3>
+<p>At the organizational level, participants pointed to insufficient coordination as a central problem. This manifests in poor interdepartmental coordination, unclear responsibilities, and difficulties in collaboration. The situation is further complicated by the diversity of interest groups, different disciplinary cultures, and a lack of technical standards. To address these issues, participants recommended implementing a clear leadership strategy that meaningfully involves all stakeholders while precisely defining responsibilities. They placed particular emphasis on establishing ongoing dialogue with researchers, whose relief and support should be a central priority. The CoARA recommendations provide a valuable guiding framework for these efforts. From a technical perspective, participants advocated leveraging existing data sources like <a href="https://openalex.org/">OpenAlex</a> and adopting uniform data standards to enhance system interoperability.</p>
+</section>
+<section id="further-challenges" class="level3">
+<h3 class="anchored" data-anchor-id="further-challenges">6. Further Challenges</h3>
+<p>Organizationally, complexities arise in coordinating repositories and CRIS systems, requiring close collaboration among different organizational units. Technical considerations demand preserving the autonomy of individual systems while simultaneously developing uniform standards for various entry types. The disciplinary dimension adds another layer of complexity, requiring careful consideration of different institutional workflows. Attendees recommended an approach combining several key elements, such as a thoroughly documented, professionally moderated development process, sustainable financing models that ensure long-term viability, and targeted training initiatives at the intersection of administrative and technical requirements.</p>
+<p>This guide provides a foundation for continued professional exchange. Repository operators, libraries, and institutional decision-makers will find valuable insights for dataflows between institutional Open Access repositories and CRIS systems.</p>
+<p>We extend our sincere thanks to all forum participants who contributed their expertise and experience to this collaborative effort. We welcome your feedback and look forward to continuing this important dialogue as we collectively strengthen the Open Access repository landscape.</p>
+<p>For more information about Pro OAR DE and our upcoming activities, please visit our <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de">website</a>.</p>
+<p>This text – excluding quotes and otherwise labeled sections – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-matthias_forschungsinformationssysteme_2025" class="csl-entry">
+Matthias, Lisa, Heinz Pampel, Christopher Onzie Khamis, Laura Rothfritz, and Marcel Wrzesinski. 2025. <span>“Forschungsinformationssysteme (<span>CRIS</span>): <span>Handlungsfeld</span> Für Institutionelle <span>Open</span>-<span>Access</span>-<span>Repositorien</span>. <span>Pro</span> <span>OAR</span> <span>DE</span> <span>Handreichung</span>.”</span> Zenodo. <a href="https://doi.org/10.5281/ZENODO.15800262">https://doi.org/10.5281/ZENODO.15800262</a>.
+</div>
+<div id="ref-wrzesinski_pro_2024" class="csl-entry">
+Wrzesinski, Marcel, Daniel Beucke, and Malte Kramer. 2024. <span>“Pro <span>OAR</span> <span>DE</span> <span>Vernetzungsforum</span>: <span>Institutionelle</span> <span>Repositorien</span> Und <span>FIS</span>/<span>CRIS</span>,”</span> December. <a href="https://doi.org/10.5281/ZENODO.14440151">https://doi.org/10.5281/ZENODO.14440151</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
+  author = {Matthias, Lisa and Pampel, Heinz and Onzie Khamis,
+    Christopher},
+  title = {Guide {Published:} {Interplay} of {Institutional}
+    {Repositories} and {CRIS}},
+  date = {2025-07-24},
+  url = {https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-matthias2025" class="csl-entry quarto-appendix-citeas">
+Matthias, Lisa, Heinz Pampel, and Christopher Onzie Khamis. 2025.
+<span>“Guide Published: Interplay of Institutional Repositories and
+CRIS.”</span> July 24, 2025. <a href="https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/">https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/</guid>
+  <pubDate>Wed, 23 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/FIS_Handreichung_Blogpost.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Libraries as operating and preserving institutions for scholarly blogs: Report on a Hands-on Lab at the 113th Bibliocon</title>
   <dc:creator>Heinz Pampel</dc:creator>
@@ -1378,49 +1455,6 @@ Open-Access-Tage.”</span> January 9, 2025. <a href="https://doi.org/10.59350/r
   <guid>https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/</guid>
   <pubDate>Wed, 08 Jan 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/OAT.png" medium="image" type="image/png" height="80" width="144"/>
-</item>
-<item>
-  <title>Open Access Award from Humboldt-Universität zu Berlin for Our Team!</title>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>We are thrilled to announce that our group at the Berlin School of Library and Information Science has been honored with the <a href="https://www.ub.hu-berlin.de/de/forschen-publizieren/open-access/preis">Open Access Award 2024</a> of Humboldt-Universität zu Berlin. This recognition, valued at €5,000, underscores our commitment to advancing Open Access in research, education, and knowledge transfer.</p>
-<p><img src="https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/Open_Access_Award.jpeg" class="img-fluid"></p>
-<p>The Open Access Award is presented annually by the university and its library to recognize outstanding contributions to the promotion of Open Access. It serves both as an acknowledgment of past achievements and as a motivation to continue driving Open Science initiatives.</p>
-<p>Official news about the award can be found on the university library’s <a href="https://blogs.hu-berlin.de/wir_bewegen_buecher/2024/11/29/der-open-access-preis-der-hu-geht-2024-an-den-lehrstuhl-information-management-des-ibi/">website</a> <span class="citation" data-cites="riesenweber_open-access-preis_nodate">(Riesenweber n.d.)</span>.</p>
-<p>This award highlights the importance of teamwork and collaboration in advancing Open Science research. A heartfelt thank you to our incredible <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement">team</a>—Jonas Höfting, Christopher Onzie Khamis, Pia Kretschmar (currently at CERN), Max Liebel, Catharina Ochsner, Laura Rothfritz, Dorothea Strecker, and Marcel Wrzesinski. We sincerely thank Humboldt-Universität for the festive award ceremony, held as part of the <a href="https://www.hu-berlin.de/de/ueberblick/menschen/ehrungen/humboldtpreis/standardseite">Humboldt-Preis</a> presentation, and for this honor. We look forward to advancing Open Science together.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-riesenweber_open-access-preis_nodate" class="csl-entry">
-Riesenweber, Christina. n.d. <span>“Der <span>Open</span>-<span>Access</span>-<span>Preis</span> Der <span>HU</span> Geht 2024 an Den <span>Lehrstuhl</span> <span>Information</span> <span>Management</span> Des <span>IBI</span> <span></span> <span>UB</span> <span>Blog</span>.”</span> <em>UB Blog</em>. Accessed November 29, 2024. <a href="https://blogs.hu-berlin.de/wir_bewegen_buecher/2024/11/29/der-open-access-preis-der-hu-geht-2024-an-den-lehrstuhl-information-management-des-ibi/">https://blogs.hu-berlin.de/wir_bewegen_buecher/2024/11/29/der-open-access-preis-der-hu-geht-2024-an-den-lehrstuhl-information-management-des-ibi/</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2024,
-  author = {Pampel, Heinz},
-  title = {Open {Access} {Award} from {Humboldt-Universität} Zu {Berlin}
-    for {Our} {Team!}},
-  date = {2024-12-04},
-  url = {https://doi.org/10.59350/gsmp2-vqp56},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2024" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz. 2024. <span>“Open Access Award from Humboldt-Universität
-Zu Berlin for Our Team!”</span> December 4, 2024. <a href="https://doi.org/10.59350/gsmp2-vqp56">https://doi.org/10.59350/gsmp2-vqp56</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/</guid>
-  <pubDate>Tue, 03 Dec 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2024-12-04-Open-Access-Award-from-Humboldt-Universität-zu-Berlin-for-Our-Team/Open_Access_Award.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

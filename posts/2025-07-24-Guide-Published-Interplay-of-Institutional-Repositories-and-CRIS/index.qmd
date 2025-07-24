@@ -1,0 +1,75 @@
+---
+title: "Guide Published: Interplay of Institutional Repositories and CRIS"
+author:
+- name: Lisa Matthias
+  url: https://www.ibi.hu-berlin.de/de/institut/personen/matthias
+  orcid: 0000-0002-2612-2132
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/matthias
+- name: Heinz Pampel
+  url: https://heinzpampel.de/
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office
+  affiliation-url: https://hu-berlin.de/infomgnt
+- name: Christopher Onzie Khamis
+  url: https://www.ibi.hu-berlin.de/de/institut/personen/khamis
+  orcid: 0009-0003-0654-2839
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/khamis
+date: "2025-07-24"
+categories: [Lab Life, Research] 
+citation:
+  url: https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/
+image: FIS_Handreichung_Blogpost.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: FIS_Handreichung_Blogpost.bib
+---
+
+To support repository managers and institutional decision-makers, we are pleased to present our second guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)”: "Forschungsinformationssysteme (CRIS): Handlungsfeld für institutionelle Open-Access-Repositorien” (German only.)
+
+Matthias, L., Pampel, H., Khamis, C. O., Rothfritz, L., & Wrzesinski, M. (2025). *Forschungsinformationssysteme (CRIS): Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.* Zenodo. <https://doi.org/10.5281/zenodo.15800262>
+
+![](FIS_Handreichung_Blogpost.jpeg)
+
+This publication documents the outcomes of our December 11, 2024 [networking forum](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-cris) on Current Research Information Systems (CRIS) and institutional repositories that brought together 67 Open Access professionals from across Germany. The resulting guide synthesizes the collective expertise and insights generated during this collaborative event, offering practical recommendations to enhance collaboration between institutional repositories and current research information systems.
+
+Following expert presentations by [Daniel Beucke](https://orcid.org/0000-0003-4905-1936) (Göttingen State and University Library) and [Malte Kramer](https://orcid.org/0009-0004-2098-8076) (CRIS.NRW), participants engaged in open discussions through a world café format, where they shared institutional experiences and developed practical approaches to common obstacles. The presentation slides from the expert talks are available [online](https://zenodo.org/doi/10.5281/zenodo.14440151).
+
+The guide distills these rich discussions into actionable recommendations across six critical areas for repository managers:
+
+### 1. Interoperability for Automated Data Flows
+
+The participants identified essential prerequisites for successful interoperability. They emphasized that interoperability can only be guaranteed when the precise purposes of each actor and system are clearly defined as these purposes determine the required quality level, actual workload, and access authorizations for different data views (for researchers versus administrators) with appropriate granularity. This specificity is particularly important because interoperability exists in varying degrees, and the mapping of relationships must function bidirectionally between systems. Core challenges emerged around the standardization of metadata schemas, international connectivity through multilingual labels, and the consistent use of PIDs, particularly in the versioning of preprints. Attendees proposed several possible solutions. These included stakeholder involvement in determining responsibilities, clear guidance systems for data types, Linked Open Data, and regular quality management. Active participation in relevant networks and collaborative projects can further support these efforts.
+
+### 2. Repository and CRIS - Complementary Systems
+
+Critical organizational factors include the need for clear system definitions, the determination of a lead system, and the explicit institutional anchoring of responsibilities. Technical hurdles stem from diverse resource types and varying levels of metadata detail. The proposed solution begins with a comprehensive inventory analysis, followed by transparent assignment of responsibilities across departmental boundaries. The graphical representation of workflows was emphasized as a particularly valuable tool for communication among involved actors.
+
+### 3. Standards for Research Information
+
+Insufficient harmonization between the [KDSF – Standard für Forschungsinformationen in Deutschland](https://www.kerndatensatz-forschung.de/) and library standards presents a significant obstacle, alongside further development of research evaluation criteria in the context of the [Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/) agreement. Participants identified consistent use of PIDs as a crucial technical prerequisite. CRIS systems show particular promise in adding value to the information budget through the systematic capture of publication costs.
+
+### 4. System Diversity and Isolated Solutions
+
+Participants identified several barriers, such as insufficient user-friendliness, imprecise requirement profiles, inadequate data management, and limited system upgradeability. To address these challenges, they proposed establishing institutional networking and cooperation strategies guided by a dedicated steering group. In addition, they highlighted the precise definition of responsibilities and the strategic involvement of the institutional leadership. Resources emerged as a crucial factor, with particular emphasis on securing adequate IT competencies. This should be complemented by professional project management. The group proposed that user requirements should be systematically documented through user stories and discussed in an interdisciplinary manner.
+
+### 5. Diversity of Data - Publication Data and Other Research Information
+
+At the organizational level, participants pointed to insufficient coordination as a central problem. This manifests in poor interdepartmental coordination, unclear responsibilities, and difficulties in collaboration. The situation is further complicated by the diversity of interest groups, different disciplinary cultures, and a lack of technical standards. To address these issues, participants recommended implementing a clear leadership strategy that meaningfully involves all stakeholders while precisely defining responsibilities. They placed particular emphasis on establishing ongoing dialogue with researchers, whose relief and support should be a central priority. The CoARA recommendations provide a valuable guiding framework for these efforts. From a technical perspective, participants advocated leveraging existing data sources like [OpenAlex](https://openalex.org/) and adopting uniform data standards to enhance system interoperability.
+
+### 6. Further Challenges
+
+Organizationally, complexities arise in coordinating repositories and CRIS systems, requiring close collaboration among different organizational units. Technical considerations demand preserving the autonomy of individual systems while simultaneously developing uniform standards for various entry types. The disciplinary dimension adds another layer of complexity, requiring careful consideration of different institutional workflows. Attendees recommended an approach combining several key elements, such as a thoroughly documented, professionally moderated development process, sustainable financing models that ensure long-term viability, and targeted training initiatives at the intersection of administrative and technical requirements. 
+
+This guide provides a foundation for continued professional exchange. Repository operators, libraries, and institutional decision-makers will find valuable insights for dataflows between institutional Open Access repositories and CRIS systems. 
+
+We extend our sincere thanks to all forum participants who contributed their expertise and experience to this collaborative effort. We welcome your feedback and look forward to continuing this important dialogue as we collectively strengthen the Open Access repository landscape.
+
+For more information about Pro OAR DE and our upcoming activities, please visit our [website](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de).
+
+This text – excluding quotes and otherwise labeled sections – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+---
+nocite: |
+  @*
+---

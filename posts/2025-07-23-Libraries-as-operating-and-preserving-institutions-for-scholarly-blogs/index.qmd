@@ -47,7 +47,7 @@ author:
 date: "2025-07-23"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2025-07-23-hands-on-lab-wissenschaftsblogs/
+  url: https://doi.org/10.59350/xqwyd-0g579 
 image: IMG_3511.jpg
 draft: false
 bibliography: references_bid.bib
