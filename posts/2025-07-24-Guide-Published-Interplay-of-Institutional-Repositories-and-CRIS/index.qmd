@@ -19,7 +19,7 @@ author:
 date: "2025-07-24"
 categories: [Lab Life, Research] 
 citation:
-  url: https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/
+  url: https://doi.org/10.59350/n4pnm-vwr12 
 image: FIS_Handreichung_Blogpost.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: FIS_Handreichung_Blogpost.bib
@@ -59,9 +59,9 @@ At the organizational level, participants pointed to insufficient coordination a
 
 ### 6. Further Challenges
 
-Organizationally, complexities arise in coordinating repositories and CRIS systems, requiring close collaboration among different organizational units. Technical considerations demand preserving the autonomy of individual systems while simultaneously developing uniform standards for various entry types. The disciplinary dimension adds another layer of complexity, requiring careful consideration of different institutional workflows. Attendees recommended an approach combining several key elements, such as a thoroughly documented, professionally moderated development process, sustainable financing models that ensure long-term viability, and targeted training initiatives at the intersection of administrative and technical requirements. 
+Organizationally, complexities arise in coordinating repositories and CRIS systems, requiring close collaboration among different organizational units. Technical considerations demand preserving the autonomy of individual systems while simultaneously developing uniform standards for various entry types. The disciplinary dimension adds another layer of complexity, requiring careful consideration of different institutional workflows. Attendees recommended an approach combining several key elements, such as a thoroughly documented, professionally moderated development process, sustainable financing models that ensure long-term viability, and targeted training initiatives at the intersection of administrative and technical requirements.
 
-This guide provides a foundation for continued professional exchange. Repository operators, libraries, and institutional decision-makers will find valuable insights for dataflows between institutional Open Access repositories and CRIS systems. 
+This guide provides a foundation for continued professional exchange. Repository operators, libraries, and institutional decision-makers will find valuable insights for dataflows between institutional Open Access repositories and CRIS systems.
 
 We extend our sincere thanks to all forum participants who contributed their expertise and experience to this collaborative effort. We welcome your feedback and look forward to continuing this important dialogue as we collectively strengthen the Open Access repository landscape.
 
