@@ -29,7 +29,7 @@ author:
 date: "2025-07-31"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2025-07-31-long-night-of-science-2025/
+  url: https://doi.org/10.59350/bd65p-7r071
 image: data-puzzle-lndw-1.jpg
 draft: false
 bibliography: references_lndw2025.bib
