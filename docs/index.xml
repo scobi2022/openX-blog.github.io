@@ -10,7 +10,98 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Wed, 30 Jul 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 07 Aug 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>“Vom Drittmittelprojekt zur etablierten Struktur”. Bericht über ein Hands-on Lab auf der 113. Bibliocon</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Ursula Arning</dc:creator>
+  <dc:creator>Brigitte Grote</dc:creator>
+  <dc:creator>Gesche Wahlen</dc:creator>
+  <dc:creator>Gerald Jagusch</dc:creator>
+  <dc:creator>Martin Spenger</dc:creator>
+  <dc:creator>Jürgen Rohrwild</dc:creator>
+  <dc:creator>Robert Strötgen</dc:creator>
+  <dc:creator>Christopher O. Khamis</dc:creator>
+  <link>https://infomgnt.org/posts/2025-08-08-bericht-ueber-ein-hands-on-lab-auf-der-113-bibliocon/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Wie wird aus einem geförderten Pilotprojekt eine dauerhaft tragfähige Infrastruktur? Diese zentrale Frage stellten sich viele der Teilnehmenden des Hands-on-Labs „Vom Drittmittelprojekt über die Community zur etablierten Struktur – Erfahrungsaustausch und Erarbeitung von Empfehlungen“ <span class="citation" data-cites="arning_vom_2025">(Arning et al. 2025)</span> auf dem 9. Bibliothekskongress / der 113. Bibliocon in Bremen am 26.06.2025.</p>
+<p>Unser Hands-on-Labs bot einen Rahmen für Austausch, Vernetzung und gemeinsame Reflexion mit dem Ziel, praktische Empfehlungen für die Verstetigung von Informationsinfrastrukturen zu entwickeln.</p>
+<p>Ein gemeinsamer Bezugspunkt aller beteiligten Infrastrukturen ist ihre Förderung im Rahmen des Programms <a href="https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/vigo">„Verantwortung für Informationsinfrastrukturen gemeinsam organisieren“ (VIGO)</a> der Deutschen Forschungsgemeinschaft (DFG). Dieses Programm wurde von der DFG eingerichtet, um dem weit verbreiteten Problem der mangelnden Verstetigung von Projektergebnissen entgegenzuwirken. Allzu oft bleiben Softwarelösungen und Services nach dem Ende der Projektförderung ohne institutionelle Anbindung und verschwinden – trotz intensiver Entwicklungsarbeit – aus der Community. Die Förderung im Rahmen des VIGO-Formats unterstützt gezielt solche Projekte, die nachhaltige Strukturen aufbauen wollen: mit einem Fokus auf Community-Beteiligung, organisatorische Verstetigung und langfristige Finanzierungsmodelle. Seit 2024 sind fünf Projekte aus dem Programm gestartet (<a href="https://www.kitodo.org">Kitodo e.V.</a>, <a href="https://rdmorganiser.github.io">RDMO e.V.</a>, das <a href="https://www.open-encyclopedia-system.org">Open Encyclopedia System</a>, <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> sowie <a href="https://www.zbmed.de/forschen/laufende-projekte/wau">WAU – Wissensmanagement AG Universitätsverlage</a>, deren Vertreter:innen das Hands-on-Lab mitgestaltet haben.</p>
+<p>Nach einer kurzen Einführung in Ziel und Ablauf der Veranstaltung teilten Vertreter:innen dieser Communities ihre Erfahrungen und Ziele in prägnanten Impulsbeiträgen. Dabei wurden neben erfolgreichen Maßnahmen auch die Herausforderungen benannt, die sich beim Aufbau tragfähiger Strukturen ergeben, etwa bei der Wahl der Rechtsform, der Finanzierung oder der Aktivierung der Community.</p>
+<p><a href="https://www.kitodo.org/">Key to digital objects - Kitodo e.V.</a> Mission: Nachhaltige Weiterentwicklung der Digitalisierungssoftware Kitodo Maßnahmen: Vereinsgründung 2012, DFG-Großprojekt, Aufbau eines Entwicklungsfonds<br>
+Herausforderungen: Komplexität heterogener Open-Source-Communities vs.&nbsp;einfache Dienstleisterlösungen</p>
+<p><a href="https://rdmorganiser.github.io/">RDMO.Research Data Management Organiser e.V.</a> Mission: Releasemanagement, Unterstützung von Entwickler:innen und Community<br>
+Maßnahmen: Vereinsgründung 2024, 21 Mitglieder, Satzung verabschiedet<br>
+Herausforderungen: Gemeinnützigkeit, Governance, Mitgliedschaftsmodelle</p>
+<p><a href="https://www.open-encyclopedia-system.org/">Open Encyclopedia System (ComOES)</a> Mission: Aufbau tragfähiger Strukturen für Zusammenarbeit und Austausch<br>
+Maßnahmen: Anforderungsanalyse, Community-Workshops, Informationsangebote<br>
+Herausforderungen: Aktivierung der Community, Anreize schaffen, Dezentralisierung</p>
+<p><a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> Mission: Sicherung der langfristigen Zugänglichkeit wissenschaftlicher Blogs<br>
+Maßnahmen: Analyse, Community-Aufbau, Lösungsentwicklung<br>
+Herausforderungen: Individualität des Bloggens vs.&nbsp;institutionelle Infrastruktur</p>
+<p><a href="https://www.zbmed.de/forschen/laufende-projekte/wau">WAU – Wissensmanagement AG Universitätsverlage</a> Mission: Nachhaltiger Austausch, Standardisierung, Sichtbarkeit für Library Publishing<br>
+Maßnahmen: Vergleich von Workflows, Aufbau eines Living Handbooks als Wissensbasis auch außerhalb der AG Universitätsverlage<br>
+Herausforderungen: Disziplinenvielfalt, heterogene Strukturen</p>
+<p><img src="https://infomgnt.org/posts/2025-08-08-bericht-ueber-ein-hands-on-lab-auf-der-113-bibliocon/hands_on_lab_vigo_1.jpg" class="img-fluid"></p>
+<section id="leitfragen" class="level2">
+<h2 class="anchored" data-anchor-id="leitfragen">Leitfragen</h2>
+<p>Im Zentrum des Hands-on-Labs stand eine intensive Gruppenarbeitsphase in Form eines World Cafés. Alle Teilnehmenden durchliefen drei moderierte Stationen, an denen konkrete Fragestellungen zur Verstetigung von Projekten diskutiert wurden. Die Ergebnisse wurden anschließend im Plenum zusammengetragen und werden im Folgenden dokumentiert.</p>
+<section id="wie-gewinnt-man-interessierte-anwendende-und-baut-eine-aktive-community-auf" class="level3">
+<h3 class="anchored" data-anchor-id="wie-gewinnt-man-interessierte-anwendende-und-baut-eine-aktive-community-auf">1. Wie gewinnt man interessierte Anwendende und baut eine aktive Community auf?</h3>
+<p>Ein zentrales Ergebnis der Diskussion war: Erfolgreiches Community-Building beginnt nicht erst nach dem Projektabschluss, sondern idealerweise bereits in der frühen Konzeptionsphase. Projekte sollten von Beginn an transparent kommunizieren, wer mitwirken kann, und möglichst niedrigschwellige Beteiligungsangebote schaffen. Kommunikation auf Augenhöhe und das ernsthafte Einbinden von Nutzer:innen in Entscheidungen, etwa durch Testphasen, offene Roadmaps oder partizipative Gremien, fördern die Identifikation mit dem Projekt. Als besonders wirkungsvoll wurden persönliche Kontakte, gezielte Ansprache über bestehende Netzwerke und die Nutzung von Testimonials genannt. Wichtig sei es, den konkreten Mehrwert für potenzielle Mitstreitende klar aufzuzeigen, z.B. durch Mitgestaltungsmöglichkeiten oder durch Hinweise darauf, was bei einem Scheitern der Infrastruktur verloren ginge.</p>
+</section>
+<section id="welche-werkzeuge-und-maßnahmen-unterstützen-den-aufbau-einer-stabilen-community" class="level3">
+<h3 class="anchored" data-anchor-id="welche-werkzeuge-und-maßnahmen-unterstützen-den-aufbau-einer-stabilen-community">2. Welche Werkzeuge und Maßnahmen unterstützen den Aufbau einer stabilen Community?</h3>
+<p>Mit dieser Leitfrage wurden organisatorische und technische Instrumente zur Stärkung der Community adressiert. Genannt wurden u.a. kollaborative Plattformen für Dokumentation und Austausch (z. B. Wikis, Mailinglisten, GitHub), regelmäßige Online- und Präsenztreffen sowie modulare Governance-Modelle mit klar verteilten Rollen. Insbesondere Open-Source-Modelle wurden als förderlich für Transparenz und Mitwirkung angesehen – vorausgesetzt, es existiert eine koordinierende Stelle, die Beiträge moderiert und Entwicklungen konsolidiert. Die Diskussion zeigte auch, dass eine professionelle Projektkoordination entscheidend ist: Nur wenn Aufgaben wie Kommunikation, Dokumentation oder Support verlässlich übernommen werden, entsteht Vertrauen in die Verlässlichkeit der Infrastruktur. Communities benötigen Ansprechpersonen, die die Interaktion fördern, Feedback aufgreifen und Impulse für Weiterentwicklungen setzen.</p>
+</section>
+<section id="was-sind-geeignete-organisations--und-rechtsformen-für-nachhaltige-strukturen" class="level3">
+<h3 class="anchored" data-anchor-id="was-sind-geeignete-organisations--und-rechtsformen-für-nachhaltige-strukturen">3. Was sind geeignete Organisations- und Rechtsformen für nachhaltige Strukturen?</h3>
+<p>Auch die Frage nach passenden organisatorischen Rahmenbedingungen wurde diskutiert. Viele Projekte befinden sich im Übergang von informellen Strukturen zu formalen Organisationen – etwa in Form eingetragener Vereine. Die Diskussion machte deutlich: Eine Gemeinnützigkeit ist zwar wünschenswert (z. B. zur Mittelakquise), aber mit hohem bürokratischen Aufwand verbunden und oft schwer zu erreichen. Mitgliedsbeiträge allein decken die Betriebskosten in der Regel nicht; vielmehr setzen viele Communities auf Mischfinanzierungen – etwa durch die Einbindung von Ressourcen aus Trägereinrichtungen oder durch Kooperationsmodelle. Als vorteilhaft wurden konsortiale Strukturen und kooperative Netzwerke benannt, in denen Aufgaben arbeitsteilig verteilt und Ressourcen gemeinsam getragen werden. Dabei sei es zentral, Governance-Strukturen nicht nur effizient, sondern auch sichtbar und nachvollziehbar zu gestalten – z. B. durch Vorstände, Beiräte oder öffentliche Geschäftsordnungen. Gleichzeitig wurde betont, dass auch schlanke, projektnahe Strukturen funktionieren können, solange alle gemeinsam daran arbeiten, sich engagieren und organisatorische Aufgaben reihum übernehmen.</p>
+<p><img src="https://infomgnt.org/posts/2025-08-08-bericht-ueber-ein-hands-on-lab-auf-der-113-bibliocon/hands_on_lab_vigo_2.jpg" class="img-fluid"></p>
+</section>
+</section>
+<section id="perspektiven-und-nächste-schritte" class="level2">
+<h2 class="anchored" data-anchor-id="perspektiven-und-nächste-schritte">Perspektiven und nächste Schritte</h2>
+<p>Die Diskussionen zeigten, dass der Weg von der Projektförderung hin zu einer verstetigten Infrastruktur kein Automatismus, sondern ein aktiver, oft herausfordernder Gestaltungsprozess ist. Erfolgsfaktoren sind frühzeitige Beteiligung, klare Verantwortlichkeiten, transparente Kommunikationswege und tragfähige Organisationsformen. Besonders betont wurde die Bedeutung gemeinsamer Werte wie Offenheit, Teilhabe und Verlässlichkeit, aber auch das Spannungsfeld zwischen Idealismus und Pragmatismus. Das Hands-on-Lab verstand sich als Auftakt für einen kontinuierlichen Austausch zum Thema.</p>
+<p>Weitere Informationen über die Forschungsgruppe Information Management an der Humboldt-Universität zu Berlin finden sich auf der [offiziellen Website] der Gruppe. (http://hu.berlin/infomgnt).</p>
+<p>Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Abschnitten – steht unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 Lizenz</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-arning_vom_2025" class="csl-entry">
+Arning, Ursula, Brigitte Grote, Gerald Jagusch, Heinz Pampel, Jürgen Rohrwild, Martin Spenger, Robert Strötgen, and Gesche Wahlen. 2025. <span>“Vom <span>Drittmittelprojekt</span> Über Die <span>Community</span> Zur Etablierten <span>Struktur</span> – <span>Erfahrungsaustausch</span> Und <span>Erarbeitung</span> von <span>Empfehlungen</span>.”</span> In. Bremen. <a href="https://nbn-resolving.org/urn:nbn:de:0290-opus4-194638">https://nbn-resolving.org/urn:nbn:de:0290-opus4-194638</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+  author = {Pampel, Heinz and Arning, Ursula and Grote, Brigitte and
+    Wahlen, Gesche and Jagusch, Gerald and Spenger, Martin and Rohrwild,
+    Jürgen and Strötgen, Robert and O. Khamis, Christopher},
+  title = {“{Vom} {Drittmittelprojekt} Zur Etablierten {Struktur}”.
+    {Bericht} Über Ein {Hands-on} {Lab} Auf Der 113. {Bibliocon}},
+  date = {2025-08-08},
+  url = {https://infomgnt.org/posts/2025-08-08-hands-on-lab-vigo/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2025" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz, Ursula Arning, Brigitte Grote, Gesche Wahlen, Gerald
+Jagusch, Martin Spenger, Jürgen Rohrwild, Robert Strötgen, and
+Christopher O. Khamis. 2025. <span>“<span>‘Vom Drittmittelprojekt Zur
+Etablierten Struktur.’</span> Bericht Über Ein Hands-on Lab Auf Der 113.
+Bibliocon.”</span> August 8, 2025. <a href="https://infomgnt.org/posts/2025-08-08-hands-on-lab-vigo/">https://infomgnt.org/posts/2025-08-08-hands-on-lab-vigo/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-08-08-bericht-ueber-ein-hands-on-lab-auf-der-113-bibliocon/</guid>
+  <pubDate>Thu, 07 Aug 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-08-08-bericht-ueber-ein-hands-on-lab-auf-der-113-bibliocon/hands_on_lab_vigo_2.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Long Night of Science 2025: Communicating Information Management with a Data Puzzle on Open Science</title>
   <dc:creator>Heinz Pampel</dc:creator>
@@ -1406,89 +1497,6 @@ the US.”</span> February 5, 2025. <a href="https://doi.org/10.59350/6g3km-9w70
   <guid>https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/</guid>
   <pubDate>Tue, 04 Feb 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/datarescue.webp" medium="image" type="image/webp"/>
-</item>
-<item>
-  <title>Perspective on Future Infrastructure for Scholarly Blogs in Germany</title>
-  <dc:creator>Catharina Ochsner</dc:creator>
-  <dc:creator>Jonas Höfting</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>On December 6th, 2024, we hosted the first workshop of our project <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> <span class="citation" data-cites="ochsner_research_2024">(Ochsner and Pampel 2024)</span>, funded by the German Research Foundation (DFG). The aim of the workshop was to bring together scholarly bloggers and experts from information infrastructure institutions, so they could exchange experiences, wishes and challenges concerning scholarly blogs.</p>
-<p>In the following, we give a brief overview of the workshop, the talks and discussions, and outline how we will continue our work following the results of the workshop. Following the welcome address, we presented the initial results of a survey of German scholarly blogs that we conducted as a part of the Infra Wiss Blogs project. Afterward, the workshop was enriched by multiple presentations around the topic of scholarly blogs and their long term accessibility.</p>
-<p><a href="https://blogs.helmholtz.de/augenspiegel/author/henning/">Henning Krause</a> from the Helmholtz Association began with an overview of the Helmholtz Blogs, the blog portal of Germany’s largest research organization. He talked about challenges and opportunities with science communication, using blogs as an example.</p>
-<p>This talk was followed by a presentation from Martin Fenner from <a href="https://front-matter.io/">Front Matter</a>, on the topic of long term accessibility of scholarly blogs and the the <a href="https://rogue-scholar.org/">Rogue Scholar blog archive</a>.</p>
-<p>Lastly, these presentations were followed by two inputs from practitioners within the field by <a href="https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Charmaine.Voigt">Charmaine Voigt</a> from GESIS - Leibniz Institute for the Social Sciences, and <a href="https://www.dnb.de/SharedDocs/Kontaktdaten/DE/wolderingBritta.html">Britta Woldering</a> from the German National Library. Charmaine Voigt presented the results of a survey on science blogs and podcasts at scientific institutions in Germany in the GESIS Wi⁴impact project. Britta Woldering introduced the work of the German National Library (DNB) in the field of web archiving and described the DNB’s approach to handling blogs for the permanent accessibility of digital content.</p>
-<p>The available presentations of the speakers were published on Zenodo and can be found below:</p>
-<ul>
-<li><p>Fenner, M. (2024, December 6). Ansätze zur Sicherung der dauerhaften Zugänglichkeit von Wissenschaftsblogs. Infra Wiss Blogs Vernetzungsworkshop 2024, Berlin. <a href="https://doi.org/10.5281/zenodo.14354060" class="uri">https://doi.org/10.5281/zenodo.14354060</a></p></li>
-<li><p>Voigt, C., &amp; Kuhle, B. (2024, December 6). Wi4impact: Befragung von Produzierenden deutscher Wissenschaftsblogs (und -podcasts). Infra Wiss Blogs Vernetzungsworkshop 2024, Berlin. <a href="https://doi.org/10.5281/zenodo.14354474" class="uri">https://doi.org/10.5281/zenodo.14354474</a></p></li>
-<li><p>Woldering, B. (2024, December 6). Webarchivierung an der deutschen Nationalbibliothek. Infra Wiss Blogs Vernetzungsworkshop 2024, Berlin. <a href="https://doi.org/10.5281/zenodo.14355206" class="uri">https://doi.org/10.5281/zenodo.14355206</a></p></li>
-</ul>
-<p>The presentations and the results of the survey of German scholarly blogs were then discussed by the workshop organizers, the participants, and the speakers. To structure the discussion, we prepared a set of questions on the topic, e.g.&nbsp;“How can bloggers, libraries and archives work together to create standardized metadata and procedures for long-term accessibility for academic blogs?”. The main topic of discussion was how scholarly bloggers and infrastructure institutions can work together, to ensure the long term access of scholarly blogs.</p>
-<p>The following challenges were identified concerning the standardization of scholarly blogs and their long term accessibility:</p>
-<ol type="1">
-<li>Insufficient provision of metadata</li>
-<li>Insufficient licensing information</li>
-<li>Dynamic contents, such as pictures or videos, comments, link rot pose technical and legal challenges</li>
-<li>Bloggers’ lack of knowledge about the technical and legal requirements to ensure long term accessibility</li>
-<li>Blogs and other knowledge transfer and science communication activities are usually not adequately recognized in the scientific reputation system and the evaluation of research performance</li>
-</ol>
-<p>The following strategies to enhance long term accessibility of scholarly blogs were proposed during the discussion:</p>
-<ol type="1">
-<li>(Re-)using standardized formats (such as XML or JSON) that are already being used by blogs for the long term archiving</li>
-<li>Including licensing information into metadata. Recommended for use is the CC BY license</li>
-<li>Legal challenges of archiving comments could be solved through legal notice</li>
-<li>Libraries as educational institutions can help educate bloggers on blog requirements</li>
-<li>Universities and other research performing organizations can support bloggers through offering platforms or better maintaining existing ones and by recognizing blogging as part of knowledge transfer and science communication</li>
-</ol>
-<p>The discussion illustrated the diversity of the stakeholders. All participants agreed that there is a further need for stronger networking and collaboration on the topic. The participants also emphasized the need for support from universities and research institutions, as well as funding bodies, for their blogging researchers.</p>
-<p>The workshop enabled us to bring together diverse perspectives from people involved in blogs, infrastructure, and science communication. We learned a lot and received numerous suggestions for the project. We thank all the speakers and participants for their contributions and the open discussions.</p>
-<p>Building on the results of the survey of German blogs, we will start conducting in-depth interviews with scholarly bloggers to investigate the infrastructural challenges of scholarly blogs and possible solutions.</p>
-<p>Additionally, We are currently working on publishing the results of our survey on German scholarly blogs. We will communicate the publication of the article through our <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">mailing list</a>. The subscription is possible <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">here</a>.</p>
-<p>A German version of this blog post is available on the blog dedicated to the Infra Wiss Blog project and can be found <a href="https://infrawissblogs.org/">here</a>.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-fenner_ansatze_2024" class="csl-entry">
-Fenner, Martin. 2024. <span>“Ansätze Zur <span>Sicherung</span> Der Dauerhaften <span>Zugänglichkeit</span> von <span>Wissenschaftsblogs</span>.”</span> <a href="https://doi.org/10.5281/zenodo.14354060">https://doi.org/10.5281/zenodo.14354060</a>.
-</div>
-<div id="ref-ochsner_research_2024" class="csl-entry">
-Ochsner, Catharina, and Heinz Pampel. 2024. <span>“Research <span>Group</span> <span>Information</span> <span>Management</span> @ <span>Humboldt</span>-<span>Universität</span> Zu <span>Berlin</span> - <span>Project</span> Launch: <span>Infra</span> <span>Wiss</span> <span>Blogs</span> - <span>Ensuring</span> <span>Permanent</span> <span>Access</span> to <span>Scholarly</span> <span>Blogs</span>.”</span> <a href="https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html">https://infomgnt.org/posts/2024-09-05-project-launch-infra-wiss-blogs/Index.html</a>.
-</div>
-<div id="ref-voigt_wiimpact_2024" class="csl-entry">
-Voigt, Charmaine, and Birte Kuhle. 2024. <span>“Wi⁴impact: <span>Befragung</span> von <span>Produzierenden</span> Deutscher <span>Wissenschaftsblogs</span> (Und -Podcasts).”</span> <a href="https://doi.org/10.5281/zenodo.14354474">https://doi.org/10.5281/zenodo.14354474</a>.
-</div>
-<div id="ref-woldering_webarchivierung_2024" class="csl-entry">
-Woldering, Britta. 2024. <span>“Webarchivierung an Der Deutschen <span>Nationalbibliothek</span>.”</span> <a href="https://doi.org/10.5281/zenodo.14355206">https://doi.org/10.5281/zenodo.14355206</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
-  author = {Ochsner, Catharina and Höfting, Jonas and Pampel, Heinz},
-  title = {Perspective on {Future} {Infrastructure} for {Scholarly}
-    {Blogs} in {Germany}},
-  date = {2025-01-10},
-  url = {https://doi.org/10.59350/4fc41-6n753},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas">
-Ochsner, Catharina, Jonas Höfting, and Heinz Pampel. 2025.
-<span>“Perspective on Future Infrastructure for Scholarly Blogs in
-Germany.”</span> January 10, 2025. <a href="https://doi.org/10.59350/4fc41-6n753">https://doi.org/10.59350/4fc41-6n753</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/</guid>
-  <pubDate>Thu, 09 Jan 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/IMG_5273.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
