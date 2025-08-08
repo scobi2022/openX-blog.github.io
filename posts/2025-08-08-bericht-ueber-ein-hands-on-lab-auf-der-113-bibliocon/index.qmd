@@ -49,7 +49,7 @@ author:
 date: "2025-08-08"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2025-08-08-hands-on-lab-vigo/
+  url: https://doi.org/10.59350/b1n5j-rz617 
 image: hands_on_lab_vigo_2.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: hands-on-lab-vigo.bib
