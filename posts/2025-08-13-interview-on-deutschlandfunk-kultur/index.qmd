@@ -9,7 +9,7 @@ author:
 date: "2025-08-13"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/interview-on-deutschlandfunk-kultur/
+  url: https://doi.org/10.59350/bn0bz-73473
 image: interview-on-deutschlandfunk-kultur.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: interview-on-deutschlandfunk-kultur.bib
