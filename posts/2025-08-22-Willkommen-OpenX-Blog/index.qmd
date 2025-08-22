@@ -20,7 +20,7 @@ bibliography:
 
 Herzlich willkommen zum neuen Blog der **OpenX-Initiative** der Berlin University Alliance! 
 
-Über diesen Kommunikationskanal wollen wir unsere Arbeit, Erkenntnisse und Erfolge im Bereich Open Science mit der Community im Berliner Forschungsraum berichten. 
+Über diesen Kommunikationskanal wollen wir unsere Arbeit, Erkenntnisse und Erfolge im Bereich Open Science mit der Community im Berliner Forschungsraum berichten und damit unsere offizielle Webseite und die Mailingliste ergänzen. 
 
 ### Was ist die OpenX-Initiative?
 
