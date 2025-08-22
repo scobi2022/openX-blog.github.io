@@ -1,0 +1,93 @@
+---
+title: "Project launch: OA Datenpraxis- Data Practices for Shaping the Open Access Transformation"
+author:
+  - name: Stefan Skupien
+    orcid: 0000-0001-8519-8738
+    affiliation: Berlin University Alliance / Center for Open and Responsible Research
+    affiliation-url: https://www.berlin-university-alliance.de/commitments/research-quality/index.html 
+date: "2025-08-22"
+categories: [CORe]
+citation: 
+  url: 
+image: Logo_openx.png 
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: 
+---
+
+![](Logo_openx.png)
+
+## Ein neuer Ort für Open Science
+
+Herzlich willkommen zum neuen Blog der **OpenX-Initiative** der Berlin University Alliance! 
+
+Über diesen Kommunikationskanal wollen wir unsere Arbeit, Erkenntnisse und Erfolge im Bereich Open Science mit der Community im Berliner Forschungsraum berichten. 
+
+### Was ist die OpenX-Initiative?
+
+Die OpenX-Initiative ist ein **kollaboratives Projekt** der vier Partnerinstitutionen der Berlin University Alliance:
+
+- **Freie Universität Berlin**
+- **Humboldt-Universität zu Berlin**
+- **Technische Universität Berlin**  
+- **Charité – Universitätsmedizin Berlin**
+
+Unser Ziel ist es, **Open Science Praktiken** in der Berliner Hochschullandschaft disziplinensensibel zu fördern und zu vertiefen. Mehr Informationen zur OpenX-Initiative erhalten Sie auf unserer [Webseite](https://www.berlin-university-alliance.de/openx-initiative/index.html).
+
+## Was Sie in diesem Blog erwartet
+
+### Berichte der Open Science Botschafter*innen
+Lernen Sie unsere **OpenX-Ambassadors** kennen und erfahren Sie, wie verschiedene Fachbereiche Open Science umsetzen.
+
+### Forschungs- und Testergebnisse
+Wir teilen aktuelle Erkenntnisse aus unseren Open Science Projekten und zeigen, wie offene Wissenschaft in der Praxis funktioniert.
+
+### Community Stories
+Berichte von Treffen, Veranstaltungen und ähnlichen Formaten Open Science an den Verbundpartnerinnen und im Berliner Wissensraum.
+
+### Strategie
+Neuigkeiten zu **institutionellen Richtlinien**, Förderungsmöglichkeiten und strategischen Entwicklungen.
+
+### 🎉 Events & Workshops
+Berichte von Veranstaltungen, Ankündigungen und Community-Building Aktivitäten.
+
+## Unsere ersten Schwerpunkte
+
+In den kommenden Wochen werden wir folgende Themen behandeln:
+
+1. **Ambassador-Portraits** - Wer sind die Menschen hinter OpenX?
+2. **Strategie-Update** - Wie geht es mit dem [Leitbild für eine offene Wissenschaft](https://www.berlin-university-alliance.de/commitments/research-quality/open-science/Leitbild-fuer-OS/index.html) weiter?
+
+## Mitmachen erwünscht!
+
+Dieser Blog lebt von **Community-Beiträgen**! Haben Sie:
+
+- **Erfolgsgeschichten** aus Ihrer Open Science Praxis im Berliner Wissensraum?
+- **Tipps und Tricks** für andere Forschende oder Hinweise auf gute Werkzeugkästen?
+- **Fragen** zu Open Science Themen?
+- **Event-Berichte** oder Projektvorstellungen?
+
+**Wir freuen uns auf Ihre Beiträge!** 
+
+### Wie Sie mitmachen können:
+
+- **GitHub Issues** für Ideen und Feedback: [Hier klicken](https://github.com/scobi2022/openX-blog.github.io/issues)
+- **Pull Requests** für eigene Beiträge (siehe [Contributing Guidelines](../contributing.qmd))
+- **E-Mail** an unser Team: [open-science@berlin-university-alliance.de]
+
+## Bleiben Sie dran!
+
+Folgen Sie uns für regelmäßige Updates:
+
+- **RSS-Feed** für alle neuen Posts
+- **GitHub** für technische Diskussionen  
+- **Newsletter** (coming soon!)
+
+## Weiterführende Links
+
+- [Berlin University Alliance](https://www.berlin-university-alliance.de/)
+- [Über OpenX](https://www.berlin-university-alliance.de/openx/index.html)
+- [Die BUA-OpenX-Mailingliste](https://lists.fu-berlin.de/listinfo/BUA-OpenX-Initiative/)
+
+---
+
+*Dieser Post steht unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Lizenz.*
