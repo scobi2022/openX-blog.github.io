@@ -1,13 +1,20 @@
 ---
-title: "Virtual Research Lab of the research and teaching group Information Management at Humboldt-Universität zu Berlin"
+title: "OpenX-Initiative Blog"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
-  feed: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 6
+  fields: [image, date, title, author, categories, description]
 ---
+
+# Willkommen zum OpenX-Initiative Blog
+
+Der Blog der **OpenX-Initiative** der Berlin University Alliance.
+
+## Neueste Beiträge
+
+<!-- Die Blog-Posts werden hier automatisch angezeigt -->
