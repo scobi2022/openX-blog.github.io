@@ -49,3 +49,37 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
+
+# Erweiterte Navigation mit Kategorien
+navbar:
+  background: primary
+  search: true
+  right:
+    - about.qmd
+    - posts.qmd
+    - text: "Kategorien"
+      menu:
+        - text: "Alle Posts"
+          href: posts.qmd
+        - text: "Botschafter*innen"
+          href: posts.qmd
+        - text: "Strategie"
+          href: posts.qmd
+        - text: "Forschung"
+          href: posts.qmd
+        - text: "Community"
+          href: posts.qmd
+    - contributing.qmd
+    - icon: github
+      href: https://github.com/scobi2022/openX-blog.github.io
+
+# Blog-spezifische Einstellungen mit Kategorien
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid           # oder "default", "table"
+  categories: true
+  sort-ui: true        # Aktiviert Sortier-UI
+  filter-ui: true      # Aktiviert Filter-UI
+  page-size: 12
+  fields: [image, date, title, author, categories, description]
