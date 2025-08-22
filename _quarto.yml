@@ -3,24 +3,49 @@ project:
   output-dir: docs
 
 website:
-  title: "Research Group Information Management @ Humboldt-Universität zu Berlin"
-  site-url: https://infomgnt.org
-  description: "Research Group Information Management @ Humboldt-Universität zu Berlin"
+  title: "Berlin OpenX-Initiative Blog"
+  site-url: https://scobi2022.github.io/openX-blog.github.io
+  description: "Blog der OpenX-Initiative der Berlin University Alliance - Open Science, Open Data, Open Access und Forschungsqualität"
+  
   navbar:
+    background: primary
+    search: true
     right:
       - about.qmd
       - posts.qmd
+      - text: "Contributing"
+        href: contributing.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/scobi2022/openX-blog.github.io
       - icon: rss
         href: index.xml
+
+  sidebar:
+    style: "docked"
+    search: true
 
 format:
   html:
     theme: 
-      light: flatly
-      dark: darkly
+      light: [cosmo, custom.scss]
+      dark: [darkly, custom.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-tools: true
 
 editor: visual
+
+# Für wissenschaftliche Zitationen
+bibliography: references.bib
+csl: apa.csl
+
+# Blog-spezifische Einstellungen
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
