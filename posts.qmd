@@ -1,8 +1,22 @@
 ---
-title: "Blog"
-listing: 
-  contents: posts # all Quarto docs in the `posts` directory will be included on your listing page
-  type: grid # or `default` or `table`; each type has its own set of yaml options to include
-  sort: "date desc" # can also sort on more than one field
-  categories: true # allows you to sort posts by assigned categories 
+title: "Alle Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 12
+  fields: [image, date, title, author, categories, description]
 ---
+
+# OpenX-Initiative Posts
+
+Hier finden Sie alle Beiträge unseres Blogs sortiert nach Datum. Nutzen Sie die Filter- und Suchfunktionen, um spezifische Inhalte zu finden.
+
+## Kategorien
+- **Botschafter*innen** - Community-Aktivitäten und Botschafter-Geschichten
+- **Strategie** - Richtlinien und institutionelle Entwicklungen  
+- **Forschung** - Wissenschaftliche Projekte und Erkenntnisse
+- **Community** - Events, Workshops und Vernetzung
