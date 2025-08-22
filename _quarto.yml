@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Berlin OpenX-Initiative Blog"
-  site-url: https://scobi2022.github.io/openX-blog.github.io
+  site-url: https://scobi2022.github.io/openX-blog
   description: "Blog der OpenX-Initiative der Berlin University Alliance - Open Science, Open Data, Open Access und Forschungsqualität"
   
   navbar:
